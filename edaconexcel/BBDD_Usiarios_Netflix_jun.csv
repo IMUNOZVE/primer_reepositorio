@@ -1,0 +1,1221 @@
+Identificador Usuario,Tipo Suscripción,Ingresos Mensuales,Día Suscripción,Mes Suscripción,Año Suscripción,Día Último Pago,Mes Último Pago,Año Último Pago,País,Edad,Género,Dispositivo,Duración Plan
+1,Básica,11,15,01,23,10,06,24,Australia,28,Masculino,Smartphone,1 Mes
+2,Premium,15,05,09,22,22,06,24,Brasil,35,Femenino,Tablet,3 Meses
+3,Estándar,13,28,02,24,27,06,24,Alemania,42,Masculino,Smart TV,1 Mes
+4,Estándar,12,10,07,23,26,06,24,EEUU,51,Femenino,Ordenador,3 Meses
+5,Básica,11,01,05,24,28,06,24,Italia,33,Masculino,Smartphone,1 Mes
+6,Premium,15,18,03,23,27,06,24,Francia,29,Femenino,Smart TV,1 Mes
+7,Estándar,13,09,12,22,25,06,24,,46,Masculino,Tablet,1 Mes
+8,Básica,11,02,04,24,24,06,24,Australia,39,Femenino,Ordenador,1 Mes
+9,Estándar,12,20,10,23,23,06,24,España,37,Masculino,Smartphone,6 Meses
+10,Premium,15,07,01,24,22,06,24,Reino Unido,44,Femenino,Smart TV,12 Meses
+11,Básica,11,16,05,23,22,06,24,Australia,31,Femenino,Smartphone,1 Mes
+12,Premium,15,23,03,24,28,06,24,Reino Unido,45,Masculino,Tablet,1 Mes
+13,Estándar,13,30,11,22,27,06,24,Canadá,48,Femenino,Ordenador,3 Meses
+14,Básica,10,01,08,23,26,06,24,Alemania,27,Masculino,Smartphone,1 Mes
+15,Estándar,13,09,05,24,28,06,24,Francia,38,Femenino,Smart TV,1 Mes
+16,Premium,15,07,04,23,27,06,24,Alemania,36,Masculino,Tablet,3 Meses
+17,Básica,11,24,01,23,25,06,24,Francia,30,Femenino,Ordenador,12 Meses
+18,Estándar,13,18,10,22,24,06,24,Canadá,43,Masculino,Smartphone,1 Mes
+19,Premium,15,15,02,24,23,06,24,Canadá,32,Femenino,Smart TV,3 Meses
+20,Básica,11,27,05,24,22,06,24,Alemania,41,Masculino,Tablet,1 Mes
+21,Premium,15,10,06,24,22,06,24,Canadá,26,Femenino,Ordenador,12 Meses
+22,Básica,10,22,07,23,28,06,24,Canadá,34,Masculino,Smartphone,1 Mes
+23,Estándar,13,05,12,22,27,06,24,Italia,49,Femenino,Smart TV,6 Meses
+24,Estándar,13,03,04,23,26,06,24,Canadá,31,Masculino,Tablet,3 Meses
+25,Básica,11,14,03,24,28,06,24,EEUU,40,Femenino,Ordenador,1 Mes
+26,Premium,15,12,01,23,27,06,24,Australia,29,Masculino,Smartphone,1 Mes
+27,Básica,10,29,08,23,25,06,24,España,47,Femenino,Smart TV,1 Mes
+28,Estándar,13,27,09,22,24,06,24,Canadá,33,Masculino,Tablet,6 Meses
+29,Premium,15,19,12,23,23,06,24,Australia,36,Femenino,Ordenador,1 Mes
+30,Básica,11,17,05,24,22,06,24,Francia,42,Masculino,Smartphone,6 Meses
+31,Premium,15,03,02,24,22,06,24,,28,Femenino,Smart TV,1 Mes
+32,Básica,10,07,07,23,28,06,24,Brasil,37,Masculino,Tablet,12 Meses
+33,Estándar,13,21,01,23,27,06,24,Alemania,41,Femenino,Ordenador,6 Meses
+34,Estándar,13,25,05,23,26,06,24,Australia,29,Masculino,Smartphone,1 Mes
+35,Básica,11,11,04,24,28,06,24,EEUU,39,Femenino,Smart TV,12 Meses
+36,Premium,15,01,03,23,27,06,24,Francia,35,Masculino,Tablet,12 Meses
+37,Básica,10,14,09,23,25,06,24,España,45,Femenino,Ordenador,6 Meses
+38,Estándar,13,05,11,22,24,06,24,Italia,32,Masculino,Smartphone,1 Mes
+39,Premium,15,28,12,23,23,06,24,Canadá,27,Femenino,Smart TV,1 Mes
+40,Básica,11,07,03,24,22,06,24,Australia,48,Masculino,Tablet,1 Mes
+41,Premium,15,20,01,24,22,06,24,Reino Unido,31,Femenino,Ordenador,3 Meses
+42,Básica,10,15,06,23,28,06,24,España,40,Masculino,Smartphone,3 Meses
+43,Estándar,13,07,02,23,27,06,24,Canadá,36,Femenino,Smart TV,1 Mes
+44,Estándar,13,26,04,23,26,06,24,EEUU,29,Masculino,Tablet,3 Meses
+45,Básica,11,28,01,24,28,06,24,España,43,Femenino,Ordenador,1 Mes
+46,Premium,15,23,02,23,27,06,24,Australia,34,Masculino,Smartphone,6 Meses
+47,Básica,10,05,10,23,25,06,24,Australia,39,Femenino,Smart TV,6 Meses
+48,Estándar,13,15,09,22,24,06,24,Canadá,32,Masculino,Tablet,12 Meses
+49,Premium,14,10,11,23,23,06,24,Francia,28,Femenino,Ordenador,12 Meses
+50,Básica,11,02,06,24,22,06,24,Australia,45,Masculino,Smartphone,1 Mes
+51,Premium,15,27,02,24,22,06,24,Méjico,30,Femenino,Smart TV,6 Meses
+52,Básica,10,29,08,23,28,06,24,Alemania,37,Masculino,Tablet,6 Meses
+53,Estándar,13,13,01,23,27,06,24,Alemania,41,Femenino,Ordenador,1 Mes
+54,Estándar,12,30,06,23,26,06,24,EEUU,29,Masculino,Smartphone,6 Meses
+55,Básica,11,20,04,24,28,06,24,España,39,Femenino,Smart TV,3 Meses
+56,Premium,15,15,03,23,27,06,24,,36,Masculino,Tablet,3 Meses
+57,Básica,10,01,10,23,25,06,24,,46,Femenino,Ordenador,3 Meses
+58,Estándar,13,08,10,22,24,06,24,España,34,Masculino,Smartphone,1 Mes
+59,Premium,15,03,12,23,23,06,24,EEUU,27,Femenino,Smart TV,12 Meses
+60,Básica,11,14,06,24,22,06,24,Reino Unido,42,Masculino,Tablet,3 Meses
+61,Premium,15,08,02,24,22,06,24,Australia,28,Femenino,Ordenador,1 Mes
+62,Básica,10,03,08,23,28,06,24,Australia,37,Masculino,Smartphone,3 Meses
+63,Estándar,13,23,02,23,27,06,24,España,41,Femenino,Smart TV,1 Mes
+64,Estándar,12,20,06,23,26,06,24,Australia,29,Masculino,Tablet,12 Meses
+65,Básica,11,29,03,24,28,06,24,Reino Unido,40,Femenino,Ordenador,12 Meses
+66,Premium,15,30,01,23,27,06,24,Australia,29,Masculino,Smartphone,12 Meses
+67,Básica,10,18,09,23,25,06,24,Canadá,47,Femenino,Smart TV,3 Meses
+68,Estándar,13,09,11,22,24,06,24,Reino Unido,33,Masculino,Tablet,1 Mes
+69,Premium,15,23,12,23,23,06,24,Australia,36,Femenino,Ordenador,1 Mes
+70,Básica,11,08,05,24,22,06,24,Canadá,41,Masculino,Smartphone,6 Meses
+71,Básica,11,26,01,23,20,06,24,Alemania,27,Masculino,Smartphone,12 Meses
+72,Básica,10,11,10,23,22,06,24,Brasil,31,Femenino,Smartphone,12 Meses
+73,Estándar,12,27,09,23,26,06,24,Australia,28,Femenino,Ordenador,12 Meses
+74,Premium,15,14,12,23,25,06,24,Alemania,41,Femenino,Smartphone,6 Meses
+75,Básica,11,28,05,23,26,06,24,Reino Unido,28,Femenino,Ordenador,1 Mes
+76,Básica,11,29,12,22,26,06,24,EEUU,51,Femenino,Ordenador,1 Mes
+77,Premium,15,25,12,23,23,06,24,Alemania,45,Femenino,Smartphone,1 Mes
+78,Estándar,12,18,11,23,28,06,24,Canadá,49,Masculino,Tablet,6 Meses
+79,Estándar,13,03,12,23,25,06,24,Australia,43,Femenino,Ordenador,3 Meses
+80,Básica,10,08,11,23,22,06,24,Canadá,43,Masculino,Tablet,12 Meses
+81,Premium,15,11,01,24,24,06,24,Francia,37,Masculino,Tablet,1 Mes
+82,Estándar,13,07,12,23,28,06,24,Canadá,35,Masculino,Ordenador,1 Mes
+83,Básica,10,20,10,23,26,06,24,Italia,46,Femenino,Smartphone,1 Mes
+84,Estándar,13,13,04,24,25,06,24,Canadá,32,Masculino,Smartphone,3 Meses
+85,Premium,15,06,04,24,27,06,24,Italia,37,Femenino,Ordenador,6 Meses
+86,Básica,11,04,03,23,25,06,24,Reino Unido,29,Femenino,Smartphone,12 Meses
+87,Premium,15,28,12,22,23,06,24,Australia,45,Masculino,Smart TV,1 Mes
+88,Estándar,12,27,09,23,28,06,24,España,47,Masculino,Tablet,1 Mes
+89,Básica,10,20,10,23,26,06,24,EEUU,39,Masculino,Smartphone,6 Meses
+90,Estándar,13,03,02,24,23,06,24,Alemania,49,Femenino,Smartphone,3 Meses
+91,Premium,14,03,10,23,23,06,24,EEUU,39,Masculino,Tablet,12 Meses
+92,Básica,11,05,01,23,28,06,24,Australia,39,Masculino,Smart TV,1 Mes
+93,Estándar,13,05,02,23,26,06,24,Alemania,35,Masculino,Smartphone,1 Mes
+94,Premium,15,19,03,23,25,06,24,Australia,44,Masculino,Smartphone,6 Meses
+95,Básica,11,28,02,23,25,06,24,Francia,34,Masculino,Ordenador,6 Meses
+96,Premium,14,26,07,23,24,06,24,EEUU,32,Masculino,Ordenador,3 Meses
+97,Básica,11,05,03,23,24,06,24,Australia,29,Femenino,Tablet,1 Mes
+98,Estándar,13,07,03,23,28,06,24,Alemania,31,Femenino,Tablet,12 Meses
+99,Estándar,13,13,01,24,24,06,24,Francia,29,Femenino,Tablet,6 Meses
+100,Básica,11,22,01,24,25,06,24,Canadá,35,Masculino,Ordenador,3 Meses
+101,Premium,14,17,10,23,24,06,24,Reino Unido,46,Femenino,Tablet,1 Mes
+102,Básica,11,29,03,23,28,06,24,Australia,31,Masculino,Tablet,3 Meses
+103,Estándar,13,04,04,23,26,06,24,Méjico,36,Masculino,Ordenador,6 Meses
+104,Premium,14,08,06,23,25,06,24,EEUU,38,Masculino,Ordenador,3 Meses
+105,Básica,11,04,03,23,27,06,24,Reino Unido,46,Femenino,Ordenador,3 Meses
+106,Premium,15,18,03,23,24,06,24,Alemania,49,Femenino,Tablet,12 Meses
+107,Básica,11,07,03,23,24,06,24,Reino Unido,29,Femenino,Smart TV,1 Mes
+108,Estándar,13,24,05,23,25,06,24,Australia,27,Femenino,Smart TV,3 Meses
+109,Estándar,13,08,02,24,25,06,24,,35,Femenino,Tablet,12 Meses
+110,Básica,11,26,01,24,24,06,24,Australia,37,Femenino,Ordenador,3 Meses
+111,Premium,14,14,07,23,27,06,24,Italia,40,Masculino,Tablet,1 Mes
+112,Básica,10,01,06,23,28,06,24,EEUU,33,Femenino,Ordenador,1 Mes
+113,Estándar,13,07,05,23,26,06,24,,37,Masculino,Tablet,1 Mes
+114,Premium,14,18,11,23,25,06,24,EEUU,48,Masculino,Smartphone,6 Meses
+115,Básica,11,05,04,23,25,06,24,Brasil,50,Femenino,Ordenador,3 Meses
+116,Premium,15,19,05,23,23,06,24,EEUU,45,Femenino,Smart TV,1 Mes
+117,Básica,11,30,10,22,23,06,24,Australia,40,Femenino,Tablet,1 Mes
+118,Estándar,12,07,08,23,27,06,24,España,33,Masculino,Smartphone,3 Meses
+119,Estándar,12,20,09,23,25,06,24,EEUU,44,Femenino,Smartphone,6 Meses
+120,Básica,10,18,10,23,25,06,24,Australia,30,Femenino,Smart TV,1 Mes
+121,Premium,14,03,10,23,24,06,24,Reino Unido,27,Masculino,Smart TV,1 Mes
+122,Básica,11,03,05,23,28,06,24,Brasil,51,Masculino,Smart TV,6 Meses
+123,Estándar,13,25,05,23,26,06,24,Francia,49,Femenino,Smartphone,1 Mes
+124,Premium,14,05,11,23,25,06,24,Brasil,43,Masculino,Ordenador,6 Meses
+125,Básica,10,21,08,23,24,06,24,Australia,42,Masculino,Smartphone,3 Meses
+126,Premium,14,21,09,23,23,06,24,Australia,45,Masculino,Ordenador,1 Mes
+127,Básica,11,23,11,22,23,06,24,Alemania,36,Masculino,Smartphone,1 Mes
+128,Estándar,12,06,10,23,27,06,24,Italia,48,Masculino,Smartphone,1 Mes
+129,Estándar,12,05,11,23,23,06,24,Canadá,38,Masculino,Smart TV,12 Meses
+130,Básica,11,07,01,24,23,06,24,Reino Unido,43,Femenino,Tablet,3 Meses
+131,Premium,14,06,10,23,23,06,24,Australia,47,Masculino,Ordenador,6 Meses
+132,Básica,10,24,06,23,28,06,24,Reino Unido,48,Femenino,Smart TV,1 Mes
+133,Estándar,12,24,06,23,26,06,24,Australia,47,Masculino,Smart TV,6 Meses
+134,Premium,14,05,11,23,25,06,24,Canadá,32,Masculino,Tablet,1 Mes
+135,Básica,10,18,07,23,26,06,24,Italia,47,Femenino,Smart TV,12 Meses
+136,Premium,14,13,09,23,26,06,24,Francia,41,Femenino,Smart TV,1 Mes
+137,Básica,10,10,08,23,22,06,24,Reino Unido,49,Masculino,Ordenador,3 Meses
+138,Estándar,12,21,09,23,23,06,24,Reino Unido,28,Masculino,Ordenador,1 Mes
+139,Estándar,13,24,03,24,23,06,24,Canadá,40,Masculino,Smartphone,1 Mes
+140,Básica,11,02,05,23,23,06,24,Alemania,43,Femenino,Smartphone,12 Meses
+141,Premium,15,11,05,23,27,06,24,EEUU,42,Masculino,Smartphone,3 Meses
+142,Básica,10,10,06,23,22,06,24,Reino Unido,28,Masculino,Smart TV,1 Mes
+143,Estándar,12,31,08,23,24,06,24,EEUU,30,Femenino,Tablet,1 Mes
+144,Premium,14,17,08,23,26,06,24,Italia,33,Masculino,Smart TV,3 Meses
+145,Básica,11,05,05,23,26,06,24,Italia,35,Femenino,Ordenador,6 Meses
+146,Básica,10,06,10,23,25,06,24,Australia,38,Masculino,Tablet,1 Mes
+147,Básica,10,08,11,23,24,06,24,Reino Unido,49,Femenino,Ordenador,3 Meses
+148,Estándar,12,27,11,23,28,06,24,Canadá,39,Femenino,Smartphone,3 Meses
+149,Premium,14,17,11,23,27,06,24,Canadá,46,Femenino,Smart TV,1 Mes
+150,Básica,11,15,12,23,23,06,24,Australia,47,Femenino,Ordenador,6 Meses
+151,Básica,11,12,12,23,25,06,24,,30,Femenino,Ordenador,1 Mes
+152,Premium,14,23,11,23,27,06,24,Alemania,33,Femenino,Tablet,3 Meses
+153,Estándar,13,25,12,23,24,06,24,EEUU,47,Masculino,Smartphone,1 Mes
+154,Estándar,13,11,03,24,27,06,24,Brasil,27,Masculino,Ordenador,12 Meses
+155,Básica,10,18,11,23,27,06,24,Alemania,28,Masculino,Tablet,6 Meses
+156,Premium,14,19,08,23,25,06,24,Canadá,47,Masculino,Smartphone,1 Mes
+157,Estándar,12,27,09,23,24,06,24,Reino Unido,30,Masculino,Ordenador,1 Mes
+158,Básica,10,19,10,23,28,06,24,EEUU,47,Femenino,Smartphone,1 Mes
+159,Estándar,13,21,12,23,26,06,24,Brasil,51,Femenino,Smart TV,3 Meses
+160,Premium,14,27,10,23,25,06,24,EEUU,39,Masculino,Smartphone,1 Mes
+161,Básica,10,23,10,23,24,06,24,Francia,45,Masculino,Tablet,3 Meses
+162,Premium,15,19,04,23,25,06,24,EEUU,31,Masculino,Ordenador,6 Meses
+163,Estándar,13,05,04,23,26,06,24,Alemania,29,Masculino,Ordenador,1 Mes
+164,Básica,11,11,03,23,26,06,24,Australia,42,Femenino,Tablet,1 Mes
+165,Estándar,13,25,05,23,25,06,24,Australia,49,Masculino,Tablet,6 Meses
+166,Premium,15,16,04,23,26,06,24,EEUU,42,Masculino,Ordenador,1 Mes
+167,Básica,11,07,04,23,24,06,24,Brasil,29,Masculino,Smartphone,1 Mes
+168,Estándar,13,11,12,23,28,06,24,Italia,29,Masculino,Tablet,6 Meses
+169,Premium,15,20,01,24,26,06,24,Italia,49,Masculino,Tablet,6 Meses
+170,Básica,11,12,01,24,25,06,24,Canadá,32,Masculino,Ordenador,3 Meses
+171,Premium,15,29,04,23,24,06,24,EEUU,35,Femenino,Tablet,1 Mes
+172,Básica,11,27,04,23,26,06,24,España,39,Femenino,Smartphone,12 Meses
+173,Estándar,12,03,06,23,25,06,24,Italia,40,Masculino,Smartphone,3 Meses
+174,Estándar,13,23,04,23,25,06,24,Francia,39,Femenino,Tablet,3 Meses
+175,Básica,11,22,04,23,26,06,24,Francia,47,Femenino,Ordenador,1 Mes
+176,Premium,15,12,04,23,25,06,24,,37,Femenino,Smart TV,6 Meses
+177,Básica,11,23,05,23,26,06,24,Alemania,27,Femenino,Smartphone,1 Mes
+178,Estándar,12,19,10,23,26,06,24,España,49,Femenino,Ordenador,3 Meses
+179,Premium,15,03,12,23,26,06,24,,30,Femenino,Tablet,3 Meses
+180,Básica,10,26,09,23,25,06,24,Australia,36,Masculino,Ordenador,6 Meses
+181,Premium,14,16,06,23,27,06,24,Brasil,33,Masculino,Smartphone,1 Mes
+182,Básica,11,16,05,23,25,06,24,Italia,30,Femenino,Ordenador,1 Mes
+183,Estándar,13,26,05,23,26,06,24,Canadá,36,Femenino,Tablet,6 Meses
+184,Estándar,13,26,04,23,25,06,24,Australia,28,Femenino,Ordenador,1 Mes
+185,Básica,11,12,05,23,25,06,24,Canadá,47,Femenino,Tablet,1 Mes
+186,Premium,15,01,03,23,25,06,24,EEUU,33,Femenino,Smart TV,12 Meses
+187,Básica,10,10,07,23,24,06,24,Canadá,49,Femenino,Ordenador,6 Meses
+188,Estándar,12,16,07,23,27,06,24,Canadá,44,Femenino,Smart TV,1 Mes
+189,Premium,14,02,09,23,26,06,24,EEUU,47,Masculino,Smart TV,1 Mes
+190,Básica,10,18,09,23,26,06,24,Australia,37,Femenino,Tablet,1 Mes
+191,Premium,14,08,07,23,25,06,24,Reino Unido,46,Masculino,Ordenador,3 Meses
+192,Básica,10,26,06,23,27,06,24,Canadá,50,Femenino,Smartphone,6 Meses
+193,Estándar,12,05,08,23,25,06,24,Reino Unido,50,Masculino,Ordenador,1 Mes
+194,Estándar,12,19,08,23,27,06,24,Reino Unido,37,Masculino,Ordenador,12 Meses
+195,Básica,10,26,08,23,24,06,24,EEUU,50,Femenino,Smartphone,12 Meses
+196,Premium,14,09,06,23,24,06,24,Italia,45,Femenino,Smart TV,6 Meses
+197,Básica,10,27,09,23,23,06,24,Alemania,45,Masculino,Tablet,1 Mes
+198,Estándar,12,18,10,23,27,06,24,Australia,49,Femenino,Ordenador,12 Meses
+199,Premium,14,31,10,23,25,06,24,Reino Unido,39,Femenino,Tablet,1 Mes
+200,Básica,10,13,10,23,25,06,24,EEUU,45,Femenino,Tablet,6 Meses
+201,Premium,14,04,07,23,27,06,24,EEUU,49,Femenino,Smart TV,1 Mes
+202,Básica,10,26,06,23,27,06,24,Alemania,31,Femenino,Tablet,3 Meses
+203,Estándar,12,31,07,23,24,06,24,España,42,Femenino,Smart TV,1 Mes
+204,Estándar,12,27,07,23,24,06,24,Canadá,37,Masculino,Smartphone,6 Meses
+205,Básica,10,30,07,23,25,06,24,EEUU,30,Masculino,Smart TV,1 Mes
+206,Premium,14,06,08,23,25,06,24,Alemania,40,Masculino,Smartphone,12 Meses
+207,Básica,10,16,09,23,24,06,24,Alemania,45,Femenino,Smartphone,1 Mes
+208,Estándar,13,05,01,24,23,06,24,España,36,Femenino,Tablet,1 Mes
+209,Premium,15,10,12,23,24,06,24,Italia,41,Masculino,Ordenador,12 Meses
+210,Básica,10,22,11,23,26,06,24,Reino Unido,49,Femenino,Ordenador,12 Meses
+211,Premium,14,15,11,23,27,06,24,EEUU,40,Masculino,Tablet,1 Mes
+212,Básica,10,28,10,23,26,06,24,,36,Masculino,Smart TV,6 Meses
+213,Estándar,12,08,09,23,24,06,24,EEUU,49,Femenino,Smart TV,12 Meses
+214,Estándar,12,30,06,23,28,06,24,,43,Femenino,Ordenador,1 Mes
+215,Básica,10,02,09,23,27,06,24,Australia,50,Femenino,Smartphone,1 Mes
+216,Premium,14,08,10,23,24,06,24,Italia,51,Femenino,Smart TV,6 Meses
+217,Básica,10,13,11,23,25,06,24,EEUU,44,Masculino,Smart TV,6 Meses
+218,Estándar,12,15,11,23,28,06,24,Australia,27,Masculino,Tablet,1 Mes
+219,Premium,14,16,11,23,25,06,24,EEUU,46,Femenino,Smartphone,1 Mes
+220,Básica,10,26,11,23,27,06,24,Italia,29,Masculino,Tablet,1 Mes
+221,Básica,10,26,11,23,25,06,24,España,47,Masculino,Smartphone,1 Mes
+222,Básica,11,12,12,23,26,06,24,Alemania,48,Femenino,Smartphone,1 Mes
+223,Estándar,13,08,01,24,25,06,24,EEUU,34,Femenino,Smartphone,3 Meses
+224,Premium,14,27,11,23,29,06,24,Alemania,40,Femenino,Smartphone,1 Mes
+225,Básica,10,11,10,23,27,06,24,Canadá,48,Femenino,Smartphone,12 Meses
+226,Básica,10,27,09,23,26,06,24,Italia,35,Masculino,Smartphone,1 Mes
+227,Premium,14,30,09,23,24,06,24,Italia,87,Femenino,Smartphone,6 Meses
+228,Estándar,12,04,11,23,27,06,24,Alemania,39,Masculino,Smart TV,6 Meses
+229,Estándar,12,04,11,23,27,06,24,EEUU,29,Masculino,Smartphone,1 Mes
+230,Básica,10,30,10,23,26,06,24,Australia,51,Masculino,Ordenador,3 Meses
+231,Premium,14,29,10,23,24,06,24,Francia,43,Masculino,Smartphone,6 Meses
+232,Estándar,12,30,08,23,27,06,24,EEUU,28,Masculino,Smartphone,1 Mes
+233,Básica,10,07,07,23,26,06,24,Canadá,50,Femenino,Smart TV,6 Meses
+234,Estándar,13,26,05,23,27,06,24,Australia,44,Femenino,Ordenador,1 Mes
+235,Premium,15,17,05,23,25,06,24,,50,Masculino,Ordenador,1 Mes
+236,Básica,11,08,05,23,26,06,24,Alemania,39,Femenino,Smartphone,3 Meses
+237,Premium,14,07,07,23,25,06,24,Alemania,46,Femenino,Tablet,1 Mes
+238,Estándar,12,17,07,23,28,06,24,Reino Unido,48,Masculino,Smartphone,1 Mes
+239,Básica,11,23,12,23,26,06,24,Canadá,38,Masculino,Smart TV,6 Meses
+240,Estándar,12,27,06,23,26,06,24,EEUU,38,Masculino,Smartphone,1 Mes
+241,Premium,15,31,05,23,27,06,24,EEUU,47,Masculino,Ordenador,1 Mes
+242,Básica,10,02,06,23,26,06,24,Reino Unido,37,Masculino,Ordenador,6 Meses
+243,Estándar,13,25,05,23,27,06,24,Canadá,33,Masculino,Ordenador,6 Meses
+244,Premium,15,26,04,23,26,06,24,Italia,28,Masculino,Smartphone,1 Mes
+245,Básica,11,20,04,23,26,06,24,Australia,47,Masculino,Smart TV,6 Meses
+246,Premium,15,03,05,23,25,06,24,Brasil,38,Femenino,Smartphone,12 Meses
+247,Básica,10,07,07,23,27,06,24,Alemania,27,Masculino,Smart TV,1 Mes
+248,Estándar,12,15,09,23,26,06,24,España,34,Masculino,Smartphone,1 Mes
+249,Estándar,12,16,09,23,27,06,24,EEUU,42,Femenino,Smartphone,1 Mes
+250,Básica,10,09,08,23,26,06,24,Francia,28,Masculino,Ordenador,1 Mes
+251,Premium,14,25,06,23,27,06,24,Alemania,30,Masculino,Ordenador,3 Meses
+252,Básica,11,30,05,23,26,06,24,Australia,38,Femenino,Smartphone,1 Mes
+253,Estándar,13,21,05,23,25,06,24,Francia,45,Femenino,Tablet,12 Meses
+254,Premium,15,20,05,23,27,06,24,Reino Unido,48,Femenino,Smart TV,3 Meses
+255,Básica,11,20,05,23,26,06,24,EEUU,46,Femenino,Smart TV,3 Meses
+256,Premium,15,30,05,23,26,06,24,Francia,34,Masculino,Tablet,1 Mes
+257,Básica,10,17,06,23,25,06,24,Francia,46,Masculino,Ordenador,6 Meses
+258,Estándar,12,16,07,23,28,06,24,Francia,41,Femenino,Smartphone,1 Mes
+259,Estándar,12,05,08,23,26,06,24,España,28,Masculino,Smartphone,6 Meses
+260,Básica,10,17,07,23,26,06,24,Francia,27,Femenino,Smartphone,3 Meses
+261,Premium,14,04,07,23,25,06,24,EEUU,27,Femenino,Smart TV,12 Meses
+262,Básica,10,13,07,23,26,06,24,EEUU,28,Femenino,Tablet,1 Mes
+263,Estándar,12,25,07,23,24,06,24,Canadá,46,Masculino,Smartphone,1 Mes
+264,Premium,14,09,08,23,27,06,24,Australia,51,Masculino,Smartphone,12 Meses
+265,Básica,10,05,08,23,25,06,24,,32,Femenino,Smart TV,1 Mes
+266,Premium,14,17,08,23,26,06,24,Canadá,44,Masculino,Tablet,1 Mes
+267,Básica,10,08,09,23,27,06,24,Australia,44,Femenino,Ordenador,3 Meses
+268,Estándar,12,16,10,23,28,06,24,Francia,34,Femenino,Smart TV,6 Meses
+269,Estándar,12,15,10,23,25,06,24,EEUU,29,Femenino,Ordenador,1 Mes
+270,Básica,10,04,09,23,25,06,24,Canadá,47,Masculino,Smart TV,1 Mes
+271,Premium,14,20,08,23,26,06,24,Canadá,41,Masculino,Ordenador,1 Mes
+272,Básica,10,10,08,23,26,06,24,Francia,36,Femenino,Smartphone,1 Mes
+273,Estándar,12,02,08,23,25,06,24,Australia,28,Femenino,Ordenador,1 Mes
+274,Premium,14,01,08,23,24,06,24,Méjico,27,Femenino,Tablet,12 Meses
+275,Básica,10,06,08,23,25,06,24,Alemania,34,Femenino,Ordenador,3 Meses
+276,Premium,14,09,08,23,25,06,24,Australia,34,Femenino,Smart TV,6 Meses
+277,Básica,10,12,09,23,26,06,24,EEUU,37,Femenino,Tablet,3 Meses
+278,Estándar,12,27,09,23,26,06,24,Italia,34,Femenino,Ordenador,3 Meses
+279,Estándar,12,12,11,23,24,06,24,Australia,50,Femenino,Ordenador,3 Meses
+280,Básica,10,13,11,23,27,06,24,Francia,34,Femenino,Ordenador,3 Meses
+281,Premium,14,02,11,23,28,06,24,,33,Femenino,Smart TV,12 Meses
+282,Básica,10,30,10,23,25,06,24,Australia,33,Masculino,Smart TV,6 Meses
+283,Estándar,12,30,06,23,26,06,24,Australia,46,Masculino,Smartphone,12 Meses
+284,Premium,14,04,08,23,28,06,24,España,39,Femenino,Smartphone,6 Meses
+285,Básica,10,01,09,23,27,06,24,Italia,42,Femenino,Ordenador,1 Mes
+286,Premium,14,14,10,23,27,06,24,Italia,50,Femenino,Ordenador,1 Mes
+287,Básica,10,16,10,23,26,06,24,EEUU,43,Masculino,Smartphone,1 Mes
+288,Estándar,12,20,10,23,28,06,24,,51,Masculino,Smart TV,1 Mes
+289,Estándar,12,20,11,23,25,06,24,Reino Unido,34,Femenino,Smart TV,1 Mes
+290,Básica,10,25,11,23,30,06,24,Francia,48,Masculino,Smartphone,3 Meses
+291,Premium,15,04,12,23,27,06,24,Francia,29,Femenino,Tablet,12 Meses
+292,Básica,11,12,12,23,27,06,24,Canadá,43,Femenino,Ordenador,1 Mes
+293,Estándar,13,09,12,23,25,06,24,Reino Unido,39,Femenino,Ordenador,6 Meses
+294,Premium,14,15,10,23,29,06,24,Méjico,50,Masculino,Ordenador,1 Mes
+295,Básica,10,03,10,23,27,06,24,Australia,45,Masculino,Ordenador,12 Meses
+296,Básica,10,01,10,23,27,06,24,Reino Unido,48,Femenino,Tablet,6 Meses
+297,Básica,10,02,11,23,24,06,24,España,40,Masculino,Smartphone,1 Mes
+298,Estándar,12,03,11,23,27,06,24,Australia,41,Masculino,Tablet,12 Meses
+299,Premium,14,30,10,23,27,06,24,Italia,27,Masculino,Smartphone,12 Meses
+300,Básica,10,30,10,23,28,06,24,Reino Unido,36,Masculino,Ordenador,1 Mes
+301,Básica,10,27,09,23,24,06,24,Canadá,36,Femenino,Ordenador,6 Meses
+302,Premium,14,14,09,23,27,06,24,Canadá,44,Masculino,Tablet,1 Mes
+303,Estándar,12,11,06,23,26,06,24,EEUU,45,Masculino,Tablet,1 Mes
+304,Estándar,12,11,06,23,29,06,24,EEUU,33,Femenino,Smartphone,3 Meses
+305,Básica,11,24,05,23,26,06,24,Australia,47,Masculino,Smart TV,1 Mes
+306,Premium,14,06,07,23,27,06,24,Australia,45,Masculino,Tablet,1 Mes
+307,Estándar,12,08,07,23,28,06,24,España,29,Femenino,Smart TV,1 Mes
+308,Básica,10,27,10,23,27,06,24,Italia,31,Masculino,Smart TV,3 Meses
+309,Estándar,12,09,08,23,28,06,24,Francia,31,Masculino,Smartphone,6 Meses
+310,Premium,14,14,06,23,26,06,24,EEUU,49,Femenino,Smartphone,1 Mes
+311,Básica,10,07,06,23,27,06,24,Reino Unido,29,Femenino,Smartphone,12 Meses
+312,Premium,15,27,05,23,26,06,24,Australia,50,Masculino,Ordenador,1 Mes
+313,Estándar,13,27,05,23,27,06,24,EEUU,36,Femenino,Ordenador,3 Meses
+314,Básica,11,21,04,23,26,06,24,Canadá,28,Masculino,Ordenador,1 Mes
+315,Estándar,13,28,04,23,27,06,24,España,47,Femenino,Smart TV,6 Meses
+316,Premium,15,27,05,23,25,06,24,EEUU,50,Femenino,Ordenador,1 Mes
+317,Básica,10,25,08,23,28,06,24,Australia,44,Femenino,Tablet,3 Meses
+318,Estándar,12,02,09,23,27,06,24,Méjico,39,Femenino,Ordenador,1 Mes
+319,Premium,14,22,08,23,26,06,24,,32,Femenino,Smartphone,1 Mes
+320,Básica,10,02,08,23,27,06,24,España,30,Femenino,Ordenador,1 Mes
+321,Premium,14,22,06,23,27,06,24,EEUU,33,Femenino,Smartphone,3 Meses
+322,Básica,10,04,06,23,27,06,24,Australia,44,Masculino,Smartphone,1 Mes
+323,Estándar,13,31,05,23,26,06,24,Australia,40,Masculino,Smartphone,3 Meses
+324,Estándar,13,22,05,23,27,06,24,Francia,32,Masculino,Tablet,1 Mes
+325,Básica,11,29,05,23,27,06,24,España,32,Masculino,Tablet,6 Meses
+326,Premium,14,11,06,23,27,06,24,Australia,30,Masculino,Smartphone,6 Meses
+327,Básica,10,06,07,23,26,06,24,Alemania,32,Femenino,Smartphone,6 Meses
+328,Estándar,12,26,07,23,27,06,24,Alemania,45,Femenino,Tablet,12 Meses
+329,Premium,14,22,07,23,25,06,24,Francia,35,Femenino,Smart TV,3 Meses
+330,Básica,10,06,07,23,26,06,24,Méjico,40,Femenino,Smart TV,1 Mes
+331,Premium,14,08,07,23,26,06,24,Australia,29,Femenino,Tablet,6 Meses
+332,Básica,10,22,07,23,26,06,24,Canadá,31,Masculino,Tablet,1 Mes
+333,Estándar,12,24,07,23,27,06,24,Reino Unido,43,Femenino,Smart TV,12 Meses
+334,Estándar,12,28,07,23,28,06,24,Italia,34,Masculino,Smart TV,6 Meses
+335,Básica,10,11,08,23,25,06,24,Brasil,47,Femenino,Tablet,12 Meses
+336,Premium,14,02,09,23,26,06,24,Alemania,35,Masculino,Ordenador,3 Meses
+337,Básica,10,11,10,23,27,06,24,Francia,36,Masculino,Ordenador,3 Meses
+338,Estándar,12,15,10,23,27,06,24,Australia,33,Masculino,Tablet,3 Meses
+339,Premium,14,05,10,23,25,06,24,Australia,30,Femenino,Ordenador,12 Meses
+340,Básica,10,13,09,23,25,06,24,Alemania,44,Femenino,Smartphone,1 Mes
+341,Premium,14,24,08,23,26,06,24,Francia,44,Femenino,Ordenador,3 Meses
+342,Básica,10,09,08,23,26,06,24,Canadá,41,Femenino,Ordenador,3 Meses
+343,Estándar,12,06,08,23,25,06,24,Reino Unido,46,Masculino,Smart TV,6 Meses
+344,Estándar,12,07,08,23,26,06,24,Italia,42,Femenino,Smartphone,12 Meses
+345,Básica,10,08,08,23,25,06,24,España,48,Femenino,Smart TV,1 Mes
+346,Premium,14,31,08,23,26,06,24,Francia,37,Masculino,Tablet,1 Mes
+347,Básica,10,21,09,23,28,06,24,Alemania,29,Masculino,Smartphone,1 Mes
+348,Estándar,12,05,10,23,26,06,24,Canadá,30,Masculino,Smart TV,6 Meses
+349,Premium,14,02,11,23,26,06,24,Francia,28,Masculino,Smartphone,12 Meses
+350,Básica,10,02,11,23,28,06,24,Australia,44,Femenino,Smartphone,1 Mes
+351,Premium,14,02,11,23,28,06,24,Reino Unido,34,Femenino,Smart TV,12 Meses
+352,Básica,10,20,09,23,26,06,24,Reino Unido,38,Masculino,Ordenador,6 Meses
+353,Estándar,12,10,08,23,26,06,24,Canadá,34,Femenino,Smartphone,12 Meses
+354,Estándar,12,16,08,23,28,06,24,Canadá,40,Femenino,Ordenador,12 Meses
+355,Básica,10,12,10,23,27,06,24,Reino Unido,32,Femenino,Tablet,1 Mes
+356,Premium,14,14,10,23,30,06,24,Reino Unido,38,Masculino,Smart TV,1 Mes
+357,Básica,10,18,10,23,26,06,24,Francia,39,Masculino,Smartphone,1 Mes
+358,Estándar,12,11,11,23,28,06,24,Reino Unido,34,Femenino,Smart TV,6 Meses
+359,Premium,14,20,11,23,26,06,24,España,41,Masculino,Smartphone,12 Meses
+360,Básica,10,21,11,23,30,06,24,Alemania,43,Femenino,Tablet,3 Meses
+361,Premium,14,25,11,23,28,06,24,Canadá,36,Femenino,Ordenador,3 Meses
+362,Básica,11,08,12,23,27,06,24,Reino Unido,31,Masculino,Ordenador,1 Mes
+363,Estándar,12,01,11,23,25,06,24,Brasil,47,Femenino,Smart TV,12 Meses
+364,Estándar,12,12,10,23,29,06,24,Alemania,48,Masculino,Smart TV,12 Meses
+365,Básica,10,13,10,23,27,06,24,Alemania,36,Masculino,Ordenador,1 Mes
+366,Premium,14,17,10,23,29,06,24,,41,Masculino,Smart TV,12 Meses
+367,Básica,10,23,10,23,25,06,24,EEUU,32,Masculino,Ordenador,1 Mes
+368,Estándar,12,24,10,23,28,06,24,España,28,Masculino,Smartphone,12 Meses
+369,Premium,14,25,10,23,27,06,24,Australia,46,Femenino,Smartphone,3 Meses
+370,Básica,10,22,10,23,29,06,24,EEUU,46,Femenino,Smartphone,1 Mes
+371,Básica,10,30,09,23,25,06,24,Canadá,47,Masculino,Tablet,6 Meses
+372,Básica,10,06,09,23,27,06,24,Canadá,31,Femenino,Tablet,3 Meses
+373,Estándar,12,18,06,23,26,06,24,Francia,44,Femenino,Tablet,6 Meses
+374,Premium,14,12,06,23,28,06,24,Australia,39,Femenino,Ordenador,12 Meses
+375,Básica,10,17,06,23,28,06,24,Australia,44,Femenino,Ordenador,3 Meses
+376,Básica,10,20,06,23,27,06,24,,39,Femenino,Smartphone,3 Meses
+377,Premium,14,27,08,23,28,06,24,EEUU,37,Masculino,Ordenador,6 Meses
+378,Estándar,12,13,08,23,27,06,24,Reino Unido,47,Femenino,Ordenador,3 Meses
+379,Estándar,12,12,08,23,28,06,24,EEUU,46,Femenino,Smart TV,1 Mes
+380,Básica,10,05,08,23,27,06,24,EEUU,27,Femenino,Smart TV,1 Mes
+381,Premium,14,14,07,23,27,06,24,Francia,43,Femenino,Ordenador,6 Meses
+382,Estándar,12,07,06,23,26,06,24,Australia,51,Masculino,Smart TV,6 Meses
+383,Básica,10,01,06,23,27,06,24,España,49,Masculino,Smart TV,1 Mes
+384,Estándar,13,19,05,23,28,06,24,Australia,35,Femenino,Smartphone,6 Meses
+385,Premium,15,22,05,23,27,06,24,EEUU,44,Masculino,Smartphone,1 Mes
+386,Básica,10,11,07,23,26,06,24,Australia,48,Masculino,Tablet,1 Mes
+387,Premium,14,19,07,23,28,06,24,Francia,39,Femenino,Tablet,3 Meses
+388,Estándar,12,21,07,23,28,06,24,Canadá,38,Masculino,Ordenador,1 Mes
+389,Básica,10,02,08,23,26,06,24,EEUU,45,Masculino,Smart TV,12 Meses
+390,Estándar,12,03,07,23,28,06,24,Australia,43,Femenino,Ordenador,1 Mes
+391,Premium,14,23,06,23,27,06,24,España,42,Masculino,Ordenador,1 Mes
+392,Básica,10,03,06,23,28,06,24,Alemania,28,Masculino,Smart TV,6 Meses
+393,Estándar,12,03,06,23,26,06,24,EEUU,40,Masculino,Tablet,1 Mes
+394,Premium,15,30,05,23,27,06,24,Australia,41,Femenino,Tablet,6 Meses
+395,Básica,10,05,06,23,26,06,24,Canadá,45,Femenino,Ordenador,1 Mes
+396,Premium,14,10,06,23,27,06,24,España,30,Femenino,Smartphone,12 Meses
+397,Básica,10,14,07,23,26,06,24,Francia,31,Femenino,Smartphone,1 Mes
+398,Estándar,12,15,07,23,27,06,24,EEUU,51,Femenino,Tablet,12 Meses
+399,Estándar,12,14,07,23,25,06,24,EEUU,44,Femenino,Smartphone,6 Meses
+400,Básica,10,13,07,23,27,06,24,Méjico,49,Masculino,Ordenador,1 Mes
+401,Premium,14,17,07,23,26,06,24,Australia,47,Femenino,Ordenador,1 Mes
+402,Básica,10,21,07,23,26,06,24,EEUU,42,Masculino,Smartphone,1 Mes
+403,Estándar,12,23,07,23,28,06,24,EEUU,88,Masculino,Smartphone,1 Mes
+404,Premium,14,01,08,23,28,06,24,Australia,28,Masculino,Smartphone,1 Mes
+405,Básica,10,06,08,23,26,06,24,Alemania,49,Femenino,Tablet,12 Meses
+406,Premium,14,19,08,23,26,06,24,Australia,32,Femenino,Smartphone,12 Meses
+407,Básica,10,26,08,23,27,06,24,Italia,37,Femenino,Tablet,6 Meses
+408,Estándar,12,27,09,23,27,06,24,Alemania,37,Femenino,Tablet,12 Meses
+409,Estándar,12,15,09,23,25,06,24,Francia,37,Masculino,Smartphone,6 Meses
+410,Básica,10,02,09,23,25,06,24,Australia,37,Masculino,Smart TV,1 Mes
+411,Premium,14,03,09,23,26,06,24,Canadá,48,Femenino,Tablet,12 Meses
+412,Básica,10,03,09,23,26,06,24,EEUU,47,Masculino,Ordenador,1 Mes
+413,Estándar,12,24,08,23,26,06,24,España,41,Femenino,Smartphone,3 Meses
+414,Premium,14,21,08,23,27,06,24,Australia,47,Femenino,Ordenador,6 Meses
+415,Básica,10,23,08,23,25,06,24,Reino Unido,39,Femenino,Smartphone,6 Meses
+416,Premium,14,02,09,23,26,06,24,Reino Unido,28,Masculino,Tablet,12 Meses
+417,Básica,10,21,09,23,29,06,24,Reino Unido,31,Masculino,Smart TV,12 Meses
+418,Estándar,12,21,10,23,27,06,24,Australia,47,Femenino,Smart TV,1 Mes
+419,Estándar,12,30,10,23,27,06,24,EEUU,27,Femenino,Ordenador,1 Mes
+420,Básica,10,02,11,23,28,06,24,Francia,28,Masculino,Ordenador,6 Meses
+421,Premium,14,16,10,23,28,06,24,Australia,33,Masculino,Tablet,3 Meses
+422,Básica,10,15,09,23,29,06,24,Australia,29,Femenino,Tablet,1 Mes
+423,Estándar,12,12,09,23,27,06,24,EEUU,41,Masculino,Smartphone,1 Mes
+424,Premium,14,18,09,23,29,06,24,EEUU,28,Femenino,Tablet,3 Meses
+425,Básica,10,04,10,23,27,06,24,España,38,Masculino,Tablet,1 Mes
+426,Premium,14,05,10,23,30,06,24,España,35,Masculino,Ordenador,1 Mes
+427,Básica,10,06,11,23,26,06,24,EEUU,51,Masculino,Smart TV,1 Mes
+428,Estándar,12,17,11,23,28,06,24,España,45,Masculino,Smartphone,3 Meses
+429,Estándar,12,18,11,23,26,06,24,EEUU,51,Masculino,Ordenador,1 Mes
+430,Básica,10,22,11,23,30,06,24,Italia,46,Femenino,Smart TV,12 Meses
+431,Premium,15,04,12,23,28,06,24,Australia,28,Masculino,Smart TV,6 Meses
+432,Básica,10,19,11,23,30,06,24,Alemania,46,Femenino,Smart TV,3 Meses
+433,Estándar,12,06,11,23,25,06,24,Australia,46,Femenino,Smartphone,3 Meses
+434,Premium,14,15,10,23,29,06,24,Italia,32,Femenino,Ordenador,1 Mes
+435,Básica,10,17,10,23,28,06,24,Canadá,39,Femenino,Smart TV,3 Meses
+436,Premium,14,19,10,23,29,06,24,Alemania,41,Femenino,Smartphone,1 Mes
+437,Básica,10,23,10,23,25,06,24,Italia,47,Masculino,Smart TV,3 Meses
+438,Estándar,12,24,10,23,28,06,24,Australia,35,Masculino,Smart TV,1 Mes
+439,Estándar,12,23,10,23,27,06,24,Canadá,37,Femenino,Smart TV,1 Mes
+440,Básica,10,10,10,23,29,06,24,Méjico,47,Masculino,Tablet,6 Meses
+441,Premium,14,05,10,23,28,06,24,Australia,48,Femenino,Ordenador,3 Meses
+442,Básica,10,01,07,23,27,06,24,Méjico,30,Femenino,Ordenador,1 Mes
+443,Estándar,12,01,07,23,27,06,24,EEUU,36,Masculino,Smart TV,1 Mes
+444,Premium,14,25,06,23,28,06,24,Italia,50,Femenino,Smartphone,3 Meses
+445,Básica,10,24,06,23,28,06,24,Alemania,41,Masculino,Tablet,6 Meses
+446,Básica,10,28,06,23,28,06,24,Reino Unido,46,Femenino,Smartphone,12 Meses
+447,Básica,10,11,08,23,28,06,24,Australia,36,Femenino,Ordenador,12 Meses
+448,Estándar,12,12,08,23,27,06,24,Francia,48,Masculino,Tablet,12 Meses
+449,Premium,14,07,08,23,28,06,24,Francia,37,Femenino,Ordenador,1 Mes
+450,Básica,10,06,08,23,27,06,24,Reino Unido,49,Masculino,Ordenador,1 Mes
+451,Básica,10,18,07,23,28,06,24,España,31,Femenino,Ordenador,12 Meses
+452,Premium,14,16,06,23,26,06,24,Canadá,42,Femenino,Ordenador,6 Meses
+453,Estándar,13,30,05,23,28,06,24,Francia,45,Femenino,Tablet,1 Mes
+454,Estándar,13,28,05,23,28,06,24,Reino Unido,51,Femenino,Tablet,3 Meses
+455,Básica,11,31,05,23,27,06,24,España,31,Femenino,Smart TV,3 Meses
+456,Premium,14,04,06,23,27,06,24,Reino Unido,41,Masculino,Tablet,1 Mes
+457,Estándar,12,29,06,23,28,06,24,EEUU,40,Masculino,Smart TV,6 Meses
+458,Básica,10,24,07,23,28,06,24,Australia,27,Masculino,Tablet,1 Mes
+459,Estándar,12,19,07,23,27,06,24,Francia,46,Femenino,Tablet,1 Mes
+460,Premium,14,30,06,23,28,06,24,Alemania,30,Femenino,Smart TV,1 Mes
+461,Básica,10,16,06,23,27,06,24,Alemania,37,Masculino,Smart TV,12 Meses
+462,Premium,14,10,06,23,28,06,24,España,45,Masculino,Smartphone,3 Meses
+463,Estándar,12,01,06,23,26,06,24,Canadá,40,Masculino,Smart TV,1 Mes
+464,Básica,10,03,06,23,28,06,24,Canadá,45,Masculino,Ordenador,1 Mes
+465,Estándar,12,05,06,23,26,06,24,Australia,34,Masculino,Ordenador,6 Meses
+466,Premium,14,07,06,23,27,06,24,Australia,33,Masculino,Ordenador,1 Mes
+467,Básica,10,22,06,23,26,06,24,España,47,Femenino,Ordenador,1 Mes
+468,Estándar,12,28,06,23,27,06,24,Reino Unido,32,Masculino,Smart TV,3 Meses
+469,Premium,14,29,06,23,29,06,24,,41,Femenino,Tablet,12 Meses
+470,Básica,10,03,07,23,28,06,24,,31,Femenino,Tablet,12 Meses
+471,Premium,14,08,07,23,27,06,24,Francia,43,Masculino,Tablet,1 Mes
+472,Básica,10,13,07,23,27,06,24,Italia,32,Femenino,Tablet,1 Mes
+473,Estándar,12,27,07,23,28,06,24,Canadá,46,Femenino,Smartphone,3 Meses
+474,Estándar,12,30,07,23,28,06,24,Reino Unido,38,Masculino,Smartphone,1 Mes
+475,Básica,10,13,08,23,26,06,24,Canadá,31,Femenino,Smart TV,1 Mes
+476,Premium,14,18,08,23,26,06,24,,31,Femenino,Ordenador,6 Meses
+477,Básica,10,24,08,23,27,06,24,Italia,50,Masculino,Ordenador,6 Meses
+478,Estándar,12,08,09,23,27,06,24,Alemania,32,Masculino,Ordenador,12 Meses
+479,Premium,14,04,09,23,27,06,24,España,38,Femenino,Smartphone,6 Meses
+480,Básica,10,04,09,23,27,06,24,Francia,37,Femenino,Ordenador,3 Meses
+481,Premium,14,04,09,23,26,06,24,EEUU,36,Masculino,Smart TV,1 Mes
+482,Básica,10,27,08,23,27,06,24,Méjico,30,Masculino,Smart TV,1 Mes
+483,Estándar,12,25,08,23,27,06,24,Australia,28,Masculino,Smart TV,6 Meses
+484,Estándar,12,25,08,23,28,06,24,España,40,Masculino,Smartphone,6 Meses
+485,Básica,10,01,09,23,28,06,24,Brasil,28,Femenino,Tablet,1 Mes
+486,Premium,14,13,09,23,26,06,24,España,37,Femenino,Ordenador,12 Meses
+487,Básica,10,05,10,23,29,06,24,Alemania,30,Masculino,Smart TV,1 Mes
+488,Estándar,12,08,10,23,28,06,24,Reino Unido,33,Femenino,Smart TV,3 Meses
+489,Premium,14,26,10,23,28,06,24,Canadá,49,Masculino,Tablet,1 Mes
+490,Básica,10,18,10,23,29,06,24,EEUU,36,Femenino,Smart TV,12 Meses
+491,Premium,14,07,10,23,28,06,24,EEUU,28,Femenino,Smartphone,3 Meses
+492,Básica,10,17,09,23,30,06,24,Alemania,51,Masculino,Tablet,1 Mes
+493,Estándar,12,18,09,23,27,06,24,Reino Unido,35,Femenino,Smartphone,12 Meses
+494,Estándar,12,27,09,23,29,06,24,EEUU,31,Masculino,Smart TV,6 Meses
+495,Básica,10,30,09,23,27,06,24,Reino Unido,39,Masculino,Smartphone,1 Mes
+496,Premium,14,30,10,23,30,06,24,Alemania,51,Femenino,Ordenador,6 Meses
+497,Básica,10,09,11,23,29,06,24,Brasil,44,Masculino,Smartphone,6 Meses
+498,Estándar,12,17,11,23,28,06,24,Reino Unido,41,Femenino,Smartphone,6 Meses
+499,Premium,14,18,11,23,26,06,24,EEUU,28,Femenino,Ordenador,3 Meses
+500,Básica,10,22,11,23,30,06,24,EEUU,38,Masculino,Ordenador,6 Meses
+501,Premium,14,22,11,23,28,06,24,,43,Masculino,Smartphone,1 Mes
+502,Básica,10,21,11,23,30,06,24,Australia,38,Masculino,Smartphone,12 Meses
+503,Estándar,12,10,11,23,26,06,24,España,30,Masculino,Tablet,3 Meses
+504,Estándar,12,21,10,23,29,06,24,EEUU,32,Femenino,Ordenador,6 Meses
+505,Básica,10,21,10,23,28,06,24,,35,Masculino,Smartphone,3 Meses
+506,Premium,14,23,10,23,29,06,24,España,27,Masculino,Smart TV,1 Mes
+507,Básica,10,24,10,23,26,06,24,Alemania,49,Femenino,Tablet,3 Meses
+508,Estándar,12,23,10,23,28,06,24,Brasil,42,Femenino,Tablet,12 Meses
+509,Premium,14,21,10,23,28,06,24,Francia,40,Masculino,Smartphone,1 Mes
+510,Básica,10,06,10,23,29,06,24,Brasil,43,Femenino,Tablet,1 Mes
+511,Premium,14,26,07,23,28,06,24,Brasil,44,Femenino,Smart TV,3 Meses
+512,Básica,10,13,07,23,28,06,24,EEUU,32,Masculino,Tablet,1 Mes
+513,Estándar,12,06,07,23,28,06,24,Canadá,50,Masculino,Tablet,1 Mes
+514,Estándar,12,07,07,23,28,06,24,Italia,35,Masculino,Tablet,1 Mes
+515,Básica,10,01,07,23,29,06,24,España,44,Femenino,Ordenador,12 Meses
+516,Premium,14,31,07,23,28,06,24,España,42,Femenino,Smart TV,12 Meses
+517,Básica,10,06,08,23,28,06,24,España,34,Femenino,Smart TV,1 Mes
+518,Estándar,12,07,08,23,27,06,24,Italia,37,Femenino,Tablet,12 Meses
+519,Premium,14,06,08,23,28,06,24,Brasil,43,Masculino,Smartphone,1 Mes
+520,Básica,10,03,08,23,28,06,24,Italia,32,Masculino,Smart TV,6 Meses
+521,Básica,10,18,06,23,28,06,24,Australia,33,Femenino,Smart TV,12 Meses
+522,Básica,10,17,06,23,27,06,24,EEUU,32,Femenino,Tablet,3 Meses
+523,Estándar,12,07,06,23,29,06,24,Brasil,41,Masculino,Smartphone,3 Meses
+524,Premium,14,06,06,23,28,06,24,Francia,31,Masculino,Tablet,12 Meses
+525,Básica,10,04,06,23,27,06,24,EEUU,44,Masculino,Tablet,3 Meses
+526,Básica,10,20,06,23,28,06,24,Brasil,49,Masculino,Ordenador,1 Mes
+527,Premium,14,10,07,23,28,06,24,Francia,48,Femenino,Tablet,1 Mes
+528,Estándar,12,13,07,23,29,06,24,España,42,Femenino,Smartphone,12 Meses
+529,Estándar,12,07,07,23,27,06,24,EEUU,50,Femenino,Ordenador,3 Meses
+530,Básica,10,22,06,23,28,06,24,Alemania,49,Femenino,Smart TV,1 Mes
+531,Premium,14,15,06,23,27,06,24,EEUU,30,Femenino,Ordenador,1 Mes
+532,Estándar,12,03,06,23,28,06,24,Reino Unido,38,Masculino,Ordenador,1 Mes
+533,Básica,10,04,06,23,27,06,24,Alemania,38,Masculino,Smartphone,3 Meses
+534,Estándar,12,05,06,23,28,06,24,España,39,Femenino,Smart TV,1 Mes
+535,Premium,14,07,06,23,29,06,24,EEUU,42,Femenino,Ordenador,1 Mes
+536,Básica,10,14,06,23,29,06,24,Italia,28,Masculino,Smart TV,3 Meses
+537,Premium,14,17,06,23,27,06,24,Italia,38,Masculino,Smartphone,1 Mes
+538,Estándar,12,19,06,23,28,06,24,Canadá,40,Femenino,Tablet,1 Mes
+539,Básica,10,02,07,23,29,06,24,Reino Unido,30,Femenino,Tablet,1 Mes
+540,Estándar,12,03,07,23,29,06,24,Italia,40,Masculino,Smartphone,1 Mes
+541,Premium,14,13,07,23,27,06,24,Canadá,31,Masculino,Smart TV,3 Meses
+542,Básica,10,26,07,23,27,06,24,Canadá,41,Masculino,Smartphone,1 Mes
+543,Estándar,12,27,07,23,28,06,24,Francia,37,Masculino,Smartphone,6 Meses
+544,Premium,14,08,08,23,28,06,24,Reino Unido,49,Masculino,Tablet,6 Meses
+545,Básica,10,17,08,23,27,06,24,Italia,29,Masculino,Smart TV,1 Mes
+546,Premium,14,20,08,23,26,06,24,Brasil,31,Masculino,Smart TV,6 Meses
+547,Básica,10,05,09,23,27,06,24,,39,Masculino,Tablet,6 Meses
+548,Estándar,12,05,09,23,27,06,24,Australia,51,Femenino,Smartphone,6 Meses
+549,Estándar,12,05,09,23,27,06,24,EEUU,38,Femenino,Smartphone,6 Meses
+550,Básica,10,06,09,23,27,06,24,Australia,29,Femenino,Tablet,12 Meses
+551,Premium,14,03,09,23,28,06,24,Australia,41,Femenino,Ordenador,1 Mes
+552,Básica,10,29,08,23,27,06,24,Reino Unido,48,Femenino,Tablet,6 Meses
+553,Estándar,12,27,08,23,28,06,24,Méjico,39,Masculino,Smart TV,3 Meses
+554,Premium,14,29,08,23,29,06,24,Italia,37,Masculino,Smartphone,6 Meses
+555,Básica,10,13,09,23,28,06,24,Alemania,37,Femenino,Smartphone,12 Meses
+556,Premium,14,24,09,23,27,06,24,Australia,34,Masculino,Smartphone,1 Mes
+557,Básica,10,05,10,23,29,06,24,Alemania,37,Masculino,Smartphone,1 Mes
+558,Estándar,12,18,10,23,30,06,24,España,37,Femenino,Smart TV,1 Mes
+559,Estándar,12,19,10,23,28,06,24,Reino Unido,51,Femenino,Tablet,1 Mes
+560,Básica,10,14,10,23,29,06,24,Reino Unido,45,Masculino,Ordenador,1 Mes
+561,Premium,14,30,09,23,28,06,24,Australia,29,Femenino,Ordenador,3 Meses
+562,Básica,10,19,09,23,30,06,24,Australia,37,Masculino,Ordenador,1 Mes
+563,Estándar,12,24,09,23,29,06,24,Alemania,34,Masculino,Tablet,1 Mes
+564,Premium,14,28,09,23,29,06,24,EEUU,35,Masculino,Smartphone,12 Meses
+565,Básica,10,29,09,23,27,06,24,Canadá,29,Masculino,Ordenador,3 Meses
+567,Básica,10,08,11,23,29,06,24,Australia,36,Masculino,Smart TV,1 Mes
+568,Estándar,12,16,11,23,28,06,24,Reino Unido,27,Femenino,Ordenador,6 Meses
+569,Estándar,12,17,11,23,26,06,24,Italia,31,Femenino,Ordenador,6 Meses
+570,Básica,10,20,11,23,30,06,24,España,41,Femenino,Ordenador,3 Meses
+571,Premium,14,21,11,23,29,06,24,EEUU,37,Masculino,Smart TV,3 Meses
+572,Básica,10,21,11,23,30,06,24,EEUU,49,Femenino,Tablet,12 Meses
+573,Estándar,12,18,11,23,27,06,24,EEUU,37,Femenino,Smart TV,3 Meses
+574,Premium,14,26,10,23,29,06,24,Canadá,36,Femenino,Smartphone,12 Meses
+575,Básica,10,25,10,23,28,06,24,Italia,38,Femenino,Smart TV,12 Meses
+576,Premium,14,26,10,23,30,06,24,Francia,49,Femenino,Tablet,12 Meses
+577,Básica,10,23,10,23,26,06,24,EEUU,31,Masculino,Ordenador,1 Mes
+578,Estándar,12,23,10,23,28,06,24,,29,Femenino,Ordenador,6 Meses
+579,Estándar,12,16,10,23,28,06,24,España,35,Femenino,Tablet,1 Mes
+580,Básica,10,09,08,23,29,06,24,Reino Unido,46,Femenino,Tablet,3 Meses
+581,Premium,14,02,08,23,29,06,24,Alemania,29,Femenino,Ordenador,12 Meses
+582,Básica,10,16,07,23,28,06,24,Reino Unido,43,Femenino,Ordenador,3 Meses
+583,Estándar,12,17,07,23,28,06,24,EEUU,38,Femenino,Tablet,1 Mes
+584,Premium,14,14,07,23,28,06,24,Alemania,48,Femenino,Smart TV,3 Meses
+585,Básica,10,16,07,23,29,06,24,Canadá,41,Masculino,Ordenador,1 Mes
+586,Premium,14,06,08,23,29,06,24,España,51,Femenino,Ordenador,3 Meses
+587,Básica,10,07,08,23,28,06,24,Italia,39,Masculino,Smart TV,6 Meses
+588,Estándar,12,07,08,23,27,06,24,,31,Masculino,Smartphone,12 Meses
+589,Estándar,12,04,08,23,29,06,24,España,28,Masculino,Ordenador,6 Meses
+590,Básica,10,29,07,23,29,06,24,,47,Masculino,Ordenador,6 Meses
+591,Premium,14,19,06,23,28,06,24,Italia,35,Femenino,Smart TV,12 Meses
+592,Básica,10,09,06,23,29,06,24,Reino Unido,33,Masculino,Smartphone,6 Meses
+593,Estándar,12,06,06,23,29,06,24,Reino Unido,41,Masculino,Smartphone,1 Mes
+594,Premium,14,06,06,23,30,06,24,Australia,38,Femenino,Smart TV,1 Mes
+595,Básica,10,11,06,23,28,06,24,EEUU,49,Masculino,Ordenador,3 Meses
+596,Básica,10,18,06,23,28,06,24,Brasil,29,Femenino,Smart TV,3 Meses
+597,Básica,10,27,06,23,28,06,24,Alemania,50,Masculino,Ordenador,1 Mes
+598,Estándar,12,05,07,23,29,06,24,Alemania,29,Femenino,Tablet,12 Meses
+599,Premium,14,06,07,23,27,06,24,Reino Unido,44,Masculino,Smart TV,3 Meses
+600,Básica,10,16,06,23,29,06,24,Australia,36,Femenino,Smart TV,12 Meses
+601,Básica,10,05,06,23,30,06,24,Alemania,46,Femenino,Smart TV,3 Meses
+602,Premium,14,05,06,23,29,06,24,Francia,30,Masculino,Smartphone,12 Meses
+603,Estándar,12,06,06,23,27,06,24,Alemania,46,Femenino,Tablet,12 Meses
+604,Estándar,12,07,06,23,28,06,24,EEUU,33,Masculino,Smartphone,1 Mes
+605,Básica,10,10,06,23,29,06,24,Italia,46,Femenino,Tablet,3 Meses
+606,Premium,14,13,06,23,29,06,24,EEUU,50,Masculino,Tablet,12 Meses
+607,Estándar,12,14,06,23,27,06,24,EEUU,27,Femenino,Smart TV,12 Meses
+608,Básica,10,22,06,23,28,06,24,España,48,Femenino,Smart TV,1 Mes
+609,Estándar,12,03,07,23,29,06,24,Reino Unido,50,Femenino,Smartphone,1 Mes
+610,Premium,14,05,07,23,29,06,24,Italia,28,Femenino,Tablet,1 Mes
+611,Básica,10,11,07,23,28,06,24,Francia,29,Femenino,Smartphone,12 Meses
+612,Premium,14,17,07,23,27,06,24,EEUU,36,Masculino,Smart TV,1 Mes
+613,Estándar,12,27,07,23,28,06,24,Australia,51,Masculino,Ordenador,1 Mes
+614,Básica,10,14,08,23,28,06,24,Francia,51,Masculino,Smartphone,1 Mes
+615,Estándar,12,15,08,23,27,06,24,Alemania,43,Masculino,Smart TV,6 Meses
+616,Premium,14,02,09,23,27,06,24,Australia,38,Femenino,Ordenador,3 Meses
+617,Básica,10,05,09,23,28,06,24,Canadá,45,Femenino,Smartphone,3 Meses
+618,Estándar,12,06,09,23,28,06,24,EEUU,28,Femenino,Smart TV,12 Meses
+619,Premium,14,06,09,23,29,06,24,España,27,Masculino,Smartphone,1 Mes
+620,Básica,10,05,09,23,27,06,24,España,41,Femenino,Smartphone,12 Meses
+621,Premium,14,06,09,23,29,06,24,Italia,49,Masculino,Smart TV,1 Mes
+622,Básica,10,29,08,23,28,06,24,Alemania,35,Masculino,Smartphone,1 Mes
+623,Estándar,12,30,08,23,28,06,24,Alemania,29,Femenino,Smart TV,1 Mes
+624,Estándar,12,02,09,23,30,06,24,Francia,42,Masculino,Smartphone,1 Mes
+625,Básica,10,20,09,23,28,06,24,España,33,Masculino,Tablet,12 Meses
+626,Premium,14,23,09,23,30,06,24,Italia,30,Masculino,Ordenador,1 Mes
+627,Básica,10,29,09,23,29,06,24,Australia,43,Femenino,Smart TV,3 Meses
+629,Premium,14,12,10,23,29,06,24,Francia,39,Masculino,Tablet,1 Mes
+630,Básica,10,06,10,23,30,06,24,Francia,32,Femenino,Smart TV,1 Mes
+631,Premium,14,21,09,23,28,06,24,,31,Masculino,Smartphone,1 Mes
+633,Estándar,12,28,09,23,29,06,24,EEUU,41,Femenino,Smartphone,6 Meses
+634,Estándar,12,29,09,23,29,06,24,,51,Femenino,Smart TV,1 Mes
+635,Básica,10,03,10,23,27,06,24,Italia,29,Masculino,Ordenador,1 Mes
+637,Básica,10,14,11,23,29,06,24,Canadá,51,Femenino,Tablet,6 Meses
+639,Premium,14,17,11,23,28,06,24,Canadá,37,Femenino,Ordenador,6 Meses
+640,Básica,10,20,11,23,30,06,24,Francia,50,Femenino,Ordenador,12 Meses
+641,Premium,14,21,11,23,29,06,24,Francia,33,Masculino,Tablet,12 Meses
+643,Estándar,12,28,10,23,27,06,24,Méjico,50,Femenino,Smartphone,6 Meses
+644,Estándar,12,27,10,23,29,06,24,Reino Unido,47,Femenino,Ordenador,12 Meses
+645,Básica,10,27,10,23,29,06,24,,41,Masculino,Ordenador,3 Meses
+646,Premium,14,27,10,23,30,06,24,Reino Unido,49,Femenino,Ordenador,6 Meses
+647,Básica,10,25,10,23,28,06,24,Francia,32,Masculino,Smart TV,1 Mes
+648,Estándar,12,17,10,23,28,06,24,Italia,38,Femenino,Smartphone,12 Meses
+649,Premium,14,20,08,23,29,06,24,Francia,38,Femenino,Smartphone,12 Meses
+650,Básica,10,16,08,23,29,06,24,EEUU,28,Femenino,Smart TV,3 Meses
+651,Premium,14,15,08,23,29,06,24,Brasil,31,Masculino,Tablet,1 Mes
+652,Básica,10,15,08,23,29,06,24,Francia,39,Femenino,Smartphone,6 Meses
+653,Estándar,12,29,07,23,29,06,24,Australia,28,Femenino,Smartphone,6 Meses
+654,Estándar,12,17,07,23,28,06,24,Reino Unido,30,Femenino,Smartphone,1 Mes
+655,Básica,10,26,07,23,29,06,24,Alemania,42,Masculino,Tablet,12 Meses
+656,Premium,14,31,07,23,29,06,24,Canadá,33,Femenino,Ordenador,1 Mes
+657,Básica,10,03,08,23,29,06,24,Francia,34,Femenino,Smart TV,6 Meses
+658,Estándar,12,04,08,23,29,06,24,EEUU,49,Femenino,Smart TV,1 Mes
+659,Premium,14,03,08,23,29,06,24,Reino Unido,41,Masculino,Ordenador,3 Meses
+660,Básica,10,27,06,23,29,06,24,Alemania,28,Masculino,Smart TV,1 Mes
+661,Premium,14,27,06,23,28,06,24,Reino Unido,49,Femenino,Ordenador,12 Meses
+662,Básica,10,15,06,23,29,06,24,Canadá,49,Masculino,Tablet,6 Meses
+663,Estándar,12,13,06,23,29,06,24,Francia,36,Masculino,Tablet,6 Meses
+664,Estándar,12,12,06,23,30,06,24,Italia,31,Masculino,Smart TV,1 Mes
+665,Básica,10,18,06,23,28,06,24,Alemania,38,Masculino,Smartphone,3 Meses
+666,Premium,14,26,06,23,29,06,24,Francia,34,Femenino,Tablet,12 Meses
+667,Básica,10,30,06,23,30,06,24,,51,Femenino,Smartphone,1 Mes
+668,Estándar,12,03,07,23,30,06,24,Canadá,49,Masculino,Smart TV,6 Meses
+669,Premium,14,19,06,23,28,06,24,Australia,27,Femenino,Tablet,3 Meses
+670,Básica,10,08,06,23,29,06,24,,38,Masculino,Smart TV,6 Meses
+671,Básica,10,08,06,23,30,06,24,Canadá,51,Masculino,Tablet,6 Meses
+672,Básica,10,09,06,23,30,06,24,EEUU,47,Femenino,Tablet,1 Mes
+673,Estándar,12,09,06,23,27,06,24,EEUU,37,Masculino,Smartphone,1 Mes
+674,Premium,14,10,06,23,28,06,24,España,37,Femenino,Ordenador,3 Meses
+675,Básica,10,11,06,23,29,06,24,Italia,39,Femenino,Tablet,1 Mes
+676,Básica,10,13,06,23,29,06,24,Francia,31,Masculino,Smartphone,3 Meses
+677,Premium,14,17,06,23,28,06,24,Francia,36,Masculino,Smart TV,1 Mes
+678,Estándar,12,27,06,23,28,06,24,EEUU,42,Femenino,Smart TV,1 Mes
+679,Estándar,12,05,07,23,29,06,24,Australia,49,Masculino,Ordenador,1 Mes
+680,Básica,10,07,07,23,29,06,24,Reino Unido,44,Femenino,Ordenador,3 Meses
+681,Premium,14,16,07,23,28,06,24,Méjico,33,Masculino,Ordenador,3 Meses
+682,Estándar,12,23,07,23,27,06,24,Francia,42,Masculino,Tablet,1 Mes
+683,Básica,10,03,08,23,29,06,24,Francia,39,Masculino,Smartphone,12 Meses
+684,Estándar,12,11,08,23,29,06,24,EEUU,49,Masculino,Smartphone,1 Mes
+685,Premium,14,15,08,23,30,06,24,España,31,Masculino,Smartphone,12 Meses
+686,Básica,10,18,08,23,28,06,24,Francia,37,Masculino,Tablet,3 Meses
+687,Premium,14,26,08,23,29,06,24,Australia,30,Femenino,Tablet,12 Meses
+688,Estándar,12,03,09,23,28,06,24,Alemania,42,Masculino,Smartphone,1 Mes
+689,Básica,10,04,09,23,29,06,24,,37,Femenino,Smart TV,1 Mes
+690,Estándar,12,05,09,23,30,06,24,Reino Unido,36,Masculino,Ordenador,1 Mes
+691,Premium,14,01,09,23,29,06,24,Alemania,28,Femenino,Ordenador,1 Mes
+692,Básica,10,31,08,23,30,06,24,EEUU,36,Masculino,Tablet,6 Meses
+693,Estándar,12,01,09,23,29,06,24,Australia,31,Femenino,Tablet,12 Meses
+695,Básica,10,21,09,23,28,06,24,Reino Unido,28,Masculino,Ordenador,1 Mes
+697,Básica,10,06,10,23,29,06,24,Australia,43,Masculino,Smart TV,1 Mes
+699,Estándar,12,07,10,23,30,06,24,Australia,32,Femenino,Smartphone,6 Meses
+700,Básica,10,04,10,23,30,06,24,Alemania,31,Femenino,Ordenador,6 Meses
+701,Premium,14,24,09,23,28,06,24,Canadá,45,Masculino,Smart TV,12 Meses
+703,Estándar,12,27,09,23,30,06,24,Alemania,35,Masculino,Ordenador,3 Meses
+705,Básica,10,04,10,23,28,06,24,Reino Unido,32,Masculino,Ordenador,3 Meses
+707,Básica,10,28,10,23,30,06,24,Canadá,36,Masculino,Smart TV,3 Meses
+709,Estándar,12,07,11,23,28,06,24,Italia,48,Femenino,Smart TV,12 Meses
+710,Básica,10,10,11,23,30,06,24,Canadá,48,Femenino,Smart TV,6 Meses
+711,Premium,14,15,11,23,29,06,24,Italia,27,Femenino,Ordenador,3 Meses
+713,Estándar,12,01,11,23,27,06,24,,30,Masculino,Ordenador,3 Meses
+714,Premium,14,30,10,23,29,06,24,Reino Unido,29,Masculino,Tablet,3 Meses
+715,Básica,10,28,10,23,29,06,24,Reino Unido,43,Femenino,Ordenador,1 Mes
+716,Premium,14,26,10,23,30,06,24,Australia,43,Masculino,Ordenador,6 Meses
+717,Básica,10,18,10,23,29,06,24,España,39,Femenino,Tablet,12 Meses
+718,Estándar,12,30,09,23,30,06,24,Australia,27,Masculino,Tablet,1 Mes
+719,Estándar,12,03,09,23,29,06,24,Italia,33,Femenino,Tablet,3 Meses
+720,Básica,10,23,08,23,29,06,24,Australia,32,Femenino,Tablet,1 Mes
+721,Premium,14,16,08,23,29,06,24,Reino Unido,37,Femenino,Tablet,12 Meses
+722,Básica,10,11,08,23,30,06,24,,45,Masculino,Smartphone,1 Mes
+723,Estándar,12,01,08,23,30,06,24,Reino Unido,40,Femenino,Smartphone,6 Meses
+724,Premium,14,01,08,23,29,06,24,,44,Masculino,Ordenador,1 Mes
+725,Básica,10,01,08,23,29,06,24,España,29,Femenino,Tablet,12 Meses
+726,Premium,14,02,08,23,30,06,24,Alemania,50,Masculino,Ordenador,6 Meses
+727,Básica,10,04,08,23,29,06,24,EEUU,32,Femenino,Ordenador,6 Meses
+728,Estándar,12,04,08,23,29,06,24,,39,Masculino,Ordenador,3 Meses
+729,Estándar,12,07,07,23,30,06,24,Brasil,43,Femenino,Smartphone,12 Meses
+730,Básica,10,27,06,23,30,06,24,Australia,49,Femenino,Smartphone,12 Meses
+731,Premium,14,19,06,23,29,06,24,Francia,30,Masculino,Tablet,1 Mes
+732,Básica,10,19,06,23,29,06,24,Francia,47,Masculino,Tablet,1 Mes
+733,Estándar,12,18,06,23,29,06,24,Australia,51,Femenino,Ordenador,12 Meses
+734,Premium,14,19,06,23,30,06,24,Italia,40,Masculino,Tablet,6 Meses
+735,Básica,10,24,06,23,28,06,24,Alemania,40,Masculino,Ordenador,6 Meses
+736,Premium,14,30,06,23,30,06,24,EEUU,49,Masculino,Smartphone,6 Meses
+737,Básica,10,02,07,23,30,06,24,Australia,43,Femenino,Tablet,12 Meses
+739,Estándar,12,21,06,23,28,06,24,Canadá,27,Masculino,Smartphone,6 Meses
+740,Básica,10,16,06,23,29,06,24,EEUU,30,Masculino,Tablet,1 Mes
+741,Premium,14,09,06,23,30,06,24,España,47,Masculino,Smart TV,1 Mes
+742,Básica,10,10,06,23,30,06,24,Australia,51,Masculino,Smartphone,1 Mes
+743,Estándar,12,10,06,23,28,06,24,,31,Femenino,Ordenador,12 Meses
+744,Premium,14,11,06,23,29,06,24,Reino Unido,34,Femenino,Tablet,12 Meses
+745,Básica,10,12,06,23,30,06,24,Alemania,28,Femenino,Ordenador,3 Meses
+746,Básica,10,15,06,23,30,06,24,Reino Unido,32,Masculino,Smartphone,6 Meses
+747,Básica,10,25,06,23,29,06,24,EEUU,41,Masculino,Smart TV,1 Mes
+748,Estándar,12,30,06,23,28,06,24,,40,Masculino,Smart TV,1 Mes
+749,Premium,14,06,07,23,30,06,24,Alemania,46,Masculino,Smart TV,1 Mes
+750,Básica,10,09,07,23,29,06,24,Australia,47,Masculino,Smart TV,1 Mes
+751,Básica,10,18,07,23,29,06,24,España,45,Femenino,Ordenador,1 Mes
+752,Premium,14,24,07,23,28,06,24,Reino Unido,28,Femenino,Smartphone,12 Meses
+753,Estándar,12,27,07,23,30,06,24,Brasil,43,Femenino,Smartphone,6 Meses
+754,Estándar,12,10,08,23,29,06,24,Canadá,41,Masculino,Ordenador,12 Meses
+755,Básica,10,16,08,23,30,06,24,Reino Unido,32,Masculino,Tablet,12 Meses
+756,Premium,14,23,08,23,29,06,24,,44,Femenino,Smartphone,3 Meses
+757,Estándar,12,03,09,23,30,06,24,EEUU,32,Masculino,Ordenador,6 Meses
+758,Básica,10,04,09,23,29,06,24,Australia,47,Masculino,Ordenador,1 Mes
+759,Estándar,12,05,09,23,29,06,24,Reino Unido,37,Masculino,Smart TV,6 Meses
+761,Básica,10,31,08,23,29,06,24,Australia,48,Femenino,Smart TV,6 Meses
+763,Estándar,12,15,09,23,29,06,24,Italia,35,Masculino,Ordenador,1 Mes
+765,Estándar,12,28,09,23,29,06,24,Alemania,35,Femenino,Smart TV,1 Mes
+767,Básica,10,07,10,23,29,06,24,Reino Unido,39,Masculino,Ordenador,6 Meses
+769,Premium,14,08,10,23,30,06,24,Francia,36,Femenino,Smart TV,3 Meses
+771,Premium,14,04,10,23,28,06,24,Australia,27,Masculino,Tablet,1 Mes
+773,Estándar,12,01,10,23,30,06,24,Canadá,27,Femenino,Smart TV,12 Meses
+775,Básica,10,20,10,23,28,06,24,Francia,29,Masculino,Tablet,1 Mes
+777,Básica,10,28,10,23,30,06,24,EEUU,31,Masculino,Smartphone,1 Mes
+779,Premium,14,07,11,23,28,06,24,Australia,36,Femenino,Smart TV,3 Meses
+780,Básica,10,12,11,23,30,06,24,Reino Unido,43,Femenino,Ordenador,6 Meses
+781,Premium,14,13,11,23,29,06,24,Canadá,30,Femenino,Smartphone,3 Meses
+783,Estándar,12,01,11,23,29,06,24,Australia,37,Femenino,Ordenador,1 Mes
+784,Estándar,12,31,10,23,30,06,24,Australia,27,Masculino,Ordenador,1 Mes
+785,Básica,10,28,10,23,29,06,24,EEUU,35,Femenino,Ordenador,1 Mes
+786,Premium,14,24,10,23,30,06,24,Francia,32,Masculino,Smart TV,12 Meses
+787,Básica,10,03,10,23,29,06,24,EEUU,49,Femenino,Ordenador,1 Mes
+788,Estándar,12,13,09,23,30,06,24,Canadá,45,Femenino,Tablet,12 Meses
+789,Premium,14,02,09,23,30,06,24,EEUU,33,Femenino,Smartphone,1 Mes
+790,Básica,10,30,08,23,30,06,24,EEUU,37,Femenino,Smartphone,3 Meses
+791,Premium,14,25,08,23,30,06,24,Australia,29,Masculino,Smartphone,1 Mes
+792,Básica,10,11,08,23,30,06,24,Francia,45,Masculino,Smart TV,6 Meses
+793,Estándar,12,05,08,23,30,06,24,Australia,42,Femenino,Smartphone,6 Meses
+794,Estándar,12,02,08,23,30,06,24,,32,Femenino,Smart TV,3 Meses
+797,Básica,10,05,08,23,30,06,24,Francia,35,Masculino,Tablet,1 Mes
+798,Estándar,12,12,07,23,30,06,24,Francia,35,Masculino,Ordenador,1 Mes
+799,Premium,14,02,07,23,30,06,24,Alemania,48,Masculino,Tablet,12 Meses
+800,Básica,10,26,06,23,30,06,24,Canadá,36,Masculino,Smartphone,6 Meses
+801,Premium,14,22,06,23,29,06,24,EEUU,46,Masculino,Smartphone,3 Meses
+802,Básica,10,22,06,23,30,06,24,Australia,33,Femenino,Smartphone,3 Meses
+805,Básica,10,27,06,23,28,06,24,Australia,39,Femenino,Ordenador,12 Meses
+806,Premium,14,01,07,23,30,06,24,Francia,30,Femenino,Ordenador,12 Meses
+807,Básica,10,28,06,23,30,06,24,Canadá,46,Masculino,Tablet,1 Mes
+809,Premium,14,22,06,23,28,06,24,Reino Unido,28,Masculino,Smartphone,1 Mes
+810,Básica,10,09,06,23,29,06,24,Brasil,38,Masculino,Smartphone,3 Meses
+811,Premium,14,10,06,23,30,06,24,España,36,Masculino,Ordenador,6 Meses
+813,Estándar,12,11,06,23,28,06,24,Australia,50,Masculino,Smartphone,12 Meses
+814,Estándar,12,12,06,23,29,06,24,Australia,38,Masculino,Smartphone,12 Meses
+815,Básica,10,13,06,23,30,06,24,Brasil,29,Masculino,Smartphone,1 Mes
+816,Premium,14,18,06,23,30,06,24,Canadá,47,Femenino,Smart TV,3 Meses
+817,Básica,10,29,06,23,30,06,24,Canadá,31,Femenino,Tablet,12 Meses
+818,Estándar,12,30,06,23,28,06,24,EEUU,40,Masculino,Tablet,1 Mes
+820,Básica,10,07,07,23,30,06,24,Canadá,43,Femenino,Tablet,12 Meses
+821,Básica,10,13,07,23,29,06,24,Reino Unido,35,Femenino,Ordenador,12 Meses
+822,Básica,10,24,07,23,29,06,24,Francia,36,Masculino,Ordenador,6 Meses
+823,Estándar,12,29,07,23,30,06,24,España,30,Masculino,Smartphone,1 Mes
+824,Premium,14,31,07,23,30,06,24,Australia,47,Femenino,Smartphone,12 Meses
+825,Básica,10,09,08,23,30,06,24,Italia,30,Femenino,Ordenador,1 Mes
+827,Premium,14,20,08,23,30,06,24,EEUU,34,Masculino,Smartphone,3 Meses
+828,Estándar,12,30,08,23,30,06,24,Reino Unido,33,Femenino,Smart TV,12 Meses
+829,Estándar,12,01,09,23,29,06,24,España,31,Masculino,Tablet,1 Mes
+831,Premium,14,02,09,23,29,06,24,Reino Unido,35,Masculino,Smartphone,6 Meses
+833,Básica,10,17,09,23,29,06,24,Reino Unido,29,Masculino,Smartphone,1 Mes
+835,Premium,14,27,09,23,29,06,24,España,31,Masculino,Ordenador,1 Mes
+837,Premium,14,06,10,23,29,06,24,EEUU,46,Femenino,Smart TV,1 Mes
+839,Básica,10,06,10,23,30,06,24,Australia,35,Femenino,Ordenador,6 Meses
+841,Premium,14,06,10,23,29,06,24,Canadá,42,Masculino,Smartphone,12 Meses
+845,Básica,10,19,10,23,29,06,24,Francia,49,Masculino,Smartphone,3 Meses
+847,Básica,10,28,10,23,30,06,24,Italia,36,Femenino,Smart TV,6 Meses
+849,Estándar,12,12,11,23,29,06,24,Reino Unido,30,Femenino,Smart TV,12 Meses
+850,Básica,10,13,11,23,30,06,24,Australia,51,Femenino,Smart TV,1 Mes
+851,Premium,14,09,11,23,30,06,24,Brasil,47,Masculino,Ordenador,1 Mes
+853,Estándar,12,06,11,23,30,06,24,Canadá,39,Masculino,Tablet,3 Meses
+854,Premium,14,07,11,23,30,06,24,EEUU,49,Masculino,Smart TV,1 Mes
+856,Premium,14,06,10,23,30,06,24,Australia,32,Femenino,Smart TV,1 Mes
+857,Básica,10,16,09,23,30,06,24,Canadá,40,Masculino,Smartphone,12 Meses
+858,Estándar,12,10,09,23,30,06,24,Italia,40,Femenino,Ordenador,12 Meses
+859,Estándar,12,04,09,23,30,06,24,Canadá,51,Femenino,Tablet,12 Meses
+863,Estándar,12,10,08,23,30,06,24,Brasil,35,Masculino,Ordenador,1 Mes
+867,Básica,10,17,07,23,30,06,24,Australia,49,Femenino,Tablet,1 Mes
+871,Premium,14,24,06,23,29,06,24,EEUU,45,Masculino,Tablet,1 Mes
+875,Básica,10,26,06,23,29,06,24,Alemania,28,Masculino,Smart TV,6 Meses
+876,Premium,14,27,06,23,30,06,24,Canadá,44,Masculino,Tablet,6 Meses
+879,Estándar,12,18,06,23,29,06,24,Francia,42,Femenino,Tablet,12 Meses
+880,Básica,10,11,06,23,30,06,24,,31,Masculino,Smart TV,1 Mes
+883,Estándar,12,13,06,23,29,06,24,EEUU,28,Femenino,Tablet,12 Meses
+884,Premium,14,13,06,23,29,06,24,Canadá,50,Masculino,Tablet,1 Mes
+886,Premium,14,23,06,23,30,06,24,España,45,Femenino,Smart TV,6 Meses
+887,Básica,10,26,06,23,30,06,24,Australia,38,Femenino,Ordenador,3 Meses
+888,Estándar,12,29,06,23,29,06,24,Italia,42,Femenino,Ordenador,6 Meses
+890,Básica,10,06,07,23,30,06,24,Canadá,44,Masculino,Smart TV,1 Mes
+891,Premium,14,18,07,23,30,06,24,Reino Unido,50,Femenino,Smart TV,1 Mes
+892,Básica,10,29,07,23,30,06,24,EEUU,38,Masculino,Tablet,6 Meses
+895,Básica,10,15,08,23,30,06,24,Alemania,30,Masculino,Smartphone,1 Mes
+897,Básica,10,21,08,23,30,06,24,Brasil,32,Femenino,Ordenador,1 Mes
+899,Premium,14,01,09,23,29,06,24,Canadá,37,Masculino,Ordenador,1 Mes
+901,Básica,10,04,09,23,30,06,24,Italia,29,Masculino,Smartphone,1 Mes
+903,Estándar,12,25,09,23,29,06,24,Italia,42,Masculino,Ordenador,6 Meses
+905,Básica,10,01,10,23,30,06,24,Francia,38,Femenino,Ordenador,3 Meses
+907,Estándar,12,07,10,23,30,06,24,España,48,Masculino,Ordenador,3 Meses
+911,Básica,10,08,10,23,29,06,24,Canadá,29,Masculino,Smart TV,1 Mes
+915,Estándar,12,20,10,23,29,06,24,Italia,41,Masculino,Ordenador,1 Mes
+917,Básica,10,29,10,23,30,06,24,EEUU,33,Femenino,Tablet,3 Meses
+919,Premium,14,11,11,23,29,06,24,Canadá,40,Masculino,Smartphone,6 Meses
+923,Estándar,12,08,11,23,30,06,24,EEUU,28,Masculino,Tablet,6 Meses
+929,Premium,14,29,08,23,30,06,24,Reino Unido,44,Masculino,Smart TV,1 Mes
+937,Básica,10,17,07,23,30,06,24,Canadá,38,Masculino,Smartphone,1 Mes
+941,Premium,14,26,06,23,29,06,24,España,36,Masculino,Smart TV,1 Mes
+945,Básica,10,26,06,23,29,06,24,Australia,39,Masculino,Ordenador,1 Mes
+949,Premium,14,26,06,23,30,06,24,EEUU,40,Masculino,Tablet,6 Meses
+950,Básica,10,20,06,23,30,06,24,Reino Unido,31,Masculino,Tablet,1 Mes
+953,Estándar,12,16,06,23,30,06,24,Australia,34,Femenino,Ordenador,1 Mes
+954,Estándar,12,17,06,23,30,06,24,Italia,38,Masculino,Smartphone,3 Meses
+960,Básica,10,15,07,23,30,06,24,Canadá,46,Femenino,Tablet,6 Meses
+965,Básica,10,14,08,23,30,06,24,EEUU,46,Masculino,Ordenador,1 Mes
+967,Básica,10,26,08,23,30,06,24,EEUU,42,Femenino,Smartphone,3 Meses
+969,Premium,14,02,09,23,30,06,24,Australia,28,Masculino,Smart TV,6 Meses
+975,Básica,10,02,10,23,30,06,24,España,36,Femenino,Smart TV,1 Mes
+977,Premium,14,07,10,23,30,06,24,Méjico,45,Femenino,Ordenador,6 Meses
+981,Premium,14,09,10,23,30,06,24,Francia,28,Femenino,Smart TV,6 Meses
+985,Premium,14,21,10,23,29,06,24,Brasil,36,Masculino,Smart TV,6 Meses
+1007,Básica,10,17,07,23,30,06,24,EEUU,35,Masculino,Smart TV,6 Meses
+1011,Premium,14,01,07,23,30,06,24,España,28,Masculino,Smart TV,12 Meses
+1015,Básica,10,28,06,23,30,06,24,EEUU,32,Femenino,Ordenador,1 Mes
+1019,Estándar,12,24,06,23,30,06,24,EEUU,27,Femenino,Tablet,12 Meses
+1037,Básica,10,29,08,23,30,06,24,Italia,37,Femenino,Tablet,12 Meses
+1051,Básica,10,10,10,23,30,06,24,Australia,46,Masculino,Ordenador,6 Meses
+1077,Básica,10,22,07,23,30,06,24,Francia,38,Femenino,Ordenador,12 Meses
+1081,Premium,14,27,06,23,30,06,24,Australia,40,Femenino,Smartphone,1 Mes
+1085,Básica,10,29,06,23,30,06,24,Francia,33,Femenino,Smartphone,1 Mes
+1089,Premium,14,24,06,23,30,06,24,EEUU,46,Femenino,Tablet,1 Mes
+1155,Básica,10,30,06,23,30,06,24,Italia,49,Femenino,Ordenador,1 Mes
+48,Estándar,13,15,09,22,24,06,24,Canadá,32,Masculino,Tablet,12 Meses
+406,Premium,14,19,08,23,26,06,24,Australia,32,Femenino,Smartphone,12 Meses
+670,Básica,10,08,06,23,29,06,24,,38,Masculino,Smart TV,6 Meses
+517,Básica,10,06,08,23,28,06,24,España,34,Femenino,Smart TV,1 Mes
+679,Estándar,12,05,07,23,29,06,24,Australia,49,Masculino,Ordenador,1 Mes
+811,Premium,14,10,06,23,30,06,24,España,36,Masculino,Ordenador,6 Meses
+151,Básica,11,12,12,23,25,06,24,,30,Femenino,Ordenador,1 Mes
+61,Premium,15,08,02,24,22,06,24,Australia,28,Femenino,Ordenador,1 Mes
+72,Básica,10,11,10,23,22,06,24,Brasil,31,Femenino,Smartphone,12 Meses
+260,Básica,10,17,07,23,26,06,24,Francia,27,Femenino,Smartphone,3 Meses
+717,Básica,10,18,10,23,29,06,24,España,39,Femenino,Tablet,12 Meses
+256,Premium,15,30,05,23,26,06,24,Francia,34,Masculino,Tablet,1 Mes
+622,Básica,10,29,08,23,28,06,24,Alemania,35,Masculino,Smartphone,1 Mes
+798,Estándar,12,12,07,23,30,06,24,Francia,35,Masculino,Ordenador,1 Mes
+351,Premium,14,02,11,23,28,06,24,Reino Unido,34,Femenino,Smart TV,12 Meses
+608,Básica,10,22,06,23,28,06,24,España,48,Femenino,Smart TV,1 Mes
+402,Básica,10,21,07,23,26,06,24,EEUU,42,Masculino,Smartphone,1 Mes
+570,Básica,10,20,11,23,30,06,24,España,41,Femenino,Ordenador,3 Meses
+199,Premium,14,31,10,23,25,06,24,Reino Unido,39,Femenino,Tablet,1 Mes
+651,Premium,14,15,08,23,29,06,24,Brasil,31,Masculino,Tablet,1 Mes
+39,Premium,15,28,12,23,23,06,24,Canadá,27,Femenino,Smart TV,1 Mes
+280,Básica,10,13,11,23,27,06,24,Francia,34,Femenino,Ordenador,3 Meses
+506,Premium,14,23,10,23,29,06,24,España,27,Masculino,Smart TV,1 Mes
+484,Estándar,12,25,08,23,28,06,24,España,40,Masculino,Smartphone,6 Meses
+981,Premium,14,09,10,23,30,06,24,Francia,28,Femenino,Smart TV,6 Meses
+887,Básica,10,26,06,23,30,06,24,Australia,38,Femenino,Ordenador,3 Meses
+187,Básica,10,10,07,23,24,06,24,Canadá,49,Femenino,Ordenador,6 Meses
+356,Premium,14,14,10,23,30,06,24,Reino Unido,38,Masculino,Smart TV,1 Mes
+801,Premium,14,22,06,23,29,06,24,EEUU,46,Masculino,Smartphone,3 Meses
+474,Estándar,12,30,07,23,28,06,24,Reino Unido,38,Masculino,Smartphone,1 Mes
+122,Básica,11,03,05,23,28,06,24,Brasil,51,Masculino,Smart TV,6 Meses
+100,Básica,11,22,01,24,25,06,24,Canadá,35,Masculino,Ordenador,3 Meses
+584,Premium,14,14,07,23,28,06,24,Alemania,48,Femenino,Smart TV,3 Meses
+781,Premium,14,13,11,23,29,06,24,Canadá,30,Femenino,Smartphone,3 Meses
+655,Básica,10,26,07,23,29,06,24,Alemania,42,Masculino,Tablet,12 Meses
+227,Premium,14,30,09,23,24,06,24,Italia,87,Femenino,Smartphone,6 Meses
+269,Estándar,12,15,10,23,25,06,24,EEUU,29,Femenino,Ordenador,1 Mes
+703,Estándar,12,27,09,23,30,06,24,Alemania,35,Masculino,Ordenador,3 Meses
+723,Estándar,12,01,08,23,30,06,24,Reino Unido,40,Femenino,Smartphone,6 Meses
+401,Premium,14,17,07,23,26,06,24,Australia,47,Femenino,Ordenador,1 Mes
+399,Estándar,12,14,07,23,25,06,24,EEUU,44,Femenino,Smartphone,6 Meses
+668,Estándar,12,03,07,23,30,06,24,Canadá,49,Masculino,Smart TV,6 Meses
+654,Estándar,12,17,07,23,28,06,24,Reino Unido,30,Femenino,Smartphone,1 Mes
+355,Básica,10,12,10,23,27,06,24,Reino Unido,32,Femenino,Tablet,1 Mes
+601,Básica,10,05,06,23,30,06,24,Alemania,46,Femenino,Smart TV,3 Meses
+136,Premium,14,13,09,23,26,06,24,Francia,41,Femenino,Smart TV,1 Mes
+472,Básica,10,13,07,23,27,06,24,Italia,32,Femenino,Tablet,1 Mes
+161,Básica,10,23,10,23,24,06,24,Francia,45,Masculino,Tablet,3 Meses
+905,Básica,10,01,10,23,30,06,24,Francia,38,Femenino,Ordenador,3 Meses
+969,Premium,14,02,09,23,30,06,24,Australia,28,Masculino,Smart TV,6 Meses
+63,Estándar,13,23,02,23,27,06,24,España,41,Femenino,Smart TV,1 Mes
+737,Básica,10,02,07,23,30,06,24,Australia,43,Femenino,Tablet,12 Meses
+515,Básica,10,01,07,23,29,06,24,España,44,Femenino,Ordenador,12 Meses
+230,Básica,10,30,10,23,26,06,24,Australia,51,Masculino,Ordenador,3 Meses
+158,Básica,10,19,10,23,28,06,24,EEUU,47,Femenino,Smartphone,1 Mes
+92,Básica,11,05,01,23,28,06,24,Australia,39,Masculino,Smart TV,1 Mes
+542,Básica,10,26,07,23,27,06,24,Canadá,41,Masculino,Smartphone,1 Mes
+345,Básica,10,08,08,23,25,06,24,España,48,Femenino,Smart TV,1 Mes
+711,Premium,14,15,11,23,29,06,24,Italia,27,Femenino,Ordenador,3 Meses
+420,Básica,10,02,11,23,28,06,24,Francia,28,Masculino,Ordenador,6 Meses
+558,Estándar,12,18,10,23,30,06,24,España,37,Femenino,Smart TV,1 Mes
+195,Básica,10,26,08,23,24,06,24,EEUU,50,Femenino,Smartphone,12 Meses
+42,Básica,10,15,06,23,28,06,24,España,40,Masculino,Smartphone,3 Meses
+565,Básica,10,29,09,23,27,06,24,Canadá,29,Masculino,Ordenador,3 Meses
+185,Básica,11,12,05,23,25,06,24,Canadá,47,Femenino,Tablet,1 Mes
+453,Estándar,13,30,05,23,28,06,24,Francia,45,Femenino,Tablet,1 Mes
+184,Estándar,13,26,04,23,25,06,24,Australia,28,Femenino,Ordenador,1 Mes
+408,Estándar,12,27,09,23,27,06,24,Alemania,37,Femenino,Tablet,12 Meses
+386,Básica,10,11,07,23,26,06,24,Australia,48,Masculino,Tablet,1 Mes
+380,Básica,10,05,08,23,27,06,24,EEUU,27,Femenino,Smart TV,1 Mes
+40,Básica,11,07,03,24,22,06,24,Australia,48,Masculino,Tablet,1 Mes
+498,Estándar,12,17,11,23,28,06,24,Reino Unido,41,Femenino,Smartphone,6 Meses
+8,Básica,11,02,04,24,24,06,24,Australia,39,Femenino,Ordenador,1 Mes
+589,Estándar,12,04,08,23,29,06,24,España,28,Masculino,Ordenador,6 Meses
+153,Estándar,13,25,12,23,24,06,24,EEUU,47,Masculino,Smartphone,1 Mes
+395,Básica,10,05,06,23,26,06,24,Canadá,45,Femenino,Ordenador,1 Mes
+513,Estándar,12,06,07,23,28,06,24,Canadá,50,Masculino,Tablet,1 Mes
+471,Premium,14,08,07,23,27,06,24,Francia,43,Masculino,Tablet,1 Mes
+572,Básica,10,21,11,23,30,06,24,EEUU,49,Femenino,Tablet,12 Meses
+96,Premium,14,26,07,23,24,06,24,EEUU,32,Masculino,Ordenador,3 Meses
+522,Básica,10,17,06,23,27,06,24,EEUU,32,Femenino,Tablet,3 Meses
+448,Estándar,12,12,08,23,27,06,24,Francia,48,Masculino,Tablet,12 Meses
+75,Básica,11,28,05,23,26,06,24,Reino Unido,28,Femenino,Ordenador,1 Mes
+126,Premium,14,21,09,23,23,06,24,Australia,45,Masculino,Ordenador,1 Mes
+376,Básica,10,20,06,23,27,06,24,,39,Femenino,Smartphone,3 Meses
+441,Premium,14,05,10,23,28,06,24,Australia,48,Femenino,Ordenador,3 Meses
+967,Básica,10,26,08,23,30,06,24,EEUU,42,Femenino,Smartphone,3 Meses
+810,Básica,10,09,06,23,29,06,24,Brasil,38,Masculino,Smartphone,3 Meses
+744,Premium,14,11,06,23,29,06,24,Reino Unido,34,Femenino,Tablet,12 Meses
+267,Básica,10,08,09,23,27,06,24,Australia,44,Femenino,Ordenador,3 Meses
+88,Estándar,12,27,09,23,28,06,24,España,47,Masculino,Tablet,1 Mes
+162,Premium,15,19,04,23,25,06,24,EEUU,31,Masculino,Ordenador,6 Meses
+56,Premium,15,15,03,23,27,06,24,,36,Masculino,Tablet,3 Meses
+457,Estándar,12,29,06,23,28,06,24,EEUU,40,Masculino,Smart TV,6 Meses
+362,Básica,11,08,12,23,27,06,24,Reino Unido,31,Masculino,Ordenador,1 Mes
+923,Estándar,12,08,11,23,30,06,24,EEUU,28,Masculino,Tablet,6 Meses
+138,Estándar,12,21,09,23,23,06,24,Reino Unido,28,Masculino,Ordenador,1 Mes
+605,Básica,10,10,06,23,29,06,24,Italia,46,Femenino,Tablet,3 Meses
+125,Básica,10,21,08,23,24,06,24,Australia,42,Masculino,Smartphone,3 Meses
+213,Estándar,12,08,09,23,24,06,24,EEUU,49,Femenino,Smart TV,12 Meses
+389,Básica,10,02,08,23,26,06,24,EEUU,45,Masculino,Smart TV,12 Meses
+370,Básica,10,22,10,23,29,06,24,EEUU,46,Femenino,Smartphone,1 Mes
+757,Estándar,12,03,09,23,30,06,24,EEUU,32,Masculino,Ordenador,6 Meses
+52,Básica,10,29,08,23,28,06,24,Alemania,37,Masculino,Tablet,6 Meses
+503,Estándar,12,10,11,23,26,06,24,España,30,Masculino,Tablet,3 Meses
+875,Básica,10,26,06,23,29,06,24,Alemania,28,Masculino,Smart TV,6 Meses
+825,Básica,10,09,08,23,30,06,24,Italia,30,Femenino,Ordenador,1 Mes
+410,Básica,10,02,09,23,25,06,24,Australia,37,Masculino,Smart TV,1 Mes
+462,Premium,14,10,06,23,28,06,24,España,45,Masculino,Smartphone,3 Meses
+6,Premium,15,18,03,23,27,06,24,Francia,29,Femenino,Smart TV,1 Mes
+465,Estándar,12,05,06,23,26,06,24,Australia,34,Masculino,Ordenador,6 Meses
+741,Premium,14,09,06,23,30,06,24,España,47,Masculino,Smart TV,1 Mes
+672,Básica,10,09,06,23,30,06,24,EEUU,47,Femenino,Tablet,1 Mes
+975,Básica,10,02,10,23,30,06,24,España,36,Femenino,Smart TV,1 Mes
+953,Estándar,12,16,06,23,30,06,24,Australia,34,Femenino,Ordenador,1 Mes
+476,Premium,14,18,08,23,26,06,24,,31,Femenino,Ordenador,6 Meses
+403,Estándar,12,23,07,23,28,06,24,EEUU,88,Masculino,Smartphone,1 Mes
+272,Básica,10,10,08,23,26,06,24,Francia,36,Femenino,Smartphone,1 Mes
+414,Premium,14,21,08,23,27,06,24,Australia,47,Femenino,Ordenador,6 Meses
+222,Básica,11,12,12,23,26,06,24,Alemania,48,Femenino,Smartphone,1 Mes
+266,Premium,14,17,08,23,26,06,24,Canadá,44,Masculino,Tablet,1 Mes
+393,Estándar,12,03,06,23,26,06,24,EEUU,40,Masculino,Tablet,1 Mes
+43,Estándar,13,07,02,23,27,06,24,Canadá,36,Femenino,Smart TV,1 Mes
+488,Estándar,12,08,10,23,28,06,24,Reino Unido,33,Femenino,Smart TV,3 Meses
+641,Premium,14,21,11,23,29,06,24,Francia,33,Masculino,Tablet,12 Meses
+789,Premium,14,02,09,23,30,06,24,EEUU,33,Femenino,Smartphone,1 Mes
+730,Básica,10,27,06,23,30,06,24,Australia,49,Femenino,Smartphone,12 Meses
+147,Básica,10,08,11,23,24,06,24,Reino Unido,49,Femenino,Ordenador,3 Meses
+607,Estándar,12,14,06,23,27,06,24,EEUU,27,Femenino,Smart TV,12 Meses
+779,Premium,14,07,11,23,28,06,24,Australia,36,Femenino,Smart TV,3 Meses
+755,Básica,10,16,08,23,30,06,24,Reino Unido,32,Masculino,Tablet,12 Meses
+656,Premium,14,31,07,23,29,06,24,Canadá,33,Femenino,Ordenador,1 Mes
+255,Básica,11,20,05,23,26,06,24,EEUU,46,Femenino,Smart TV,3 Meses
+60,Básica,11,14,06,24,22,06,24,Reino Unido,42,Masculino,Tablet,3 Meses
+348,Estándar,12,05,10,23,26,06,24,Canadá,30,Masculino,Smart TV,6 Meses
+431,Premium,15,04,12,23,28,06,24,Australia,28,Masculino,Smart TV,6 Meses
+254,Premium,15,20,05,23,27,06,24,Reino Unido,48,Femenino,Smart TV,3 Meses
+618,Estándar,12,06,09,23,28,06,24,EEUU,28,Femenino,Smart TV,12 Meses
+678,Estándar,12,27,06,23,28,06,24,EEUU,42,Femenino,Smart TV,1 Mes
+470,Básica,10,03,07,23,28,06,24,,31,Femenino,Tablet,12 Meses
+229,Estándar,12,04,11,23,27,06,24,EEUU,29,Masculino,Smartphone,1 Mes
+17,Básica,11,24,01,23,25,06,24,Francia,30,Femenino,Ordenador,12 Meses
+588,Estándar,12,07,08,23,27,06,24,,31,Masculino,Smartphone,12 Meses
+822,Básica,10,24,07,23,29,06,24,Francia,36,Masculino,Ordenador,6 Meses
+853,Estándar,12,06,11,23,30,06,24,Canadá,39,Masculino,Tablet,3 Meses
+490,Básica,10,18,10,23,29,06,24,EEUU,36,Femenino,Smart TV,12 Meses
+321,Premium,14,22,06,23,27,06,24,EEUU,33,Femenino,Smartphone,3 Meses
+66,Premium,15,30,01,23,27,06,24,Australia,29,Masculino,Smartphone,12 Meses
+189,Premium,14,02,09,23,26,06,24,EEUU,47,Masculino,Smart TV,1 Mes
+352,Básica,10,20,09,23,26,06,24,Reino Unido,38,Masculino,Ordenador,6 Meses
+208,Estándar,13,05,01,24,23,06,24,España,36,Femenino,Tablet,1 Mes
+397,Básica,10,14,07,23,26,06,24,Francia,31,Femenino,Smartphone,1 Mes
+733,Estándar,12,18,06,23,29,06,24,Australia,51,Femenino,Ordenador,12 Meses
+606,Premium,14,13,06,23,29,06,24,EEUU,50,Masculino,Tablet,12 Meses
+557,Básica,10,05,10,23,29,06,24,Alemania,37,Masculino,Smartphone,1 Mes
+90,Estándar,13,03,02,24,23,06,24,Alemania,49,Femenino,Smartphone,3 Meses
+119,Estándar,12,20,09,23,25,06,24,EEUU,44,Femenino,Smartphone,6 Meses
+367,Básica,10,23,10,23,25,06,24,EEUU,32,Masculino,Ordenador,1 Mes
+13,Estándar,13,30,11,22,27,06,24,Canadá,48,Femenino,Ordenador,3 Meses
+549,Estándar,12,05,09,23,27,06,24,EEUU,38,Femenino,Smartphone,6 Meses
+442,Básica,10,01,07,23,27,06,24,Méjico,30,Femenino,Ordenador,1 Mes
+965,Básica,10,14,08,23,30,06,24,EEUU,46,Masculino,Ordenador,1 Mes
+525,Básica,10,04,06,23,27,06,24,EEUU,44,Masculino,Tablet,3 Meses
+361,Premium,14,25,11,23,28,06,24,Canadá,36,Femenino,Ordenador,3 Meses
+18,Estándar,13,18,10,22,24,06,24,Canadá,43,Masculino,Smartphone,1 Mes
+598,Estándar,12,05,07,23,29,06,24,Alemania,29,Femenino,Tablet,12 Meses
+682,Estándar,12,23,07,23,27,06,24,Francia,42,Masculino,Tablet,1 Mes
+333,Estándar,12,24,07,23,27,06,24,Reino Unido,43,Femenino,Smart TV,12 Meses
+433,Estándar,12,06,11,23,25,06,24,Australia,46,Femenino,Smartphone,3 Meses
+390,Estándar,12,03,07,23,28,06,24,Australia,43,Femenino,Ordenador,1 Mes
+828,Estándar,12,30,08,23,30,06,24,Reino Unido,33,Femenino,Smart TV,12 Meses
+580,Básica,10,09,08,23,29,06,24,Reino Unido,46,Femenino,Tablet,3 Meses
+857,Básica,10,16,09,23,30,06,24,Canadá,40,Masculino,Smartphone,12 Meses
+831,Premium,14,02,09,23,29,06,24,Reino Unido,35,Masculino,Smartphone,6 Meses
+177,Básica,11,23,05,23,26,06,24,Alemania,27,Femenino,Smartphone,1 Mes
+98,Estándar,13,07,03,23,28,06,24,Alemania,31,Femenino,Tablet,12 Meses
+87,Premium,15,28,12,22,23,06,24,Australia,45,Masculino,Smart TV,1 Mes
+183,Estándar,13,26,05,23,26,06,24,Canadá,36,Femenino,Tablet,6 Meses
+91,Premium,14,03,10,23,23,06,24,EEUU,39,Masculino,Tablet,12 Meses
+26,Premium,15,12,01,23,27,06,24,Australia,29,Masculino,Smartphone,1 Mes
+231,Premium,14,29,10,23,24,06,24,Francia,43,Masculino,Smartphone,6 Meses
+287,Básica,10,16,10,23,26,06,24,EEUU,43,Masculino,Smartphone,1 Mes
+249,Estándar,12,16,09,23,27,06,24,EEUU,42,Femenino,Smartphone,1 Mes
+791,Premium,14,25,08,23,30,06,24,Australia,29,Masculino,Smartphone,1 Mes
+623,Estándar,12,30,08,23,28,06,24,Alemania,29,Femenino,Smart TV,1 Mes
+168,Estándar,13,11,12,23,28,06,24,Italia,29,Masculino,Tablet,6 Meses
+19,Premium,15,15,02,24,23,06,24,Canadá,32,Femenino,Smart TV,3 Meses
+681,Premium,14,16,07,23,28,06,24,Méjico,33,Masculino,Ordenador,3 Meses
+190,Básica,10,18,09,23,26,06,24,Australia,37,Femenino,Tablet,1 Mes
+653,Estándar,12,29,07,23,29,06,24,Australia,28,Femenino,Smartphone,6 Meses
+30,Básica,11,17,05,24,22,06,24,Francia,42,Masculino,Smartphone,6 Meses
+886,Premium,14,23,06,23,30,06,24,España,45,Femenino,Smart TV,6 Meses
+16,Premium,15,07,04,23,27,06,24,Alemania,36,Masculino,Tablet,3 Meses
+837,Premium,14,06,10,23,29,06,24,EEUU,46,Femenino,Smart TV,1 Mes
+392,Básica,10,03,06,23,28,06,24,Alemania,28,Masculino,Smart TV,6 Meses
+856,Premium,14,06,10,23,30,06,24,Australia,32,Femenino,Smart TV,1 Mes
+454,Estándar,13,28,05,23,28,06,24,Reino Unido,51,Femenino,Tablet,3 Meses
+611,Básica,10,11,07,23,28,06,24,Francia,29,Femenino,Smartphone,12 Meses
+548,Estándar,12,05,09,23,27,06,24,Australia,51,Femenino,Smartphone,6 Meses
+689,Básica,10,04,09,23,29,06,24,,37,Femenino,Smart TV,1 Mes
+29,Premium,15,19,12,23,23,06,24,Australia,36,Femenino,Ordenador,1 Mes
+336,Premium,14,02,09,23,26,06,24,Alemania,35,Masculino,Ordenador,3 Meses
+841,Premium,14,06,10,23,29,06,24,Canadá,42,Masculino,Smartphone,12 Meses
+505,Básica,10,21,10,23,28,06,24,,35,Masculino,Smartphone,3 Meses
+228,Estándar,12,04,11,23,27,06,24,Alemania,39,Masculino,Smart TV,6 Meses
+473,Estándar,12,27,07,23,28,06,24,Canadá,46,Femenino,Smartphone,3 Meses
+430,Básica,10,22,11,23,30,06,24,Italia,46,Femenino,Smart TV,12 Meses
+36,Premium,15,01,03,23,27,06,24,Francia,35,Masculino,Tablet,12 Meses
+460,Premium,14,30,06,23,28,06,24,Alemania,30,Femenino,Smart TV,1 Mes
+140,Básica,11,02,05,23,23,06,24,Alemania,43,Femenino,Smartphone,12 Meses
+458,Básica,10,24,07,23,28,06,24,Australia,27,Masculino,Tablet,1 Mes
+685,Premium,14,15,08,23,30,06,24,España,31,Masculino,Smartphone,12 Meses
+529,Estándar,12,07,07,23,27,06,24,EEUU,50,Femenino,Ordenador,3 Meses
+5,Básica,11,01,05,24,28,06,24,Italia,33,Masculino,Smartphone,1 Mes
+103,Estándar,13,04,04,23,26,06,24,Méjico,36,Masculino,Ordenador,6 Meses
+411,Premium,14,03,09,23,26,06,24,Canadá,48,Femenino,Tablet,12 Meses
+112,Básica,10,01,06,23,28,06,24,EEUU,33,Femenino,Ordenador,1 Mes
+686,Básica,10,18,08,23,28,06,24,Francia,37,Masculino,Tablet,3 Meses
+483,Estándar,12,25,08,23,27,06,24,Australia,28,Masculino,Smart TV,6 Meses
+32,Básica,10,07,07,23,28,06,24,Brasil,37,Masculino,Tablet,12 Meses
+845,Básica,10,19,10,23,29,06,24,Francia,49,Masculino,Smartphone,3 Meses
+201,Premium,14,04,07,23,27,06,24,EEUU,49,Femenino,Smart TV,1 Mes
+148,Estándar,12,27,11,23,28,06,24,Canadá,39,Femenino,Smartphone,3 Meses
+246,Premium,15,03,05,23,25,06,24,Brasil,38,Femenino,Smartphone,12 Meses
+750,Básica,10,09,07,23,29,06,24,Australia,47,Masculino,Smart TV,1 Mes
+528,Estándar,12,13,07,23,29,06,24,España,42,Femenino,Smartphone,12 Meses
+323,Estándar,13,31,05,23,26,06,24,Australia,40,Masculino,Smartphone,3 Meses
+752,Premium,14,24,07,23,28,06,24,Reino Unido,28,Femenino,Smartphone,12 Meses
+419,Estándar,12,30,10,23,27,06,24,EEUU,27,Femenino,Ordenador,1 Mes
+180,Básica,10,26,09,23,25,06,24,Australia,36,Masculino,Ordenador,6 Meses
+690,Estándar,12,05,09,23,30,06,24,Reino Unido,36,Masculino,Ordenador,1 Mes
+157,Estándar,12,27,09,23,24,06,24,Reino Unido,30,Masculino,Ordenador,1 Mes
+892,Básica,10,29,07,23,30,06,24,EEUU,38,Masculino,Tablet,6 Meses
+209,Premium,15,10,12,23,24,06,24,Italia,41,Masculino,Ordenador,12 Meses
+464,Básica,10,03,06,23,28,06,24,Canadá,45,Masculino,Ordenador,1 Mes
+85,Premium,15,06,04,24,27,06,24,Italia,37,Femenino,Ordenador,6 Meses
+46,Premium,15,23,02,23,27,06,24,Australia,34,Masculino,Smartphone,6 Meses
+377,Premium,14,27,08,23,28,06,24,EEUU,37,Masculino,Ordenador,6 Meses
+93,Estándar,13,05,02,23,26,06,24,Alemania,35,Masculino,Smartphone,1 Mes
+546,Premium,14,20,08,23,26,06,24,Brasil,31,Masculino,Smart TV,6 Meses
+7,Estándar,13,09,12,22,25,06,24,,46,Masculino,Tablet,1 Mes
+609,Estándar,12,03,07,23,29,06,24,Reino Unido,50,Femenino,Smartphone,1 Mes
+659,Premium,14,03,08,23,29,06,24,Reino Unido,41,Masculino,Ordenador,3 Meses
+451,Básica,10,18,07,23,28,06,24,España,31,Femenino,Ordenador,12 Meses
+309,Estándar,12,09,08,23,28,06,24,Francia,31,Masculino,Smartphone,6 Meses
+118,Estándar,12,07,08,23,27,06,24,España,33,Masculino,Smartphone,3 Meses
+416,Premium,14,02,09,23,26,06,24,Reino Unido,28,Masculino,Tablet,12 Meses
+426,Premium,14,05,10,23,30,06,24,España,35,Masculino,Ordenador,1 Mes
+307,Estándar,12,08,07,23,28,06,24,España,29,Femenino,Smart TV,1 Mes
+304,Estándar,12,11,06,23,29,06,24,EEUU,33,Femenino,Smartphone,3 Meses
+742,Básica,10,10,06,23,30,06,24,Australia,51,Masculino,Smartphone,1 Mes
+150,Básica,11,15,12,23,23,06,24,Australia,47,Femenino,Ordenador,6 Meses
+459,Estándar,12,19,07,23,27,06,24,Francia,46,Femenino,Tablet,1 Mes
+687,Premium,14,26,08,23,29,06,24,Australia,30,Femenino,Tablet,12 Meses
+851,Premium,14,09,11,23,30,06,24,Brasil,47,Masculino,Ordenador,1 Mes
+514,Estándar,12,07,07,23,28,06,24,Italia,35,Masculino,Tablet,1 Mes
+724,Premium,14,01,08,23,29,06,24,,44,Masculino,Ordenador,1 Mes
+137,Básica,10,10,08,23,22,06,24,Reino Unido,49,Masculino,Ordenador,3 Meses
+62,Básica,10,03,08,23,28,06,24,Australia,37,Masculino,Smartphone,3 Meses
+533,Básica,10,04,06,23,27,06,24,Alemania,38,Masculino,Smartphone,3 Meses
+346,Premium,14,31,08,23,26,06,24,Francia,37,Masculino,Tablet,1 Mes
+583,Estándar,12,17,07,23,28,06,24,EEUU,38,Femenino,Tablet,1 Mes
+313,Estándar,13,27,05,23,27,06,24,EEUU,36,Femenino,Ordenador,3 Meses
+621,Premium,14,06,09,23,29,06,24,Italia,49,Masculino,Smart TV,1 Mes
+41,Premium,15,20,01,24,22,06,24,Reino Unido,31,Femenino,Ordenador,3 Meses
+378,Estándar,12,13,08,23,27,06,24,Reino Unido,47,Femenino,Ordenador,3 Meses
+335,Básica,10,11,08,23,25,06,24,Brasil,47,Femenino,Tablet,12 Meses
+612,Premium,14,17,07,23,27,06,24,EEUU,36,Masculino,Smart TV,1 Mes
+240,Estándar,12,27,06,23,26,06,24,EEUU,38,Masculino,Smartphone,1 Mes
+197,Básica,10,27,09,23,23,06,24,Alemania,45,Masculino,Tablet,1 Mes
+871,Premium,14,24,06,23,29,06,24,EEUU,45,Masculino,Tablet,1 Mes
+418,Estándar,12,21,10,23,27,06,24,Australia,47,Femenino,Smart TV,1 Mes
+478,Estándar,12,08,09,23,27,06,24,Alemania,32,Masculino,Ordenador,12 Meses
+167,Básica,11,07,04,23,24,06,24,Brasil,29,Masculino,Smartphone,1 Mes
+468,Estándar,12,28,06,23,27,06,24,Reino Unido,32,Masculino,Smart TV,3 Meses
+746,Básica,10,15,06,23,30,06,24,Reino Unido,32,Masculino,Smartphone,6 Meses
+233,Básica,10,07,07,23,26,06,24,Canadá,50,Femenino,Smart TV,6 Meses
+193,Estándar,12,05,08,23,25,06,24,Reino Unido,50,Masculino,Ordenador,1 Mes
+555,Básica,10,13,09,23,28,06,24,Alemania,37,Femenino,Smartphone,12 Meses
+328,Estándar,12,26,07,23,27,06,24,Alemania,45,Femenino,Tablet,12 Meses
+163,Estándar,13,05,04,23,26,06,24,Alemania,29,Masculino,Ordenador,1 Mes
+883,Estándar,12,13,06,23,29,06,24,EEUU,28,Femenino,Tablet,12 Meses
+754,Estándar,12,10,08,23,29,06,24,Canadá,41,Masculino,Ordenador,12 Meses
+751,Básica,10,18,07,23,29,06,24,España,45,Femenino,Ordenador,1 Mes
+662,Básica,10,15,06,23,29,06,24,Canadá,49,Masculino,Tablet,6 Meses
+292,Básica,11,12,12,23,27,06,24,Canadá,43,Femenino,Ordenador,1 Mes
+319,Premium,14,22,08,23,26,06,24,,32,Femenino,Smartphone,1 Mes
+9,Estándar,12,20,10,23,23,06,24,España,37,Masculino,Smartphone,6 Meses
+318,Estándar,12,02,09,23,27,06,24,Méjico,39,Femenino,Ordenador,1 Mes
+839,Básica,10,06,10,23,30,06,24,Australia,35,Femenino,Ordenador,6 Meses
+551,Premium,14,03,09,23,28,06,24,Australia,41,Femenino,Ordenador,1 Mes
+59,Premium,15,03,12,23,23,06,24,EEUU,27,Femenino,Smart TV,12 Meses
+220,Básica,10,26,11,23,27,06,24,Italia,29,Masculino,Tablet,1 Mes
+365,Básica,10,13,10,23,27,06,24,Alemania,36,Masculino,Ordenador,1 Mes
+502,Básica,10,21,11,23,30,06,24,Australia,38,Masculino,Smartphone,12 Meses
+561,Premium,14,30,09,23,28,06,24,Australia,29,Femenino,Ordenador,3 Meses
+294,Premium,14,15,10,23,29,06,24,Méjico,50,Masculino,Ordenador,1 Mes
+261,Premium,14,04,07,23,25,06,24,EEUU,27,Femenino,Smart TV,12 Meses
+725,Básica,10,01,08,23,29,06,24,España,29,Femenino,Tablet,12 Meses
+784,Estándar,12,31,10,23,30,06,24,Australia,27,Masculino,Ordenador,1 Mes
+65,Básica,11,29,03,24,28,06,24,Reino Unido,40,Femenino,Ordenador,12 Meses
+44,Estándar,13,26,04,23,26,06,24,EEUU,29,Masculino,Tablet,3 Meses
+876,Premium,14,27,06,23,30,06,24,Canadá,44,Masculino,Tablet,6 Meses
+145,Básica,11,05,05,23,26,06,24,Italia,35,Femenino,Ordenador,6 Meses
+695,Básica,10,21,09,23,28,06,24,Reino Unido,28,Masculino,Ordenador,1 Mes
+143,Estándar,12,31,08,23,24,06,24,EEUU,30,Femenino,Tablet,1 Mes
+806,Premium,14,01,07,23,30,06,24,Francia,30,Femenino,Ordenador,12 Meses
+477,Básica,10,24,08,23,27,06,24,Italia,50,Masculino,Ordenador,6 Meses
+793,Estándar,12,05,08,23,30,06,24,Australia,42,Femenino,Smartphone,6 Meses
+293,Estándar,13,09,12,23,25,06,24,Reino Unido,39,Femenino,Ordenador,6 Meses
+109,Estándar,13,08,02,24,25,06,24,,35,Femenino,Tablet,12 Meses
+688,Estándar,12,03,09,23,28,06,24,Alemania,42,Masculino,Smartphone,1 Mes
+283,Estándar,12,30,06,23,26,06,24,Australia,46,Masculino,Smartphone,12 Meses
+799,Premium,14,02,07,23,30,06,24,Alemania,48,Masculino,Tablet,12 Meses
+691,Premium,14,01,09,23,29,06,24,Alemania,28,Femenino,Ordenador,1 Mes
+497,Básica,10,09,11,23,29,06,24,Brasil,44,Masculino,Smartphone,6 Meses
+617,Básica,10,05,09,23,28,06,24,Canadá,45,Femenino,Smartphone,3 Meses
+728,Estándar,12,04,08,23,29,06,24,,39,Masculino,Ordenador,3 Meses
+599,Premium,14,06,07,23,27,06,24,Reino Unido,44,Masculino,Smart TV,3 Meses
+106,Premium,15,18,03,23,24,06,24,Alemania,49,Femenino,Tablet,12 Meses
+634,Estándar,12,29,09,23,29,06,24,,51,Femenino,Smart TV,1 Mes
+124,Premium,14,05,11,23,25,06,24,Brasil,43,Masculino,Ordenador,6 Meses
+10,Premium,15,07,01,24,22,06,24,Reino Unido,44,Femenino,Smart TV,12 Meses
+343,Estándar,12,06,08,23,25,06,24,Reino Unido,46,Masculino,Smart TV,6 Meses
+563,Estándar,12,24,09,23,29,06,24,Alemania,34,Masculino,Tablet,1 Mes
+253,Estándar,13,21,05,23,25,06,24,Francia,45,Femenino,Tablet,12 Meses
+1007,Básica,10,17,07,23,30,06,24,EEUU,35,Masculino,Smart TV,6 Meses
+101,Premium,14,17,10,23,24,06,24,Reino Unido,46,Femenino,Tablet,1 Mes
+858,Estándar,12,10,09,23,30,06,24,Italia,40,Femenino,Ordenador,12 Meses
+37,Básica,10,14,09,23,25,06,24,España,45,Femenino,Ordenador,6 Meses
+835,Premium,14,27,09,23,29,06,24,España,31,Masculino,Ordenador,1 Mes
+245,Básica,11,20,04,23,26,06,24,Australia,47,Masculino,Smart TV,6 Meses
+646,Premium,14,27,10,23,30,06,24,Reino Unido,49,Femenino,Ordenador,6 Meses
+732,Básica,10,19,06,23,29,06,24,Francia,47,Masculino,Tablet,1 Mes
+667,Básica,10,30,06,23,30,06,24,,51,Femenino,Smartphone,1 Mes
+449,Premium,14,07,08,23,28,06,24,Francia,37,Femenino,Ordenador,1 Mes
+748,Estándar,12,30,06,23,28,06,24,,40,Masculino,Smart TV,1 Mes
+594,Premium,14,06,06,23,30,06,24,Australia,38,Femenino,Smart TV,1 Mes
+332,Básica,10,22,07,23,26,06,24,Canadá,31,Masculino,Tablet,1 Mes
+179,Premium,15,03,12,23,26,06,24,,30,Femenino,Tablet,3 Meses
+587,Básica,10,07,08,23,28,06,24,Italia,39,Masculino,Smart TV,6 Meses
+70,Básica,11,08,05,24,22,06,24,Canadá,41,Masculino,Smartphone,6 Meses
+489,Premium,14,26,10,23,28,06,24,Canadá,49,Masculino,Tablet,1 Mes
+217,Básica,10,13,11,23,25,06,24,EEUU,44,Masculino,Smart TV,6 Meses
+379,Estándar,12,12,08,23,28,06,24,EEUU,46,Femenino,Smart TV,1 Mes
+985,Premium,14,21,10,23,29,06,24,Brasil,36,Masculino,Smart TV,6 Meses
+265,Básica,10,05,08,23,25,06,24,,32,Femenino,Smart TV,1 Mes
+305,Básica,11,24,05,23,26,06,24,Australia,47,Masculino,Smart TV,1 Mes
+21,Premium,15,10,06,24,22,06,24,Canadá,26,Femenino,Ordenador,12 Meses
+2,Premium,15,05,09,22,22,06,24,Brasil,35,Femenino,Tablet,3 Meses
+731,Premium,14,19,06,23,29,06,24,Francia,30,Masculino,Tablet,1 Mes
+116,Premium,15,19,05,23,23,06,24,EEUU,45,Femenino,Smart TV,1 Mes
+829,Estándar,12,01,09,23,29,06,24,España,31,Masculino,Tablet,1 Mes
+729,Estándar,12,07,07,23,30,06,24,Brasil,43,Femenino,Smartphone,12 Meses

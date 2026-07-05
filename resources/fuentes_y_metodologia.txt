@@ -1,0 +1,17 @@
+Fuentes utilizadas
+==================
+IBM Cognos Analytics sample - Telco Customer Churn:
+https://www.ibm.com/docs/en/cognos-analytics/12.0.x?topic=samples-telco-customer-churn
+
+Kaggle mirror - Telco Customer Churn:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Resumen metodológico
+====================
+1. Carga del dataset original con 7,043 filas y 21 columnas.
+2. Conversión de TotalCharges a número e imputación de 11 valores vacíos a 0 por coherencia con tenure=0.
+3. Comprobación de duplicados exactos: 0.
+4. Creación de variables derivadas para análisis: ChurnFlag, TenureGroup, MonthlyChargeGroup, RevenueRisk, NumServices, AvgMonthlyPerService, CustomerValueSegment y ChurnRiskProfile.
+5. Análisis descriptivo por contrato, método de pago, antigüedad, servicio de internet y perfil de riesgo.
+6. Construcción de dashboard con KPIs, gráficos e insights.
+7. Redacción de informe y README.

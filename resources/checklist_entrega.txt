@@ -1,0 +1,12 @@
+Checklist de entrega
+====================
+[OK] Dataset con más de 2.000 filas.
+[OK] Dataset con más de 10 columnas.
+[OK] Datos originales incluidos.
+[OK] Datos limpios incluidos.
+[OK] Transformación y limpieza documentadas.
+[OK] Análisis descriptivo incluido.
+[OK] Dashboard incluido.
+[OK] Informe explicativo incluido.
+[OK] README incluido.
+[OK] Repositorio preparado para subir a GitHub.

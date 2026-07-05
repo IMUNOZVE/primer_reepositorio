@@ -1,0 +1,1635 @@
+Identificador Usuario;Tipo Suscripción;Ingresos Mensuales;Día Suscripción;Mes Suscripción;Año Suscripción;Día Último Pago;Mes Último Pago;Año Último Pago;País;Edad;Género;Dispositivo;Duración Plan
+566;Premium;14;11;10;23;1;7;24;Canadá;45;Masculino;Tablet;1 Mes
+628;Estándar;12;9;10;23;1;7;24;EEUU;42;Masculino;Smartphone;6 Meses
+632;Básica;10;23;9;23;1;7;24;Canadá;39;Masculino;Smartphone;1 Mes
+636;Premium;14;28;10;23;1;7;24;Canadá;33;Femenino;Smart TV;6 Meses
+638;Estándar;12;16;11;23;1;7;24;Alemania;38;Masculino;Tablet;1 Mes
+642;Básica;10;19;11;23;1;7;24;Reino Unido;27;Masculino;Ordenador;3 Meses
+694;Premium;14;17;9;23;1;7;24;Australia;46;Masculino;Smart TV;1 Mes
+696;Premium;14;29;9;23;1;7;24;EEUU;31;Masculino;Tablet;12 Meses
+698;Estándar;12;12;10;23;2;7;24;Francia;28;Masculino;Ordenador;1 Mes
+702;Básica;10;25;9;23;1;7;24;Canadá;36;Masculino;Smartphone;1 Mes
+704;Premium;14;30;9;23;1;7;24;Méjico;27;Femenino;Tablet;1 Mes
+706;Premium;14;24;10;23;1;7;24;Italia;46;Femenino;Smartphone;3 Meses
+708;Estándar;12;2;11;23;1;7;24;EEUU;39;Masculino;Ordenador;3 Meses
+712;Básica;10;8;11;23;1;7;24;Italia;45;Masculino;Tablet;1 Mes
+738;Estándar;12;26;6;23;1;7;24;Francia;44;Femenino;Smartphone;3 Meses
+760;Premium;14;4;9;23;1;7;24;España;40;Femenino;Smartphone;1 Mes
+762;Premium;14;1;9;23;2;7;24;Alemania;48;Masculino;Ordenador;3 Meses
+764;Básica;10;18;9;23;3;7;24;Australia;28;Masculino;Smart TV;1 Mes
+766;Premium;14;30;9;23;1;7;24;EEUU;43;Masculino;Smartphone;3 Meses
+768;Estándar;12;8;10;23;2;7;24;Reino Unido;38;Femenino;Ordenador;12 Meses
+770;Básica;10;3;10;23;1;7;24;;42;Femenino;Ordenador;1 Mes
+772;Básica;10;2;10;23;1;7;24;Australia;48;Masculino;Ordenador;1 Mes
+774;Estándar;12;3;10;23;2;7;24;España;49;Masculino;Smartphone;3 Meses
+776;Premium;14;21;10;23;1;7;24;EEUU;44;Masculino;Ordenador;1 Mes
+778;Estándar;12;3;11;23;1;7;24;EEUU;33;Masculino;Tablet;1 Mes
+782;Básica;10;2;11;23;1;7;24;Reino Unido;44;Femenino;Ordenador;12 Meses
+795;Básica;10;3;8;23;1;7;24;Francia;47;Masculino;Smartphone;1 Mes
+796;Premium;14;4;8;23;1;7;24;Australia;27;Masculino;Smart TV;3 Meses
+803;Estándar;12;19;6;23;1;7;24;Reino Unido;43;Masculino;Smart TV;6 Meses
+804;Estándar;12;22;6;23;2;7;24;Reino Unido;47;Femenino;Smartphone;1 Mes
+808;Estándar;12;25;6;23;1;7;24;Australia;39;Masculino;Smart TV;1 Mes
+812;Básica;10;11;6;23;1;7;24;Francia;33;Masculino;Ordenador;6 Meses
+819;Premium;14;1;7;23;1;7;24;Canadá;50;Masculino;Ordenador;12 Meses
+826;Básica;10;18;8;23;1;7;24;Canadá;37;Masculino;Smart TV;1 Mes
+830;Básica;10;2;9;23;3;7;24;Alemania;30;Femenino;Smartphone;3 Meses
+832;Estándar;12;15;9;23;2;7;24;Australia;82;Femenino;Tablet;1 Mes
+834;Estándar;12;26;9;23;3;7;24;España;34;Femenino;Smart TV;1 Mes
+836;Básica;10;4;10;23;1;7;24;Brasil;28;Masculino;Ordenador;1 Mes
+838;Estándar;12;7;10;23;2;7;24;Australia;38;Masculino;Smartphone;3 Meses
+840;Estándar;12;7;10;23;3;7;24;Francia;49;Masculino;Smartphone;1 Mes
+842;Básica;10;6;10;23;2;7;24;Reino Unido;37;Femenino;Ordenador;1 Mes
+843;Estándar;12;4;10;23;1;7;24;EEUU;39;Femenino;Smartphone;12 Meses
+844;Premium;14;14;10;23;2;7;24;Australia;47;Femenino;Smart TV;1 Mes
+846;Premium;14;21;10;23;1;7;24;EEUU;35;Masculino;Ordenador;6 Meses
+848;Estándar;12;1;11;23;2;7;24;Francia;40;Masculino;Tablet;12 Meses
+852;Básica;10;8;11;23;1;7;24;Australia;47;Femenino;Ordenador;6 Meses
+855;Básica;10;2;11;23;1;7;24;Brasil;33;Masculino;Ordenador;1 Mes
+860;Básica;10;26;8;23;1;7;24;EEUU;50;Masculino;Smart TV;6 Meses
+861;Premium;14;14;8;23;1;7;24;Francia;50;Femenino;Smart TV;1 Mes
+862;Básica;10;12;8;23;1;7;24;EEUU;47;Masculino;Smartphone;3 Meses
+864;Premium;14;10;8;23;1;7;24;Canadá;31;Masculino;Tablet;1 Mes
+865;Básica;10;4;8;23;1;7;24;EEUU;36;Masculino;Smartphone;3 Meses
+866;Premium;14;5;8;23;1;7;24;Italia;41;Femenino;Smart TV;1 Mes
+868;Estándar;12;16;7;23;1;7;24;Canadá;34;Femenino;Tablet;12 Meses
+869;Estándar;12;13;7;23;1;7;24;Australia;30;Femenino;Tablet;12 Meses
+870;Básica;10;3;7;23;2;7;24;Alemania;38;Masculino;Ordenador;6 Meses
+872;Básica;10;21;6;23;1;7;24;Australia;42;Femenino;Ordenador;6 Meses
+873;Estándar;12;22;6;23;1;7;24;Francia;42;Femenino;Smart TV;6 Meses
+874;Premium;14;23;6;23;2;7;24;Francia;31;Masculino;Smart TV;1 Mes
+877;Básica;10;28;6;23;1;7;24;Brasil;30;Masculino;Smart TV;1 Mes
+878;Estándar;12;28;6;23;2;7;24;Brasil;33;Masculino;Smartphone;6 Meses
+881;Premium;14;11;6;23;1;7;24;Canadá;31;Femenino;Smartphone;3 Meses
+882;Básica;10;12;6;23;1;7;24;EEUU;46;Femenino;Smart TV;12 Meses
+885;Básica;10;18;6;23;2;7;24;Francia;34;Masculino;Tablet;12 Meses
+889;Estándar;12;2;7;23;1;7;24;Canadá;45;Femenino;Smartphone;3 Meses
+893;Estándar;12;30;7;23;1;7;24;;42;Femenino;Smart TV;6 Meses
+894;Premium;14;3;8;23;1;7;24;Reino Unido;50;Masculino;Smart TV;3 Meses
+896;Básica;10;20;8;23;1;7;24;Reino Unido;47;Femenino;Smartphone;1 Mes
+898;Estándar;12;30;8;23;2;7;24;Australia;31;Femenino;Tablet;12 Meses
+900;Básica;10;2;9;23;3;7;24;Reino Unido;32;Femenino;Smartphone;6 Meses
+902;Premium;14;10;9;23;2;7;24;Australia;28;Masculino;Tablet;6 Meses
+904;Estándar;12;27;9;23;3;7;24;Reino Unido;37;Masculino;Tablet;1 Mes
+906;Premium;14;6;10;23;2;7;24;Reino Unido;32;Masculino;Smart TV;1 Mes
+908;Básica;10;8;10;23;3;7;24;Reino Unido;46;Femenino;Smart TV;1 Mes
+909;Estándar;12;8;10;23;1;7;24;Reino Unido;30;Masculino;Tablet;1 Mes
+910;Premium;14;8;10;23;3;7;24;Australia;40;Femenino;Smart TV;6 Meses
+912;Premium;14;8;10;23;2;7;24;Francia;41;Masculino;Tablet;1 Mes
+913;Estándar;12;10;10;23;1;7;24;Francia;32;Masculino;Ordenador;3 Meses
+914;Básica;10;19;10;23;2;7;24;Australia;44;Femenino;Smart TV;1 Mes
+916;Premium;14;26;10;23;1;7;24;EEUU;50;Femenino;Smartphone;12 Meses
+918;Estándar;12;31;10;23;2;7;24;Italia;34;Femenino;Smart TV;1 Mes
+920;Básica;10;9;11;23;1;7;24;España;34;Femenino;Tablet;1 Mes
+921;Premium;14;9;11;23;1;7;24;EEUU;27;Femenino;Smart TV;3 Meses
+922;Básica;10;7;11;23;1;7;24;EEUU;34;Masculino;Tablet;1 Mes
+924;Estándar;12;5;11;23;1;7;24;;37;Femenino;Smart TV;3 Meses
+925;Básica;10;25;10;23;1;7;24;;27;Femenino;Ordenador;1 Mes
+926;Premium;14;23;10;23;2;7;24;Brasil;33;Femenino;Ordenador;3 Meses
+927;Básica;10;20;10;23;2;7;24;Italia;42;Masculino;Ordenador;1 Mes
+928;Estándar;12;14;10;23;1;7;24;EEUU;49;Masculino;Smartphone;12 Meses
+930;Básica;10;18;8;23;1;7;24;;47;Masculino;Ordenador;3 Meses
+931;Premium;14;13;8;23;2;7;24;Canadá;33;Masculino;Ordenador;1 Mes
+932;Básica;10;11;8;23;2;7;24;Francia;37;Masculino;Smart TV;1 Mes
+933;Estándar;12;11;8;23;1;7;24;Méjico;35;Masculino;Ordenador;1 Mes
+934;Estándar;12;6;8;23;1;7;24;Canadá;34;Femenino;Smartphone;3 Meses
+935;Básica;10;7;8;23;2;7;24;España;44;Masculino;Smartphone;1 Mes
+936;Premium;14;18;7;23;2;7;24;;29;Masculino;Tablet;1 Mes
+938;Estándar;12;15;7;23;2;7;24;EEUU;46;Masculino;Smart TV;1 Mes
+939;Premium;14;14;7;23;2;7;24;Méjico;29;Masculino;Tablet;1 Mes
+940;Básica;10;26;6;23;3;7;24;Canadá;48;Femenino;Smart TV;12 Meses
+942;Básica;10;22;6;23;1;7;24;Reino Unido;43;Masculino;Ordenador;3 Meses
+943;Estándar;12;23;6;23;1;7;24;Alemania;42;Femenino;Smart TV;1 Mes
+944;Estándar;12;24;6;23;2;7;24;;50;Masculino;Tablet;1 Mes
+946;Premium;14;28;6;23;1;7;24;EEUU;43;Femenino;Ordenador;6 Meses
+947;Básica;10;29;6;23;2;7;24;Australia;50;Femenino;Tablet;1 Mes
+948;Estándar;12;26;6;23;2;7;24;EEUU;51;Masculino;Ordenador;6 Meses
+951;Premium;14;18;6;23;3;7;24;Australia;39;Femenino;Smartphone;1 Mes
+952;Básica;10;16;6;23;1;7;24;España;49;Femenino;Tablet;1 Mes
+955;Básica;10;20;6;23;2;7;24;EEUU;36;Femenino;Ordenador;6 Meses
+956;Premium;14;24;6;23;1;7;24;Francia;42;Femenino;Smart TV;12 Meses
+957;Básica;10;27;6;23;1;7;24;;50;Masculino;Tablet;1 Mes
+958;Estándar;12;2;7;23;1;7;24;EEUU;42;Femenino;Ordenador;3 Meses
+959;Premium;14;4;7;23;2;7;24;Alemania;35;Femenino;Ordenador;1 Mes
+961;Premium;14;23;7;23;1;7;24;España;48;Masculino;Ordenador;1 Mes
+962;Básica;10;29;7;23;1;7;24;EEUU;43;Femenino;Ordenador;12 Meses
+963;Estándar;12;1;8;23;1;7;24;EEUU;51;Femenino;Tablet;3 Meses
+964;Estándar;12;12;8;23;3;7;24;EEUU;45;Masculino;Smart TV;1 Mes
+966;Premium;14;16;8;23;4;7;24;Australia;42;Femenino;Ordenador;1 Mes
+968;Estándar;12;31;8;23;3;7;24;Italia;50;Masculino;Tablet;1 Mes
+970;Básica;10;3;9;23;3;7;24;Canadá;44;Femenino;Tablet;6 Meses
+971;Básica;10;5;9;23;1;7;24;Francia;36;Masculino;Tablet;1 Mes
+972;Básica;10;10;9;23;2;7;24;Australia;37;Femenino;Ordenador;6 Meses
+973;Estándar;12;17;9;23;1;7;24;EEUU;36;Masculino;Smartphone;12 Meses
+974;Premium;14;28;9;23;3;7;24;Canadá;31;Masculino;Smartphone;1 Mes
+976;Básica;10;5;10;23;3;7;24;Australia;39;Femenino;Ordenador;12 Meses
+978;Estándar;12;8;10;23;3;7;24;Italia;29;Masculino;Smart TV;6 Meses
+979;Estándar;12;8;10;23;1;7;24;Italia;45;Masculino;Smartphone;3 Meses
+980;Básica;10;9;10;23;3;7;24;EEUU;29;Masculino;Smart TV;1 Mes
+982;Estándar;12;10;10;23;2;7;24;Canadá;42;Femenino;Smart TV;1 Mes
+983;Básica;10;14;10;23;1;7;24;Francia;36;Femenino;Smartphone;1 Mes
+984;Estándar;12;16;10;23;3;7;24;Reino Unido;39;Masculino;Smart TV;1 Mes
+986;Básica;10;25;10;23;1;7;24;Méjico;49;Masculino;Ordenador;6 Meses
+987;Premium;14;30;10;23;1;7;24;Canadá;32;Femenino;Tablet;1 Mes
+988;Estándar;12;31;10;23;2;7;24;EEUU;40;Femenino;Smartphone;12 Meses
+989;Básica;10;8;11;23;1;7;24;Australia;34;Masculino;Smartphone;1 Mes
+990;Estándar;12;9;11;23;1;7;24;Alemania;35;Masculino;Smartphone;1 Mes
+991;Premium;14;7;11;23;1;7;24;Australia;44;Femenino;Smart TV;3 Meses
+992;Básica;10;8;11;23;3;7;24;Alemania;47;Femenino;Smartphone;6 Meses
+993;Estándar;12;8;11;23;3;7;24;Reino Unido;33;Femenino;Ordenador;3 Meses
+994;Premium;14;31;10;23;2;7;24;Francia;45;Masculino;Tablet;1 Mes
+995;Básica;10;28;10;23;1;7;24;Italia;42;Femenino;Tablet;1 Mes
+996;Premium;14;25;10;23;2;7;24;EEUU;46;Masculino;Tablet;1 Mes
+997;Básica;10;18;10;23;2;7;24;;51;Masculino;Tablet;1 Mes
+998;Estándar;12;25;9;23;2;7;24;Australia;41;Femenino;Ordenador;1 Mes
+999;Estándar;12;26;8;23;1;7;24;Francia;50;Femenino;Tablet;1 Mes
+1000;Básica;10;20;8;23;2;7;24;Alemania;49;Femenino;Smartphone;1 Mes
+1001;Premium;14;12;8;23;3;7;24;Francia;34;Femenino;Ordenador;3 Meses
+1002;Básica;10;12;8;23;3;7;24;EEUU;38;Femenino;Tablet;6 Meses
+1003;Estándar;12;11;8;23;1;7;24;Australia;46;Masculino;Smart TV;1 Mes
+1004;Premium;14;11;8;23;2;7;24;Alemania;42;Masculino;Smart TV;12 Meses
+1005;Básica;10;10;8;23;2;7;24;Australia;46;Masculino;Ordenador;3 Meses
+1006;Premium;14;31;7;23;3;7;24;Australia;51;Femenino;Smart TV;12 Meses
+1008;Estándar;12;15;7;23;2;7;24;Francia;34;Femenino;Smartphone;3 Meses
+1009;Estándar;12;5;7;23;2;7;24;Reino Unido;31;Femenino;Ordenador;12 Meses
+1010;Básica;10;1;7;23;3;7;24;EEUU;36;Femenino;Tablet;1 Mes
+1012;Básica;10;26;6;23;1;7;24;Alemania;29;Femenino;Smartphone;6 Meses
+1013;Estándar;12;27;6;23;2;7;24;Canadá;42;Femenino;Smart TV;1 Mes
+1014;Premium;14;28;6;23;2;7;24;Francia;35;Femenino;Smartphone;3 Meses
+1016;Premium;14;29;6;23;1;7;24;;43;Femenino;Tablet;1 Mes
+1017;Básica;10;26;6;23;2;7;24;Francia;29;Masculino;Smartphone;1 Mes
+1018;Estándar;12;26;6;23;2;7;24;España;35;Femenino;Tablet;12 Meses
+1020;Básica;10;21;6;23;1;7;24;Canadá;38;Masculino;Tablet;6 Meses
+1021;Premium;14;22;6;23;3;7;24;Australia;33;Masculino;Smart TV;1 Mes
+1022;Básica;10;18;6;23;2;7;24;Reino Unido;48;Masculino;Ordenador;6 Meses
+1023;Estándar;12;18;6;23;2;7;24;Canadá;51;Femenino;Ordenador;3 Meses
+1024;Premium;14;20;6;23;1;7;24;Brasil;40;Femenino;Smartphone;1 Mes
+1025;Básica;10;23;6;23;3;7;24;Alemania;28;Masculino;Smartphone;1 Mes
+1026;Premium;14;26;6;23;1;7;24;Australia;46;Femenino;Ordenador;12 Meses
+1027;Básica;10;2;7;23;1;7;24;Australia;28;Femenino;Tablet;3 Meses
+1028;Estándar;12;4;7;23;1;7;24;Australia;47;Masculino;Tablet;3 Meses
+1029;Estándar;12;7;7;23;2;7;24;Australia;47;Masculino;Smartphone;1 Mes
+1030;Básica;10;14;7;23;1;7;24;EEUU;50;Masculino;Smartphone;3 Meses
+1031;Premium;14;20;7;23;1;7;24;Reino Unido;50;Femenino;Smart TV;1 Mes
+1032;Básica;10;23;7;23;2;7;24;Canadá;29;Masculino;Smartphone;6 Meses
+1033;Estándar;12;30;7;23;1;7;24;Australia;38;Masculino;Tablet;1 Mes
+1034;Premium;14;12;8;23;3;7;24;Australia;40;Femenino;Tablet;1 Mes
+1035;Básica;10;14;8;23;1;7;24;Italia;43;Masculino;Smartphone;3 Meses
+1036;Premium;14;22;8;23;4;7;24;EEUU;27;Femenino;Smartphone;12 Meses
+1038;Estándar;12;2;9;23;3;7;24;Alemania;30;Masculino;Smartphone;1 Mes
+1039;Estándar;12;3;9;23;1;7;24;Australia;50;Masculino;Ordenador;1 Mes
+1040;Básica;10;4;9;23;4;7;24;Francia;51;Masculino;Smartphone;12 Meses
+1041;Premium;14;6;9;23;1;7;24;Alemania;37;Femenino;Ordenador;3 Meses
+1042;Básica;10;10;9;23;2;7;24;Alemania;35;Femenino;Tablet;12 Meses
+1043;Estándar;12;20;9;23;1;7;24;Italia;35;Masculino;Tablet;1 Mes
+1044;Premium;14;26;9;23;3;7;24;EEUU;46;Masculino;Tablet;3 Meses
+1045;Básica;10;4;10;23;1;7;24;;27;Masculino;Tablet;1 Mes
+1046;Básica;10;6;10;23;3;7;24;Reino Unido;27;Masculino;Ordenador;1 Mes
+1047;Básica;10;7;10;23;1;7;24;Francia;39;Femenino;Ordenador;6 Meses
+1048;Estándar;12;8;10;23;3;7;24;Brasil;51;Masculino;Tablet;6 Meses
+1049;Premium;14;9;10;23;1;7;24;Méjico;41;Masculino;Smartphone;6 Meses
+1050;Básica;10;10;10;23;3;7;24;EEUU;30;Femenino;Smart TV;1 Mes
+1052;Premium;14;14;10;23;2;7;24;Francia;31;Masculino;Tablet;3 Meses
+1053;Estándar;12;15;10;23;1;7;24;Reino Unido;49;Masculino;Smartphone;1 Mes
+1054;Estándar;12;17;10;23;3;7;24;EEUU;39;Femenino;Tablet;1 Mes
+1055;Básica;10;23;10;23;1;7;24;Alemania;47;Masculino;Smartphone;3 Meses
+1056;Premium;14;27;10;23;2;7;24;EEUU;36;Femenino;Tablet;3 Meses
+1057;Estándar;12;29;10;23;2;7;24;España;42;Femenino;Tablet;12 Meses
+1058;Básica;10;5;11;23;2;7;24;Australia;28;Femenino;Smart TV;1 Mes
+1059;Estándar;12;7;11;23;2;7;24;Francia;43;Masculino;Tablet;12 Meses
+1060;Premium;14;8;11;23;2;7;24;Brasil;50;Femenino;Ordenador;1 Mes
+1061;Básica;10;9;11;23;1;7;24;Reino Unido;30;Femenino;Tablet;3 Meses
+1062;Premium;14;10;11;23;3;7;24;Reino Unido;34;Femenino;Ordenador;1 Mes
+1063;Estándar;12;2;11;23;3;7;24;Canadá;35;Femenino;Ordenador;12 Meses
+1064;Básica;10;31;10;23;2;7;24;Méjico;29;Masculino;Tablet;1 Mes
+1065;Estándar;12;29;10;23;2;7;24;Francia;33;Masculino;Smart TV;3 Meses
+1066;Premium;14;22;10;23;3;7;24;Australia;47;Masculino;Ordenador;3 Meses
+1067;Básica;10;20;10;23;2;7;24;;32;Femenino;Tablet;1 Mes
+1068;Estándar;12;21;10;23;4;7;24;Brasil;34;Femenino;Tablet;1 Mes
+1069;Premium;14;10;10;23;2;7;24;Francia;46;Masculino;Smart TV;12 Meses
+1070;Básica;10;6;9;23;3;7;24;Canadá;31;Masculino;Tablet;1 Mes
+1071;Premium;14;6;9;23;3;7;24;Canadá;40;Femenino;Tablet;6 Meses
+1072;Básica;10;13;8;23;3;7;24;EEUU;38;Femenino;Tablet;3 Meses
+1073;Estándar;12;13;8;23;1;7;24;Alemania;31;Masculino;Smart TV;1 Mes
+1074;Estándar;12;13;8;23;2;7;24;EEUU;46;Femenino;Smartphone;12 Meses
+1075;Básica;10;6;8;23;3;7;24;Reino Unido;43;Masculino;Smart TV;12 Meses
+1076;Premium;14;6;8;23;3;7;24;Australia;38;Femenino;Ordenador;1 Mes
+1078;Estándar;12;17;7;23;2;7;24;Italia;27;Masculino;Ordenador;12 Meses
+1079;Premium;14;9;7;23;2;7;24;;49;Femenino;Tablet;6 Meses
+1080;Básica;10;4;7;23;3;7;24;EEUU;33;Masculino;Smartphone;1 Mes
+1082;Básica;10;28;6;23;2;7;24;EEUU;27;Masculino;Tablet;3 Meses
+1083;Estándar;12;28;6;23;2;7;24;Alemania;28;Femenino;Ordenador;6 Meses
+1084;Estándar;12;29;6;23;3;7;24;;30;Masculino;Smartphone;1 Mes
+1086;Premium;14;26;6;23;1;7;24;Alemania;51;Femenino;Tablet;1 Mes
+1087;Básica;10;26;6;23;3;7;24;Australia;51;Masculino;Tablet;1 Mes
+1088;Estándar;12;26;6;23;2;7;24;Francia;50;Femenino;Smartphone;6 Meses
+1090;Básica;10;25;6;23;2;7;24;España;31;Masculino;Smart TV;6 Meses
+1091;Premium;14;20;6;23;3;7;24;Alemania;46;Femenino;Smartphone;12 Meses
+1092;Básica;10;21;6;23;2;7;24;Australia;41;Masculino;Smart TV;3 Meses
+1093;Estándar;12;20;6;23;2;7;24;España;36;Masculino;Smartphone;1 Mes
+1094;Estándar;12;22;6;23;2;7;24;EEUU;45;Femenino;Tablet;6 Meses
+1095;Básica;10;24;6;23;3;7;24;Méjico;36;Masculino;Smartphone;1 Mes
+1096;Premium;14;30;6;23;2;7;24;EEUU;28;Masculino;Smartphone;3 Meses
+1097;Básica;10;3;7;23;2;7;24;EEUU;45;Femenino;Smartphone;1 Mes
+1098;Estándar;12;4;7;23;2;7;24;Australia;39;Femenino;Smartphone;6 Meses
+1099;Premium;14;8;7;23;2;7;24;España;51;Femenino;Ordenador;1 Mes
+1100;Básica;10;19;7;23;1;7;24;Francia;37;Masculino;Ordenador;3 Meses
+1101;Premium;14;21;7;23;1;7;24;EEUU;33;Femenino;Tablet;6 Meses
+1102;Básica;10;27;7;23;3;7;24;Alemania;32;Femenino;Smartphone;1 Mes
+1103;Estándar;12;2;8;23;1;7;24;Alemania;49;Femenino;Tablet;12 Meses
+1104;Estándar;12;9;8;23;3;7;24;España;37;Femenino;Smart TV;3 Meses
+1105;Básica;10;21;8;23;1;7;24;España;39;Masculino;Tablet;1 Mes
+1106;Premium;14;29;8;23;4;7;24;Francia;37;Masculino;Smart TV;12 Meses
+1107;Básica;10;31;8;23;1;7;24;Alemania;36;Femenino;Smart TV;1 Mes
+1108;Estándar;12;2;9;23;3;7;24;Australia;34;Masculino;Ordenador;3 Meses
+1109;Premium;14;4;9;23;1;7;24;Italia;51;Femenino;Smartphone;12 Meses
+1110;Básica;10;5;9;23;4;7;24;Italia;41;Femenino;Tablet;6 Meses
+1111;Premium;14;10;9;23;1;7;24;Reino Unido;51;Masculino;Smart TV;1 Mes
+1112;Básica;10;13;9;23;3;7;24;Reino Unido;31;Femenino;Tablet;1 Mes
+1113;Estándar;12;20;9;23;1;7;24;España;44;Masculino;Ordenador;6 Meses
+1114;Estándar;12;1;10;23;3;7;24;Reino Unido;50;Masculino;Smart TV;6 Meses
+1115;Básica;10;3;10;23;1;7;24;Alemania;33;Masculino;Ordenador;12 Meses
+1116;Premium;14;6;10;23;4;7;24;Reino Unido;44;Femenino;Ordenador;1 Mes
+1117;Básica;10;8;10;23;1;7;24;Canadá;42;Femenino;Tablet;3 Meses
+1118;Estándar;12;9;10;23;3;7;24;Méjico;35;Masculino;Smart TV;12 Meses
+1119;Premium;14;10;10;23;2;7;24;EEUU;48;Masculino;Smartphone;1 Mes
+1120;Básica;10;10;10;23;4;7;24;Francia;51;Femenino;Smartphone;1 Mes
+1121;Básica;10;12;10;23;1;7;24;Alemania;44;Femenino;Smart TV;1 Mes
+1122;Básica;10;14;10;23;2;7;24;Australia;37;Femenino;Smartphone;3 Meses
+1123;Estándar;12;15;10;23;2;7;24;Australia;35;Femenino;Ordenador;12 Meses
+1124;Premium;14;17;10;23;3;7;24;Canadá;32;Masculino;Ordenador;1 Mes
+1125;Básica;10;19;10;23;2;7;24;Francia;46;Femenino;Tablet;6 Meses
+1126;Básica;10;25;10;23;2;7;24;Reino Unido;39;Femenino;Ordenador;12 Meses
+1127;Premium;14;26;10;23;2;7;24;Australia;33;Femenino;Tablet;1 Mes
+1128;Estándar;12;5;11;23;3;7;24;Italia;42;Masculino;Tablet;1 Mes
+1129;Estándar;12;7;11;23;3;7;24;Reino Unido;37;Femenino;Smartphone;6 Meses
+1130;Básica;10;8;11;23;3;7;24;Italia;27;Femenino;Smart TV;3 Meses
+1131;Premium;14;9;11;23;2;7;24;Australia;34;Femenino;Ordenador;12 Meses
+1132;Estándar;12;6;11;23;3;7;24;Reino Unido;51;Masculino;Ordenador;6 Meses
+1133;Básica;10;4;11;23;3;7;24;EEUU;42;Masculino;Ordenador;1 Mes
+1134;Estándar;12;3;11;23;5;7;24;Italia;46;Femenino;Smart TV;12 Meses
+1135;Premium;14;23;10;23;2;7;24;Alemania;36;Masculino;Ordenador;6 Meses
+1136;Básica;10;24;10;23;4;7;24;;46;Masculino;Smartphone;6 Meses
+1137;Premium;14;23;10;23;4;7;24;;51;Masculino;Smart TV;12 Meses
+1138;Estándar;12;21;10;23;4;7;24;Australia;45;Femenino;Smartphone;3 Meses
+1139;Básica;10;11;9;23;2;7;24;Alemania;33;Masculino;Smartphone;6 Meses
+1140;Estándar;12;9;9;23;3;7;24;Reino Unido;31;Femenino;Smart TV;1 Mes
+1141;Premium;14;22;8;23;3;7;24;Australia;48;Femenino;Smart TV;6 Meses
+1142;Básica;10;21;8;23;4;7;24;Australia;47;Femenino;Ordenador;3 Meses
+1143;Estándar;12;15;8;23;1;7;24;España;43;Masculino;Smart TV;3 Meses
+1144;Premium;14;14;8;23;3;7;24;Italia;39;Masculino;Tablet;1 Mes
+1145;Básica;10;9;8;23;3;7;24;Francia;46;Masculino;Smart TV;1 Mes
+1146;Premium;14;4;8;23;4;7;24;Alemania;46;Femenino;Smartphone;1 Mes
+1147;Básica;10;27;7;23;1;7;24;España;40;Femenino;Tablet;12 Meses
+1148;Estándar;12;11;7;23;2;7;24;Alemania;38;Masculino;Smartphone;1 Mes
+1149;Estándar;12;9;7;23;3;7;24;Australia;48;Femenino;Tablet;12 Meses
+1150;Básica;10;1;7;23;3;7;24;EEUU;38;Masculino;Tablet;12 Meses
+1151;Premium;14;30;6;23;1;7;24;España;43;Masculino;Ordenador;1 Mes
+1152;Básica;10;29;6;23;2;7;24;EEUU;29;Masculino;Smartphone;6 Meses
+1153;Estándar;12;29;6;23;3;7;24;Reino Unido;32;Femenino;Ordenador;12 Meses
+1154;Premium;14;30;6;23;3;7;24;Alemania;32;Femenino;Ordenador;1 Mes
+1156;Premium;14;26;6;23;2;7;24;Brasil;51;Femenino;Ordenador;12 Meses
+1157;Básica;10;27;6;23;3;7;24;Francia;32;Masculino;Smart TV;1 Mes
+1158;Estándar;12;25;6;23;2;7;24;Canadá;35;Femenino;Smart TV;3 Meses
+1159;Estándar;12;25;6;23;1;7;24;Francia;41;Masculino;Ordenador;3 Meses
+1160;Básica;10;20;6;23;3;7;24;;43;Femenino;Smart TV;6 Meses
+1161;Premium;14;21;6;23;3;7;24;Reino Unido;41;Masculino;Smartphone;1 Mes
+1162;Básica;10;21;6;23;2;7;24;Canadá;51;Masculino;Smart TV;12 Meses
+1163;Estándar;12;22;6;23;3;7;24;Francia;47;Femenino;Smart TV;1 Mes
+1164;Premium;14;23;6;23;2;7;24;EEUU;39;Masculino;Smart TV;1 Mes
+1165;Básica;10;27;6;23;3;7;24;España;51;Masculino;Smartphone;3 Meses
+1166;Premium;14;2;7;23;2;7;24;España;39;Femenino;Tablet;1 Mes
+1167;Básica;10;3;7;23;2;7;24;Alemania;45;Masculino;Tablet;12 Meses
+1168;Estándar;12;5;7;23;2;7;24;Alemania;42;Masculino;Ordenador;1 Mes
+1169;Estándar;12;15;7;23;2;7;24;Reino Unido;48;Masculino;Smartphone;6 Meses
+1170;Básica;10;20;7;23;2;7;24;Canadá;33;Masculino;Smart TV;1 Mes
+1171;Premium;14;27;7;23;2;7;24;Méjico;47;Femenino;Smartphone;1 Mes
+1172;Básica;10;29;7;23;4;7;24;Italia;51;Femenino;Smart TV;3 Meses
+1173;Estándar;12;3;8;23;1;7;24;Canadá;27;Masculino;Smartphone;12 Meses
+1174;Premium;14;18;8;23;4;7;24;España;44;Femenino;Ordenador;12 Meses
+1175;Básica;10;23;8;23;2;7;24;Francia;41;Masculino;Ordenador;1 Mes
+1176;Premium;14;27;8;23;5;7;24;Australia;37;Masculino;Smart TV;1 Mes
+1177;Básica;10;1;9;23;2;7;24;Francia;48;Masculino;Tablet;1 Mes
+1178;Estándar;12;3;9;23;4;7;24;Australia;30;Masculino;Smart TV;3 Meses
+1179;Estándar;12;5;9;23;2;7;24;EEUU;44;Femenino;Smartphone;6 Meses
+1180;Básica;10;9;9;23;4;7;24;EEUU;34;Femenino;Smart TV;12 Meses
+1181;Premium;14;11;9;23;1;7;24;Australia;40;Femenino;Ordenador;3 Meses
+1182;Básica;10;17;9;23;4;7;24;;28;Femenino;Smartphone;12 Meses
+1183;Estándar;12;19;9;23;2;7;24;Italia;44;Femenino;Tablet;3 Meses
+1184;Premium;14;28;9;23;3;7;24;EEUU;38;Femenino;Ordenador;3 Meses
+1185;Básica;10;6;10;23;2;7;24;Francia;49;Masculino;Smart TV;1 Mes
+1186;Premium;14;7;10;23;5;7;24;Reino Unido;32;Femenino;Smart TV;6 Meses
+1187;Básica;10;9;10;23;1;7;24;Alemania;47;Femenino;Smart TV;6 Meses
+1188;Estándar;12;10;10;23;3;7;24;Australia;44;Masculino;Tablet;6 Meses
+1189;Estándar;12;11;10;23;3;7;24;Francia;33;Masculino;Smartphone;1 Mes
+1190;Básica;10;12;10;23;4;7;24;Italia;32;Masculino;Ordenador;1 Mes
+1191;Premium;14;13;10;23;1;7;24;Alemania;27;Femenino;Smartphone;3 Meses
+1192;Básica;10;14;10;23;3;7;24;Italia;37;Masculino;Ordenador;12 Meses
+1193;Estándar;12;16;10;23;3;7;24;Reino Unido;34;Masculino;Tablet;1 Mes
+1194;Premium;14;19;10;23;4;7;24;EEUU;40;Masculino;Smart TV;3 Meses
+1195;Básica;10;23;10;23;2;7;24;Australia;45;Femenino;Smart TV;3 Meses
+1196;Básica;10;24;10;23;3;7;24;Francia;29;Femenino;Tablet;6 Meses
+1197;Básica;10;25;10;23;3;7;24;Canadá;35;Masculino;Smart TV;1 Mes
+1198;Estándar;12;1;11;23;4;7;24;Reino Unido;38;Femenino;Ordenador;1 Mes
+1199;Premium;14;2;11;23;4;7;24;Alemania;48;Femenino;Smart TV;1 Mes
+1200;Básica;10;4;11;23;6;7;24;Méjico;36;Masculino;Smartphone;1 Mes
+1201;Básica;10;6;11;23;3;7;24;Francia;41;Masculino;Smart TV;1 Mes
+1202;Premium;14;6;11;23;3;7;24;;27;Masculino;Smart TV;1 Mes
+1203;Estándar;12;4;11;23;4;7;24;Reino Unido;41;Masculino;Smart TV;1 Mes
+1204;Estándar;12;30;10;23;5;7;24;Reino Unido;42;Masculino;Ordenador;3 Meses
+1205;Básica;10;27;10;23;3;7;24;;40;Femenino;Ordenador;6 Meses
+1206;Premium;14;23;10;23;4;7;24;;32;Masculino;Smart TV;1 Mes
+1207;Estándar;12;23;10;23;4;7;24;EEUU;33;Masculino;Smart TV;1 Mes
+1208;Básica;10;24;9;23;4;7;24;Australia;34;Masculino;Smartphone;6 Meses
+1209;Estándar;12;22;9;23;2;7;24;Australia;29;Masculino;Tablet;1 Mes
+1210;Premium;14;6;9;23;3;7;24;Australia;50;Masculino;Smart TV;6 Meses
+1211;Básica;10;23;8;23;4;7;24;;29;Femenino;Ordenador;1 Mes
+1212;Premium;14;21;8;23;4;7;24;Reino Unido;40;Femenino;Tablet;3 Meses
+1213;Estándar;12;16;8;23;2;7;24;Reino Unido;27;Masculino;Smart TV;3 Meses
+1214;Básica;10;9;8;23;3;7;24;Francia;51;Femenino;Smartphone;12 Meses
+1215;Estándar;12;4;8;23;3;7;24;EEUU;41;Femenino;Ordenador;6 Meses
+1216;Premium;14;28;7;23;4;7;24;Alemania;28;Femenino;Tablet;1 Mes
+1217;Básica;10;12;7;23;1;7;24;España;42;Masculino;Ordenador;1 Mes
+1218;Estándar;12;11;7;23;3;7;24;EEUU;40;Masculino;Ordenador;6 Meses
+1219;Premium;14;6;7;23;4;7;24;Reino Unido;48;Femenino;Smartphone;6 Meses
+1220;Básica;10;1;7;23;3;7;24;España;28;Masculino;Smart TV;3 Meses
+1221;Premium;14;2;7;23;1;7;24;Reino Unido;40;Masculino;Smart TV;3 Meses
+1222;Básica;10;30;6;23;3;7;24;Italia;33;Femenino;Tablet;1 Mes
+1223;Estándar;12;30;6;23;3;7;24;Italia;33;Masculino;Smartphone;3 Meses
+1224;Estándar;12;30;6;23;3;7;24;Canadá;47;Femenino;Smartphone;1 Mes
+1225;Básica;10;30;6;23;1;7;24;Francia;50;Femenino;Smart TV;6 Meses
+1226;Premium;14;29;6;23;3;7;24;;38;Masculino;Smartphone;1 Mes
+1227;Básica;10;27;6;23;4;7;24;EEUU;36;Femenino;Tablet;3 Meses
+1228;Estándar;12;26;6;23;3;7;24;Australia;38;Femenino;Tablet;12 Meses
+1229;Premium;14;24;6;23;1;7;24;Italia;49;Masculino;Smartphone;1 Mes
+1230;Básica;10;25;6;23;3;7;24;España;40;Femenino;Smart TV;1 Mes
+1231;Premium;14;24;6;23;3;7;24;Alemania;51;Masculino;Tablet;1 Mes
+1232;Básica;10;22;6;23;3;7;24;Alemania;42;Femenino;Smartphone;3 Meses
+1233;Estándar;12;23;6;23;3;7;24;EEUU;41;Femenino;Smartphone;3 Meses
+1234;Estándar;12;25;6;23;3;7;24;Italia;48;Femenino;Smartphone;3 Meses
+1235;Básica;10;29;6;23;3;7;24;Australia;39;Femenino;Tablet;6 Meses
+1236;Premium;14;1;7;23;2;7;24;;35;Femenino;Tablet;1 Mes
+1237;Básica;10;5;7;23;2;7;24;Reino Unido;32;Femenino;Tablet;12 Meses
+1238;Estándar;12;12;7;23;4;7;24;Francia;28;Femenino;Smartphone;3 Meses
+1239;Premium;14;16;7;23;2;7;24;Francia;27;Masculino;Ordenador;12 Meses
+1240;Básica;10;20;7;23;4;7;24;Brasil;30;Femenino;Ordenador;3 Meses
+1241;Premium;14;28;7;23;2;7;24;Reino Unido;47;Femenino;Ordenador;12 Meses
+1242;Básica;10;31;7;23;5;7;24;Reino Unido;49;Femenino;Tablet;12 Meses
+1243;Estándar;12;14;8;23;2;7;24;Australia;43;Femenino;Smartphone;3 Meses
+1244;Estándar;12;16;8;23;4;7;24;Francia;42;Masculino;Tablet;1 Mes
+1245;Básica;10;18;8;23;3;7;24;Francia;29;Femenino;Smartphone;6 Meses
+1246;Premium;14;27;8;23;5;7;24;;35;Femenino;Smartphone;1 Mes
+1247;Básica;10;1;9;23;2;7;24;;41;Femenino;Smartphone;12 Meses
+1248;Estándar;12;3;9;23;5;7;24;EEUU;47;Femenino;Smart TV;1 Mes
+1249;Premium;14;7;9;23;3;7;24;Australia;28;Femenino;Smart TV;6 Meses
+1250;Básica;10;8;9;23;4;7;24;Francia;44;Femenino;Smartphone;6 Meses
+1251;Premium;14;14;9;23;3;7;24;Reino Unido;28;Femenino;Tablet;3 Meses
+1252;Básica;10;15;9;23;5;7;24;Alemania;51;Masculino;Ordenador;6 Meses
+1253;Estándar;12;27;9;23;2;7;24;EEUU;48;Masculino;Ordenador;12 Meses
+1254;Estándar;12;30;9;23;4;7;24;España;49;Femenino;Tablet;6 Meses
+1255;Básica;10;2;10;23;4;7;24;Australia;50;Masculino;Smart TV;1 Mes
+1256;Premium;14;3;10;23;5;7;24;Canadá;43;Masculino;Ordenador;6 Meses
+1257;Básica;10;5;10;23;1;7;24;Australia;32;Masculino;Smart TV;1 Mes
+1258;Estándar;12;10;10;23;3;7;24;Australia;42;Femenino;Tablet;6 Meses
+1259;Premium;14;11;10;23;3;7;24;;41;Femenino;Ordenador;12 Meses
+1260;Básica;10;13;10;23;4;7;24;Italia;31;Masculino;Ordenador;12 Meses
+1261;Premium;14;14;10;23;2;7;24;Brasil;37;Femenino;Smart TV;1 Mes
+1262;Básica;10;16;10;23;3;7;24;EEUU;46;Masculino;Smart TV;1 Mes
+1263;Estándar;12;18;10;23;3;7;24;Australia;30;Femenino;Tablet;12 Meses
+1264;Estándar;12;22;10;23;5;7;24;Australia;30;Femenino;Smart TV;12 Meses
+1265;Básica;10;24;10;23;3;7;24;;34;Femenino;Tablet;3 Meses
+1266;Premium;14;25;10;23;4;7;24;EEUU;47;Femenino;Ordenador;3 Meses
+1267;Básica;10;29;10;23;3;7;24;España;41;Masculino;Tablet;6 Meses
+1268;Estándar;12;2;11;23;4;7;24;EEUU;42;Femenino;Ordenador;1 Mes
+1269;Premium;14;3;11;23;5;7;24;Alemania;48;Femenino;Smartphone;6 Meses
+1270;Básica;10;4;11;23;6;7;24;Italia;30;Femenino;Smart TV;1 Mes
+1271;Básica;10;5;11;23;3;7;24;Reino Unido;51;Masculino;Smartphone;1 Mes
+1272;Básica;10;5;11;23;4;7;24;Alemania;27;Masculino;Smartphone;1 Mes
+1273;Estándar;12;31;10;23;4;7;24;Francia;38;Masculino;Tablet;6 Meses
+1274;Premium;14;27;10;23;5;7;24;EEUU;29;Femenino;Smart TV;3 Meses
+1275;Básica;10;25;10;23;3;7;24;Australia;40;Femenino;Smartphone;1 Mes
+1276;Básica;10;26;10;23;4;7;24;EEUU;31;Femenino;Ordenador;1 Mes
+1277;Premium;14;30;9;23;4;7;24;Reino Unido;30;Masculino;Smartphone;1 Mes
+1278;Estándar;12;27;9;23;5;7;24;EEUU;44;Masculino;Ordenador;3 Meses
+1279;Estándar;12;12;9;23;3;7;24;Francia;34;Femenino;Tablet;6 Meses
+1280;Básica;10;25;8;23;4;7;24;EEUU;28;Femenino;Ordenador;3 Meses
+1281;Premium;14;25;8;23;4;7;24;Australia;41;Femenino;Ordenador;3 Meses
+1282;Estándar;12;22;8;23;5;7;24;EEUU;43;Masculino;Tablet;12 Meses
+1283;Básica;10;17;8;23;2;7;24;Canadá;33;Masculino;Ordenador;1 Mes
+1284;Estándar;12;9;8;23;3;7;24;Reino Unido;32;Femenino;Tablet;12 Meses
+1285;Premium;14;6;8;23;4;7;24;Francia;39;Masculino;Smart TV;12 Meses
+1286;Básica;10;17;7;23;4;7;24;Méjico;37;Masculino;Ordenador;1 Mes
+1287;Premium;14;12;7;23;2;7;24;Canadá;46;Masculino;Tablet;1 Mes
+1288;Estándar;12;12;7;23;3;7;24;Alemania;39;Masculino;Smartphone;1 Mes
+1289;Básica;10;2;7;23;4;7;24;Australia;46;Femenino;Tablet;6 Meses
+1290;Estándar;12;2;7;23;3;7;24;Canadá;43;Masculino;Ordenador;12 Meses
+1291;Premium;14;30;6;23;2;7;24;Reino Unido;32;Femenino;Ordenador;3 Meses
+1292;Básica;10;30;6;23;4;7;24;Australia;30;Femenino;Smart TV;1 Mes
+1293;Estándar;12;1;7;23;4;7;24;España;40;Femenino;Tablet;1 Mes
+1294;Premium;14;30;6;23;4;7;24;Australia;51;Femenino;Smartphone;1 Mes
+1295;Básica;10;29;6;23;2;7;24;Alemania;40;Femenino;Smartphone;1 Mes
+1296;Premium;14;30;6;23;3;7;24;Canadá;28;Masculino;Smart TV;6 Meses
+1297;Básica;10;29;6;23;4;7;24;Brasil;51;Femenino;Smartphone;12 Meses
+1298;Estándar;12;26;6;23;3;7;24;Australia;27;Masculino;Ordenador;6 Meses
+1299;Estándar;12;27;6;23;1;7;24;EEUU;35;Masculino;Smart TV;6 Meses
+1300;Básica;10;24;6;23;3;7;24;Italia;37;Masculino;Ordenador;1 Mes
+1301;Premium;14;23;6;23;4;7;24;Francia;51;Masculino;Smart TV;6 Meses
+1302;Básica;10;23;6;23;3;7;24;Australia;40;Masculino;Smart TV;6 Meses
+1303;Estándar;12;25;6;23;3;7;24;;38;Masculino;Ordenador;12 Meses
+1304;Premium;14;28;6;23;3;7;24;Italia;48;Femenino;Ordenador;6 Meses
+1305;Básica;10;1;7;23;3;7;24;Brasil;49;Masculino;Smartphone;1 Mes
+1306;Premium;14;2;7;23;5;7;24;Francia;33;Femenino;Ordenador;12 Meses
+1307;Básica;10;6;7;23;3;7;24;Reino Unido;34;Femenino;Tablet;1 Mes
+1308;Estándar;12;12;7;23;6;7;24;;39;Masculino;Tablet;1 Mes
+1309;Estándar;12;17;7;23;2;7;24;Reino Unido;37;Femenino;Tablet;6 Meses
+1310;Básica;10;23;7;23;5;7;24;;44;Masculino;Ordenador;1 Mes
+1311;Premium;14;29;7;23;4;7;24;EEUU;35;Masculino;Tablet;6 Meses
+1312;Básica;10;6;8;23;6;7;24;EEUU;31;Femenino;Ordenador;1 Mes
+1313;Estándar;12;9;8;23;2;7;24;Australia;39;Masculino;Smart TV;1 Mes
+1314;Premium;14;14;8;23;5;7;24;Reino Unido;38;Masculino;Tablet;6 Meses
+1315;Básica;10;20;8;23;3;7;24;Australia;42;Masculino;Smartphone;6 Meses
+1316;Premium;14;28;8;23;5;7;24;Australia;48;Femenino;Tablet;6 Meses
+1317;Básica;10;2;9;23;3;7;24;Australia;31;Masculino;Tablet;6 Meses
+1318;Estándar;12;4;9;23;5;7;24;Italia;42;Masculino;Smartphone;1 Mes
+1319;Estándar;12;6;9;23;3;7;24;Alemania;35;Masculino;Smartphone;6 Meses
+1320;Básica;10;14;9;23;5;7;24;Reino Unido;39;Masculino;Ordenador;1 Mes
+1321;Premium;14;15;9;23;4;7;24;Italia;50;Femenino;Tablet;3 Meses
+1322;Básica;10;16;9;23;6;7;24;EEUU;40;Masculino;Smartphone;6 Meses
+1323;Estándar;12;28;9;23;2;7;24;España;29;Masculino;Smartphone;1 Mes
+1324;Premium;14;2;10;23;4;7;24;Reino Unido;48;Femenino;Smart TV;1 Mes
+1325;Básica;10;3;10;23;4;7;24;Alemania;34;Masculino;Smartphone;3 Meses
+1326;Premium;14;5;10;23;5;7;24;Australia;48;Masculino;Smartphone;12 Meses
+1327;Básica;10;7;10;23;2;7;24;Canadá;48;Masculino;Ordenador;12 Meses
+1328;Estándar;12;9;10;23;4;7;24;Canadá;35;Femenino;Tablet;12 Meses
+1329;Estándar;12;11;10;23;4;7;24;;29;Masculino;Ordenador;1 Mes
+1330;Básica;10;13;10;23;5;7;24;Italia;47;Femenino;Smart TV;3 Meses
+1331;Premium;14;15;10;23;2;7;24;Italia;36;Masculino;Smartphone;1 Mes
+1332;Básica;10;17;10;23;4;7;24;Alemania;40;Femenino;Smartphone;12 Meses
+1333;Estándar;12;21;10;23;4;7;24;Reino Unido;51;Masculino;Tablet;6 Meses
+1334;Premium;14;23;10;23;5;7;24;Canadá;37;Masculino;Smart TV;6 Meses
+1335;Básica;10;24;10;23;6;7;24;EEUU;36;Masculino;Tablet;1 Mes
+1336;Premium;14;28;10;23;4;7;24;EEUU;45;Masculino;Tablet;1 Mes
+1337;Básica;10;31;10;23;4;7;24;Italia;31;Femenino;Tablet;12 Meses
+1338;Estándar;12;3;11;23;4;7;24;EEUU;45;Femenino;Ordenador;3 Meses
+1339;Estándar;12;4;11;23;5;7;24;Australia;30;Masculino;Ordenador;12 Meses
+1340;Básica;10;5;11;23;6;7;24;España;40;Femenino;Smartphone;3 Meses
+1341;Premium;14;6;11;23;4;7;24;Reino Unido;44;Femenino;Smart TV;3 Meses
+1342;Básica;10;1;11;23;5;7;24;;36;Femenino;Ordenador;3 Meses
+1343;Estándar;12;1;11;23;5;7;24;Reino Unido;36;Masculino;Tablet;1 Mes
+1344;Premium;14;29;10;23;5;7;24;Francia;32;Femenino;Smartphone;1 Mes
+1345;Básica;10;27;10;23;3;7;24;Reino Unido;46;Masculino;Smart TV;1 Mes
+1346;Básica;10;16;10;23;4;7;24;Australia;39;Femenino;Smart TV;3 Meses
+1347;Básica;10;14;10;23;4;7;24;Australia;30;Masculino;Smart TV;1 Mes
+1348;Estándar;12;14;9;23;5;7;24;Canadá;34;Masculino;Ordenador;3 Meses
+1349;Premium;14;3;9;23;3;7;24;Méjico;28;Masculino;Ordenador;3 Meses
+1350;Básica;10;27;8;23;4;7;24;España;39;Femenino;Smartphone;6 Meses
+1351;Básica;10;27;8;23;5;7;24;Australia;34;Femenino;Ordenador;1 Mes
+1352;Premium;14;21;8;23;5;7;24;Francia;42;Masculino;Ordenador;12 Meses
+1353;Estándar;12;13;8;23;2;7;24;Canadá;29;Femenino;Tablet;12 Meses
+1354;Estándar;12;12;8;23;4;7;24;Australia;29;Masculino;Tablet;1 Mes
+1355;Básica;10;24;7;23;4;7;24;Alemania;30;Masculino;Tablet;6 Meses
+1356;Premium;14;24;7;23;4;7;24;España;51;Masculino;Smartphone;1 Mes
+1357;Estándar;12;12;7;23;2;7;24;Canadá;51;Masculino;Smart TV;6 Meses
+1358;Básica;10;9;7;23;4;7;24;Alemania;44;Masculino;Tablet;6 Meses
+1359;Estándar;12;9;7;23;5;7;24;EEUU;35;Masculino;Ordenador;3 Meses
+1360;Premium;14;10;7;23;4;7;24;Italia;39;Masculino;Smart TV;1 Mes
+1361;Básica;10;2;7;23;2;7;24;Reino Unido;41;Femenino;Ordenador;12 Meses
+1362;Premium;14;2;7;23;4;7;24;EEUU;44;Femenino;Ordenador;12 Meses
+1363;Estándar;12;1;7;23;5;7;24;;29;Masculino;Ordenador;1 Mes
+1364;Básica;10;1;7;23;4;7;24;Reino Unido;47;Masculino;Tablet;12 Meses
+1365;Estándar;12;30;6;23;2;7;24;Alemania;28;Femenino;Smartphone;1 Mes
+1366;Premium;14;29;6;23;4;7;24;;45;Masculino;Ordenador;3 Meses
+1367;Básica;10;26;6;23;4;7;24;Australia;28;Femenino;Smartphone;12 Meses
+1368;Estándar;12;27;6;23;3;7;24;EEUU;31;Femenino;Ordenador;1 Mes
+1369;Premium;14;25;6;23;3;7;24;Francia;47;Femenino;Ordenador;12 Meses
+1370;Básica;10;23;6;23;4;7;24;Alemania;42;Femenino;Tablet;1 Mes
+1371;Premium;14;24;6;23;4;7;24;España;34;Femenino;Ordenador;3 Meses
+1372;Básica;10;25;6;23;5;7;24;Canadá;40;Femenino;Ordenador;1 Mes
+1373;Estándar;12;26;6;23;4;7;24;Francia;42;Femenino;Ordenador;12 Meses
+1374;Estándar;12;27;6;23;7;7;24;España;33;Masculino;Smart TV;1 Mes
+1375;Básica;10;30;6;23;3;7;24;Alemania;30;Masculino;Ordenador;1 Mes
+1376;Premium;14;3;7;23;5;7;24;Italia;29;Masculino;Tablet;12 Meses
+1377;Básica;10;9;7;23;4;7;24;EEUU;31;Masculino;Smart TV;3 Meses
+1378;Estándar;12;17;7;23;6;7;24;Brasil;46;Femenino;Smart TV;12 Meses
+1379;Premium;14;22;7;23;3;7;24;España;46;Femenino;Smartphone;12 Meses
+1380;Básica;10;28;7;23;5;7;24;Reino Unido;47;Masculino;Ordenador;1 Mes
+1381;Premium;14;4;8;23;4;7;24;EEUU;48;Femenino;Smart TV;1 Mes
+1382;Básica;10;8;8;23;6;7;24;Australia;32;Femenino;Smart TV;1 Mes
+1383;Estándar;12;13;8;23;4;7;24;Francia;51;Femenino;Tablet;3 Meses
+1384;Estándar;12;17;8;23;5;7;24;Australia;33;Masculino;Smart TV;1 Mes
+1385;Básica;10;20;8;23;4;7;24;Australia;43;Masculino;Smartphone;3 Meses
+1386;Premium;14;28;8;23;6;7;24;Francia;43;Femenino;Smart TV;12 Meses
+1387;Básica;10;29;8;23;4;7;24;Italia;42;Masculino;Smart TV;6 Meses
+1388;Estándar;12;3;9;23;5;7;24;Francia;30;Masculino;Smartphone;6 Meses
+1389;Premium;14;10;9;23;3;7;24;Australia;50;Masculino;Smartphone;1 Mes
+1390;Básica;10;13;9;23;5;7;24;;51;Femenino;Ordenador;3 Meses
+1391;Premium;14;15;9;23;4;7;24;Alemania;36;Femenino;Tablet;6 Meses
+1392;Básica;10;25;9;23;6;7;24;EEUU;41;Femenino;Tablet;12 Meses
+1393;Estándar;12;1;10;23;3;7;24;Francia;37;Masculino;Smart TV;3 Meses
+1394;Estándar;12;2;10;23;4;7;24;Francia;30;Femenino;Tablet;12 Meses
+1395;Básica;10;5;10;23;4;7;24;Canadá;50;Femenino;Tablet;1 Mes
+1396;Premium;14;6;10;23;5;7;24;EEUU;41;Femenino;Smart TV;3 Meses
+1397;Básica;10;7;10;23;3;7;24;Francia;29;Femenino;Ordenador;1 Mes
+1398;Estándar;12;10;10;23;4;7;24;Canadá;43;Masculino;Smart TV;1 Mes
+1399;Premium;14;12;10;23;4;7;24;España;31;Femenino;Smart TV;1 Mes
+1400;Básica;10;15;10;23;6;7;24;Alemania;40;Masculino;Ordenador;1 Mes
+1401;Premium;14;17;10;23;5;7;24;Italia;35;Femenino;Smart TV;1 Mes
+1402;Básica;10;21;10;23;4;7;24;Australia;39;Femenino;Ordenador;12 Meses
+1403;Estándar;12;23;10;23;5;7;24;Australia;48;Masculino;Ordenador;3 Meses
+1404;Estándar;12;24;10;23;5;7;24;Francia;42;Femenino;Tablet;3 Meses
+1405;Básica;10;27;10;23;6;7;24;Australia;48;Femenino;Smart TV;1 Mes
+1406;Premium;14;30;10;23;7;7;24;EEUU;33;Femenino;Smart TV;1 Mes
+1407;Básica;10;31;10;23;4;7;24;Francia;45;Femenino;Smart TV;6 Meses
+1408;Estándar;12;3;11;23;4;7;24;Reino Unido;40;Femenino;Smart TV;12 Meses
+1409;Premium;14;5;11;23;6;7;24;Italia;38;Masculino;Tablet;1 Mes
+1410;Básica;10;6;11;23;6;7;24;Francia;31;Femenino;Tablet;3 Meses
+1411;Premium;14;1;11;23;4;7;24;Francia;33;Femenino;Smart TV;6 Meses
+1412;Básica;10;2;11;23;5;7;24;Canadá;27;Masculino;Ordenador;1 Mes
+1413;Estándar;12;2;11;23;5;7;24;Australia;47;Masculino;Smartphone;1 Mes
+1414;Estándar;12;1;11;23;6;7;24;EEUU;41;Masculino;Tablet;1 Mes
+1415;Básica;10;17;10;23;3;7;24;Australia;32;Femenino;Smart TV;12 Meses
+1416;Premium;14;18;10;23;5;7;24;Méjico;31;Masculino;Smart TV;1 Mes
+1417;Básica;10;28;9;23;5;7;24;Reino Unido;43;Femenino;Tablet;12 Meses
+1418;Estándar;12;23;9;23;5;7;24;Alemania;42;Femenino;Smart TV;3 Meses
+1419;Premium;14;22;9;23;3;7;24;EEUU;46;Masculino;Smartphone;1 Mes
+1420;Básica;10;31;8;23;4;7;24;Reino Unido;27;Femenino;Smartphone;1 Mes
+1421;Básica;10;28;8;23;5;7;24;Australia;48;Femenino;Smart TV;1 Mes
+1422;Básica;10;27;8;23;5;7;24;Reino Unido;49;Masculino;Ordenador;6 Meses
+1423;Estándar;12;17;8;23;3;7;24;Reino Unido;43;Masculino;Smart TV;6 Meses
+1424;Premium;14;9;8;23;4;7;24;EEUU;38;Masculino;Ordenador;1 Mes
+1425;Básica;10;24;7;23;5;7;24;Francia;37;Masculino;Smartphone;1 Mes
+1426;Básica;10;16;7;23;4;7;24;EEUU;39;Femenino;Smart TV;3 Meses
+1427;Premium;14;15;7;23;3;7;24;Francia;40;Masculino;Tablet;1 Mes
+1428;Estándar;12;12;7;23;5;7;24;EEUU;40;Masculino;Smart TV;1 Mes
+1429;Estándar;12;12;7;23;6;7;24;EEUU;48;Masculino;Ordenador;1 Mes
+1430;Básica;10;9;7;23;5;7;24;Italia;43;Femenino;Smart TV;3 Meses
+1431;Premium;14;5;7;23;2;7;24;EEUU;46;Masculino;Ordenador;6 Meses
+1432;Estándar;12;5;7;23;5;7;24;EEUU;43;Masculino;Smartphone;6 Meses
+1433;Básica;10;3;7;23;5;7;24;Australia;30;Femenino;Tablet;1 Mes
+1434;Estándar;12;1;7;23;4;7;24;España;51;Femenino;Ordenador;3 Meses
+1435;Premium;14;30;6;23;3;7;24;Reino Unido;30;Masculino;Smartphone;1 Mes
+1436;Básica;10;27;6;23;4;7;24;Francia;47;Femenino;Smart TV;1 Mes
+1437;Premium;14;28;6;23;4;7;24;Canadá;41;Masculino;Ordenador;6 Meses
+1438;Estándar;12;28;6;23;5;7;24;Canadá;45;Femenino;Smartphone;12 Meses
+1439;Básica;10;24;6;23;4;7;24;Reino Unido;47;Femenino;Ordenador;1 Mes
+1440;Estándar;12;24;6;23;5;7;24;Canadá;48;Femenino;Smart TV;6 Meses
+1441;Premium;14;25;6;23;4;7;24;Reino Unido;51;Femenino;Tablet;3 Meses
+1442;Básica;10;26;6;23;6;7;24;Alemania;29;Masculino;Smart TV;1 Mes
+1443;Estándar;12;27;6;23;5;7;24;España;43;Femenino;Ordenador;12 Meses
+1444;Premium;14;29;6;23;7;7;24;Australia;49;Femenino;Tablet;1 Mes
+1445;Básica;10;2;7;23;3;7;24;EEUU;37;Masculino;Smartphone;6 Meses
+1446;Premium;14;7;7;23;5;7;24;Francia;48;Masculino;Tablet;12 Meses
+1447;Básica;10;13;7;23;5;7;24;EEUU;36;Femenino;Tablet;6 Meses
+1448;Estándar;12;18;7;23;7;7;24;Francia;33;Femenino;Ordenador;1 Mes
+1449;Estándar;12;24;7;23;4;7;24;Brasil;38;Femenino;Ordenador;1 Mes
+1450;Básica;10;31;7;23;6;7;24;EEUU;42;Femenino;Smartphone;3 Meses
+1451;Premium;14;1;8;23;5;7;24;EEUU;30;Femenino;Tablet;3 Meses
+1452;Básica;10;8;8;23;6;7;24;Alemania;39;Masculino;Smart TV;3 Meses
+1453;Estándar;12;13;8;23;4;7;24;Francia;36;Masculino;Smartphone;1 Mes
+1454;Premium;14;14;8;23;6;7;24;Reino Unido;27;Femenino;Smartphone;1 Mes
+1455;Básica;10;23;8;23;4;7;24;Reino Unido;49;Masculino;Smart TV;6 Meses
+1456;Premium;14;27;8;23;6;7;24;Italia;31;Masculino;Ordenador;12 Meses
+1457;Básica;10;31;8;23;5;7;24;Alemania;36;Masculino;Ordenador;6 Meses
+1458;Estándar;12;9;9;23;6;7;24;Canadá;41;Femenino;Tablet;1 Mes
+1459;Estándar;12;10;9;23;4;7;24;Canadá;45;Femenino;Ordenador;1 Mes
+1460;Básica;10;12;9;23;5;7;24;Francia;45;Masculino;Smart TV;1 Mes
+1461;Premium;14;17;9;23;5;7;24;España;32;Masculino;Smart TV;3 Meses
+1462;Básica;10;21;9;23;6;7;24;Australia;41;Femenino;Smartphone;6 Meses
+1463;Estándar;12;2;10;23;3;7;24;Italia;37;Masculino;Smart TV;6 Meses
+1464;Premium;14;4;10;23;5;7;24;Alemania;27;Masculino;Ordenador;6 Meses
+1465;Básica;10;6;10;23;4;7;24;Canadá;41;Masculino;Ordenador;12 Meses
+1466;Premium;14;7;10;23;6;7;24;;30;Femenino;Smart TV;1 Mes
+1467;Básica;10;8;10;23;4;7;24;España;43;Masculino;Smartphone;6 Meses
+1468;Estándar;12;11;10;23;5;7;24;Reino Unido;51;Masculino;Ordenador;3 Meses
+1469;Estándar;12;13;10;23;4;7;24;Alemania;46;Femenino;Smart TV;12 Meses
+1470;Básica;10;15;10;23;6;7;24;Alemania;27;Femenino;Tablet;6 Meses
+1471;Premium;14;19;10;23;6;7;24;Italia;51;Femenino;Smartphone;6 Meses
+1472;Básica;10;21;10;23;6;7;24;EEUU;28;Femenino;Ordenador;1 Mes
+1473;Estándar;12;23;10;23;5;7;24;EEUU;33;Masculino;Smartphone;1 Mes
+1474;Premium;14;26;10;23;5;7;24;España;31;Femenino;Ordenador;3 Meses
+1475;Básica;10;27;10;23;6;7;24;España;47;Masculino;Ordenador;6 Meses
+1476;Premium;14;31;10;23;7;7;24;España;45;Femenino;Tablet;1 Mes
+1477;Básica;10;3;11;23;5;7;24;EEUU;42;Masculino;Smart TV;12 Meses
+1478;Estándar;12;5;11;23;6;7;24;Francia;47;Femenino;Smart TV;12 Meses
+1479;Estándar;12;6;11;23;6;7;24;Australia;29;Femenino;Smart TV;1 Mes
+1480;Básica;10;3;11;23;7;7;24;EEUU;49;Femenino;Ordenador;12 Meses
+1481;Premium;14;3;11;23;4;7;24;Australia;41;Femenino;Ordenador;12 Meses
+1482;Básica;10;4;11;23;5;7;24;Italia;45;Masculino;Smartphone;1 Mes
+1483;Estándar;12;2;11;23;6;7;24;Francia;49;Masculino;Smart TV;6 Meses
+1484;Premium;14;27;10;23;6;7;24;España;41;Masculino;Smart TV;12 Meses
+1485;Básica;10;27;10;23;4;7;24;EEUU;37;Masculino;Ordenador;1 Mes
+1486;Premium;14;15;10;23;5;7;24;España;31;Masculino;Smartphone;1 Mes
+1487;Básica;10;3;10;23;5;7;24;Brasil;29;Masculino;Smartphone;12 Meses
+1488;Estándar;12;25;9;23;5;7;24;Reino Unido;51;Femenino;Smart TV;3 Meses
+1489;Estándar;12;16;9;23;3;7;24;;33;Masculino;Smart TV;6 Meses
+1490;Básica;10;14;9;23;4;7;24;EEUU;31;Masculino;Smartphone;6 Meses
+1491;Premium;14;11;9;23;5;7;24;Francia;42;Femenino;Ordenador;1 Mes
+1492;Básica;10;9;9;23;5;7;24;España;48;Femenino;Ordenador;1 Mes
+1493;Estándar;12;12;8;23;3;7;24;Brasil;37;Femenino;Ordenador;12 Meses
+1494;Premium;14;4;8;23;6;7;24;EEUU;51;Femenino;Smartphone;3 Meses
+1495;Básica;10;4;8;23;6;7;24;Francia;29;Femenino;Tablet;1 Mes
+1496;Básica;10;31;7;23;5;7;24;Italia;46;Masculino;Tablet;3 Meses
+1497;Básica;10;29;7;23;3;7;24;Italia;35;Masculino;Smart TV;12 Meses
+1498;Estándar;12;14;7;23;5;7;24;Francia;44;Femenino;Smartphone;3 Meses
+1499;Premium;14;13;7;23;6;7;24;Canadá;36;Masculino;Smart TV;1 Mes
+1500;Básica;10;11;7;23;5;7;24;;38;Femenino;Tablet;12 Meses
+1501;Básica;10;12;7;23;3;7;24;EEUU;36;Masculino;Smart TV;6 Meses
+1502;Premium;14;11;7;23;5;7;24;EEUU;40;Femenino;Ordenador;12 Meses
+1503;Estándar;12;2;7;23;5;7;24;Méjico;29;Masculino;Ordenador;12 Meses
+1504;Estándar;12;30;6;23;6;7;24;Canadá;32;Masculino;Smart TV;1 Mes
+1505;Básica;10;30;6;23;5;7;24;Canadá;30;Masculino;Ordenador;1 Mes
+1506;Premium;14;29;6;23;5;7;24;Alemania;47;Masculino;Smartphone;6 Meses
+1507;Estándar;12;30;6;23;4;7;24;Brasil;28;Femenino;Tablet;6 Meses
+1508;Básica;10;24;6;23;5;7;24;Canadá;49;Masculino;Ordenador;6 Meses
+1509;Estándar;12;25;6;23;4;7;24;EEUU;50;Masculino;Smartphone;6 Meses
+1510;Premium;14;25;6;23;7;7;24;Australia;33;Masculino;Smart TV;12 Meses
+1511;Básica;10;26;6;23;4;7;24;Reino Unido;50;Masculino;Smart TV;1 Mes
+1512;Premium;14;27;6;23;6;7;24;España;28;Femenino;Smart TV;6 Meses
+1513;Estándar;12;29;6;23;6;7;24;España;41;Masculino;Smartphone;3 Meses
+1514;Básica;10;1;7;23;7;7;24;Alemania;30;Femenino;Smartphone;1 Mes
+1515;Estándar;12;3;7;23;4;7;24;Australia;32;Masculino;Smart TV;12 Meses
+1516;Premium;14;12;7;23;7;7;24;España;50;Masculino;Ordenador;3 Meses
+1517;Básica;10;15;7;23;5;7;24;Alemania;28;Femenino;Smart TV;3 Meses
+1518;Estándar;12;19;7;23;7;7;24;Italia;45;Masculino;Smart TV;12 Meses
+1519;Premium;14;27;7;23;5;7;24;España;31;Masculino;Tablet;1 Mes
+1520;Básica;10;29;7;23;6;7;24;España;27;Femenino;Smartphone;1 Mes
+1521;Premium;14;6;8;23;5;7;24;EEUU;49;Masculino;Tablet;6 Meses
+1522;Básica;10;13;8;23;6;7;24;Reino Unido;32;Femenino;Ordenador;1 Mes
+1523;Estándar;12;14;8;23;5;7;24;Australia;38;Masculino;Smart TV;6 Meses
+1524;Estándar;12;20;8;23;7;7;24;Francia;39;Masculino;Smartphone;1 Mes
+1525;Básica;10;24;8;23;4;7;24;Canadá;50;Femenino;Tablet;6 Meses
+1526;Premium;14;28;8;23;6;7;24;Alemania;51;Masculino;Tablet;1 Mes
+1527;Básica;10;5;9;23;5;7;24;Alemania;32;Femenino;Smart TV;1 Mes
+1528;Estándar;12;10;9;23;7;7;24;EEUU;45;Femenino;Smart TV;6 Meses
+1529;Premium;14;11;9;23;4;7;24;Méjico;31;Femenino;Ordenador;3 Meses
+1530;Básica;10;14;9;23;6;7;24;Italia;44;Masculino;Smartphone;3 Meses
+1531;Premium;14;21;9;23;5;7;24;EEUU;30;Femenino;Tablet;1 Mes
+1532;Básica;10;26;9;23;7;7;24;Alemania;44;Femenino;Tablet;12 Meses
+1533;Estándar;12;30;9;23;3;7;24;EEUU;37;Masculino;Tablet;1 Mes
+1534;Estándar;12;2;10;23;6;7;24;Alemania;30;Femenino;Tablet;6 Meses
+1535;Básica;10;6;10;23;5;7;24;Australia;31;Femenino;Smart TV;6 Meses
+1536;Premium;14;7;10;23;6;7;24;Italia;31;Femenino;Ordenador;1 Mes
+1537;Básica;10;9;10;23;6;7;24;Canadá;44;Masculino;Tablet;6 Meses
+1538;Estándar;12;11;10;23;5;7;24;EEUU;44;Femenino;Smart TV;1 Mes
+1539;Premium;14;12;10;23;5;7;24;Italia;34;Masculino;Ordenador;12 Meses
+1540;Básica;10;16;10;23;6;7;24;Reino Unido;42;Masculino;Ordenador;6 Meses
+1541;Premium;14;17;10;23;7;7;24;Australia;33;Masculino;Smartphone;12 Meses
+1542;Básica;10;21;10;23;7;7;24;Australia;35;Masculino;Smart TV;6 Meses
+1543;Estándar;12;23;10;23;6;7;24;EEUU;34;Femenino;Ordenador;1 Mes
+1544;Estándar;12;25;10;23;5;7;24;Australia;47;Masculino;Tablet;3 Meses
+1545;Básica;10;27;10;23;6;7;24;Australia;43;Femenino;Ordenador;1 Mes
+1546;Premium;14;29;10;23;8;7;24;Canadá;43;Masculino;Smart TV;1 Mes
+1547;Básica;10;1;11;23;5;7;24;Canadá;35;Femenino;Smartphone;12 Meses
+1548;Estándar;12;4;11;23;6;7;24;Reino Unido;39;Masculino;Tablet;12 Meses
+1549;Premium;14;4;11;23;6;7;24;EEUU;39;Masculino;Tablet;1 Mes
+1550;Básica;10;4;11;23;7;7;24;España;49;Femenino;Smart TV;12 Meses
+1551;Premium;14;5;11;23;4;7;24;EEUU;30;Masculino;Tablet;6 Meses
+1552;Básica;10;2;11;23;5;7;24;Reino Unido;31;Femenino;Tablet;3 Meses
+1553;Estándar;12;3;11;23;6;7;24;Francia;39;Masculino;Tablet;3 Meses
+1554;Estándar;12;30;10;23;6;7;24;Australia;30;Femenino;Ordenador;3 Meses
+1555;Básica;10;31;10;23;4;7;24;Australia;43;Femenino;Smartphone;6 Meses
+1556;Premium;14;14;10;23;5;7;24;EEUU;29;Femenino;Smartphone;12 Meses
+1557;Básica;10;26;9;23;5;7;24;Méjico;46;Masculino;Smart TV;1 Mes
+1558;Estándar;12;17;9;23;6;7;24;;35;Masculino;Smartphone;1 Mes
+1559;Premium;14;16;9;23;3;7;24;Méjico;30;Masculino;Tablet;3 Meses
+1560;Básica;10;12;9;23;7;7;24;Reino Unido;39;Femenino;Smart TV;6 Meses
+1561;Premium;14;12;9;23;6;7;24;EEUU;41;Masculino;Ordenador;3 Meses
+1562;Básica;10;29;8;23;5;7;24;EEUU;27;Masculino;Smartphone;1 Mes
+1563;Estándar;12;25;8;23;3;7;24;España;42;Masculino;Ordenador;3 Meses
+1564;Estándar;12;15;8;23;6;7;24;Brasil;45;Femenino;Tablet;6 Meses
+1565;Básica;10;11;8;23;7;7;24;Italia;36;Femenino;Smart TV;3 Meses
+1566;Premium;14;10;8;23;6;7;24;;35;Masculino;Ordenador;6 Meses
+1567;Básica;10;26;7;23;4;7;24;Australia;38;Masculino;Smartphone;3 Meses
+1568;Estándar;12;19;7;23;6;7;24;Canadá;41;Femenino;Smart TV;3 Meses
+1569;Premium;14;17;7;23;6;7;24;Méjico;43;Masculino;Tablet;1 Mes
+1570;Básica;10;17;7;23;6;7;24;España;44;Masculino;Tablet;12 Meses
+1571;Básica;10;17;7;23;4;7;24;España;35;Masculino;Tablet;1 Mes
+1572;Básica;10;11;7;23;6;7;24;Francia;39;Masculino;Ordenador;6 Meses
+1573;Estándar;12;7;7;23;5;7;24;Australia;43;Masculino;Smart TV;3 Meses
+1574;Premium;14;7;7;23;6;7;24;EEUU;36;Masculino;Smart TV;12 Meses
+1575;Básica;10;8;7;23;5;7;24;Canadá;49;Femenino;Ordenador;6 Meses
+1576;Básica;10;6;7;23;8;7;24;EEUU;29;Femenino;Smartphone;1 Mes
+1577;Premium;14;3;7;23;4;7;24;Canadá;45;Masculino;Tablet;6 Meses
+1578;Estándar;12;30;6;23;6;7;24;Canadá;44;Femenino;Ordenador;12 Meses
+1579;Estándar;12;27;6;23;4;7;24;Canadá;40;Femenino;Smart TV;12 Meses
+1580;Básica;10;26;6;23;8;7;24;EEUU;51;Femenino;Smart TV;3 Meses
+1581;Premium;14;27;6;23;5;7;24;Australia;30;Femenino;Smart TV;1 Mes
+1582;Estándar;12;28;6;23;8;7;24;Australia;50;Masculino;Smart TV;1 Mes
+1583;Básica;10;30;6;23;6;7;24;Canadá;39;Masculino;Tablet;3 Meses
+1584;Estándar;12;2;7;23;7;7;24;Méjico;51;Masculino;Tablet;1 Mes
+1585;Premium;14;5;7;23;5;7;24;;42;Masculino;Ordenador;1 Mes
+1586;Básica;10;11;7;23;7;7;24;Australia;34;Femenino;Tablet;1 Mes
+1587;Premium;14;18;7;23;6;7;24;Francia;28;Masculino;Tablet;3 Meses
+1588;Estándar;12;25;7;23;7;7;24;Australia;43;Masculino;Tablet;1 Mes
+1589;Básica;10;28;7;23;6;7;24;Alemania;27;Femenino;Tablet;12 Meses
+1590;Estándar;12;5;8;23;8;7;24;Canadá;49;Femenino;Smart TV;3 Meses
+1591;Premium;14;9;8;23;5;7;24;EEUU;35;Femenino;Ordenador;3 Meses
+1592;Básica;10;14;8;23;6;7;24;España;34;Masculino;Tablet;6 Meses
+1593;Estándar;12;15;8;23;5;7;24;Canadá;28;Masculino;Smartphone;6 Meses
+1594;Premium;14;16;8;23;7;7;24;EEUU;49;Femenino;Tablet;1 Mes
+1595;Básica;10;25;8;23;4;7;24;Australia;51;Femenino;Tablet;1 Mes
+1596;Premium;14;27;8;23;6;7;24;Reino Unido;36;Masculino;Ordenador;1 Mes
+1597;Básica;10;6;9;23;6;7;24;Canadá;37;Masculino;Smart TV;1 Mes
+1598;Estándar;12;8;9;23;7;7;24;Reino Unido;48;Masculino;Ordenador;6 Meses
+1599;Estándar;12;13;9;23;4;7;24;Alemania;45;Femenino;Smart TV;3 Meses
+1600;Básica;10;15;9;23;6;7;24;;39;Masculino;Tablet;1 Mes
+1601;Premium;14;19;9;23;5;7;24;EEUU;39;Masculino;Smartphone;12 Meses
+1602;Básica;10;22;9;23;7;7;24;Francia;46;Femenino;Smart TV;1 Mes
+1603;Estándar;12;24;9;23;6;7;24;Francia;30;Femenino;Smartphone;6 Meses
+1604;Premium;14;30;9;23;6;7;24;Reino Unido;32;Femenino;Smartphone;3 Meses
+1605;Básica;10;3;10;23;5;7;24;;39;Masculino;Ordenador;1 Mes
+1606;Premium;14;8;10;23;7;7;24;España;35;Femenino;Smartphone;6 Meses
+1607;Básica;10;9;10;23;7;7;24;;41;Femenino;Smartphone;12 Meses
+1608;Estándar;12;12;10;23;8;7;24;Italia;32;Femenino;Smart TV;1 Mes
+1609;Estándar;12;15;10;23;6;7;24;Reino Unido;41;Femenino;Smart TV;6 Meses
+1610;Básica;10;17;10;23;6;7;24;Canadá;36;Femenino;Smart TV;12 Meses
+1611;Premium;14;19;10;23;7;7;24;Australia;49;Masculino;Ordenador;6 Meses
+1612;Básica;10;22;10;23;9;7;24;Reino Unido;30;Femenino;Smartphone;1 Mes
+1613;Estándar;12;23;10;23;6;7;24;Brasil;40;Femenino;Smartphone;3 Meses
+1614;Premium;14;27;10;23;7;7;24;EEUU;46;Femenino;Tablet;6 Meses
+1615;Básica;10;28;10;23;6;7;24;Australia;30;Femenino;Smart TV;1 Mes
+1616;Premium;14;1;11;23;8;7;24;Italia;48;Masculino;Ordenador;3 Meses
+1617;Básica;10;4;11;23;5;7;24;Reino Unido;50;Masculino;Tablet;6 Meses
+1618;Estándar;12;5;11;23;6;7;24;Canadá;27;Masculino;Smart TV;1 Mes
+1619;Estándar;12;4;11;23;7;7;24;Italia;51;Femenino;Ordenador;3 Meses
+1620;Básica;10;5;11;23;7;7;24;EEUU;38;Masculino;Smartphone;1 Mes
+1621;Premium;14;4;11;23;5;7;24;;39;Masculino;Ordenador;3 Meses
+1622;Básica;10;5;11;23;5;7;24;Alemania;45;Femenino;Smart TV;1 Mes
+1623;Estándar;12;3;11;23;6;7;24;Italia;29;Masculino;Ordenador;12 Meses
+1624;Premium;14;31;10;23;7;7;24;Reino Unido;35;Masculino;Smartphone;6 Meses
+1625;Básica;10;26;10;23;4;7;24;Alemania;51;Femenino;Smart TV;1 Mes
+1626;Premium;14;16;10;23;6;7;24;Francia;51;Masculino;Smart TV;1 Mes
+1627;Básica;10;16;10;23;7;7;24;Méjico;42;Femenino;Smartphone;12 Meses
+1628;Estándar;12;17;9;23;6;7;24;Brasil;48;Femenino;Ordenador;3 Meses
+1629;Estándar;12;12;9;23;4;7;24;Canadá;40;Masculino;Smart TV;6 Meses
+1630;Básica;10;13;9;23;7;7;24;Reino Unido;39;Masculino;Smart TV;6 Meses
+1631;Premium;14;9;9;23;7;7;24;Australia;44;Masculino;Ordenador;3 Meses
+1632;Básica;10;3;9;23;6;7;24;EEUU;27;Femenino;Ordenador;1 Mes
+1633;Estándar;12;31;8;23;5;7;24;Reino Unido;35;Masculino;Tablet;1 Mes
+1634;Premium;14;25;8;23;7;7;24;Australia;45;Masculino;Smart TV;12 Meses
+1635;Básica;10;15;8;23;7;7;24;Canadá;33;Masculino;Tablet;12 Meses
+1636;Premium;14;16;8;23;7;7;24;Canadá;32;Femenino;Smart TV;3 Meses
+1637;Básica;10;28;7;23;5;7;24;Australia;51;Femenino;Ordenador;1 Mes
+1638;Estándar;12;28;7;23;6;7;24;Reino Unido;40;Femenino;Tablet;1 Mes
+1639;Estándar;12;22;7;23;6;7;24;Canadá;47;Masculino;Ordenador;6 Meses
+1640;Básica;10;19;7;23;6;7;24;España;42;Masculino;Smart TV;3 Meses
+1641;Premium;14;16;7;23;6;7;24;Francia;41;Masculino;Tablet;3 Meses
+1642;Básica;10;15;7;23;9;7;24;Brasil;43;Masculino;Tablet;1 Mes
+1643;Estándar;12;16;7;23;5;7;24;Australia;42;Femenino;Tablet;1 Mes
+1644;Premium;14;9;7;23;6;7;24;España;28;Masculino;Smartphone;1 Mes
+1645;Básica;10;7;7;23;5;7;24;Australia;40;Femenino;Ordenador;3 Meses
+1646;Básica;10;7;7;23;9;7;24;EEUU;46;Femenino;Tablet;3 Meses
+1647;Básica;10;6;7;23;5;7;24;Australia;39;Femenino;Ordenador;1 Mes
+1648;Estándar;12;30;6;23;6;7;24;Canadá;41;Femenino;Smartphone;12 Meses
+1649;Premium;14;27;6;23;5;7;24;Canadá;30;Masculino;Tablet;3 Meses
+1650;Básica;10;28;6;23;8;7;24;Francia;32;Masculino;Tablet;1 Mes
+1651;Básica;10;28;6;23;6;7;24;Francia;38;Masculino;Smart TV;1 Mes
+1652;Premium;14;29;6;23;8;7;24;Alemania;38;Masculino;Tablet;6 Meses
+1653;Estándar;12;1;7;23;6;7;24;EEUU;32;Masculino;Smartphone;1 Mes
+1654;Estándar;12;3;7;23;7;7;24;Reino Unido;27;Masculino;Tablet;1 Mes
+1655;Básica;10;4;7;23;6;7;24;EEUU;50;Femenino;Tablet;3 Meses
+1656;Premium;14;10;7;23;7;7;24;Alemania;30;Masculino;Smartphone;6 Meses
+1657;Estándar;12;23;7;23;6;7;24;Reino Unido;49;Masculino;Smartphone;3 Meses
+1658;Básica;10;24;7;23;7;7;24;Italia;32;Femenino;Ordenador;12 Meses
+1659;Estándar;12;26;7;23;6;7;24;España;35;Masculino;Smartphone;12 Meses
+1660;Premium;14;7;8;23;8;7;24;;44;Masculino;Tablet;6 Meses
+1661;Básica;10;10;8;23;5;7;24;Reino Unido;49;Femenino;Ordenador;1 Mes
+1662;Premium;14;14;8;23;6;7;24;Francia;39;Masculino;Smartphone;12 Meses
+1663;Estándar;12;16;8;23;6;7;24;Francia;38;Femenino;Smartphone;12 Meses
+1664;Básica;10;20;8;23;8;7;24;EEUU;38;Femenino;Ordenador;12 Meses
+1665;Estándar;12;25;8;23;5;7;24;Francia;37;Masculino;Smartphone;1 Mes
+1666;Premium;14;28;8;23;7;7;24;EEUU;28;Masculino;Ordenador;6 Meses
+1667;Básica;10;5;9;23;6;7;24;Francia;49;Masculino;Tablet;1 Mes
+1668;Estándar;12;8;9;23;8;7;24;EEUU;33;Femenino;Tablet;1 Mes
+1669;Premium;14;14;9;23;5;7;24;Reino Unido;48;Masculino;Tablet;12 Meses
+1670;Básica;10;16;9;23;6;7;24;Alemania;34;Masculino;Tablet;3 Meses
+1671;Premium;14;19;9;23;6;7;24;España;39;Femenino;Smartphone;1 Mes
+1672;Básica;10;23;9;23;7;7;24;Italia;30;Masculino;Tablet;6 Meses
+1673;Estándar;12;29;9;23;7;7;24;Alemania;37;Masculino;Tablet;6 Meses
+1674;Estándar;12;2;10;23;6;7;24;Italia;38;Masculino;Smart TV;12 Meses
+1675;Básica;10;8;10;23;5;7;24;EEUU;42;Femenino;Ordenador;1 Mes
+1676;Premium;14;9;10;23;7;7;24;Australia;35;Femenino;Ordenador;1 Mes
+1677;Básica;10;11;10;23;8;7;24;Alemania;30;Masculino;Tablet;1 Mes
+1678;Estándar;12;14;10;23;9;7;24;EEUU;48;Femenino;Smart TV;1 Mes
+1679;Premium;14;16;10;23;6;7;24;Reino Unido;48;Masculino;Tablet;6 Meses
+1680;Básica;10;18;10;23;7;7;24;EEUU;32;Masculino;Ordenador;12 Meses
+1681;Premium;14;22;10;23;7;7;24;Canadá;27;Masculino;Smart TV;1 Mes
+1682;Básica;10;23;10;23;9;7;24;Alemania;48;Femenino;Ordenador;1 Mes
+1683;Estándar;12;26;10;23;6;7;24;Australia;33;Masculino;Ordenador;6 Meses
+1684;Estándar;12;27;10;23;7;7;24;Alemania;28;Masculino;Smartphone;1 Mes
+1685;Básica;10;31;10;23;7;7;24;España;46;Masculino;Ordenador;12 Meses
+1686;Premium;14;1;11;23;8;7;24;Australia;40;Masculino;Ordenador;6 Meses
+1687;Básica;10;3;11;23;5;7;24;EEUU;49;Masculino;Smartphone;6 Meses
+1688;Estándar;12;4;11;23;6;7;24;EEUU;41;Femenino;Tablet;12 Meses
+1689;Premium;14;5;11;23;7;7;24;Australia;38;Masculino;Tablet;3 Meses
+1690;Básica;10;5;11;23;7;7;24;Francia;42;Femenino;Ordenador;1 Mes
+1691;Premium;14;5;11;23;5;7;24;Reino Unido;27;Femenino;Smart TV;12 Meses
+1692;Básica;10;5;11;23;6;7;24;Australia;41;Femenino;Tablet;12 Meses
+1693;Estándar;12;3;11;23;7;7;24;España;41;Femenino;Tablet;12 Meses
+1694;Estándar;12;27;10;23;7;7;24;EEUU;49;Masculino;Ordenador;3 Meses
+1695;Básica;10;24;10;23;4;7;24;Italia;28;Femenino;Smartphone;1 Mes
+1696;Premium;14;17;10;23;7;7;24;EEUU;44;Masculino;Ordenador;12 Meses
+1697;Básica;10;6;10;23;7;7;24;España;47;Femenino;Tablet;1 Mes
+1698;Estándar;12;18;9;23;6;7;24;Australia;29;Masculino;Tablet;6 Meses
+1699;Premium;14;17;9;23;4;7;24;;31;Femenino;Ordenador;1 Mes
+1700;Básica;10;13;9;23;8;7;24;Italia;28;Femenino;Smart TV;1 Mes
+1701;Premium;14;9;9;23;7;7;24;EEUU;32;Masculino;Smart TV;1 Mes
+1702;Básica;10;2;9;23;7;7;24;EEUU;43;Masculino;Smartphone;1 Mes
+1703;Estándar;12;1;9;23;6;7;24;Canadá;48;Masculino;Smart TV;12 Meses
+1704;Estándar;12;16;8;23;7;7;24;Reino Unido;28;Masculino;Ordenador;1 Mes
+1705;Básica;10;17;8;23;7;7;24;;31;Femenino;Tablet;6 Meses
+1706;Premium;14;29;7;23;7;7;24;Italia;47;Masculino;Ordenador;3 Meses
+1707;Básica;10;28;7;23;6;7;24;Australia;39;Femenino;Smartphone;12 Meses
+1708;Estándar;12;25;7;23;7;7;24;Australia;35;Masculino;Smartphone;12 Meses
+1709;Premium;14;26;7;23;6;7;24;EEUU;42;Femenino;Smartphone;1 Mes
+1710;Básica;10;17;7;23;7;7;24;Reino Unido;30;Masculino;Smart TV;1 Mes
+1711;Premium;14;16;7;23;6;7;24;EEUU;34;Masculino;Smartphone;1 Mes
+1712;Básica;10;17;7;23;9;7;24;Francia;35;Masculino;Smartphone;1 Mes
+1713;Estándar;12;16;7;23;6;7;24;Francia;31;Femenino;Tablet;3 Meses
+1714;Estándar;12;16;7;23;7;7;24;Canadá;36;Femenino;Tablet;1 Mes
+1715;Básica;10;12;7;23;6;7;24;Australia;31;Femenino;Ordenador;12 Meses
+1716;Premium;14;10;7;23;9;7;24;Reino Unido;32;Masculino;Smart TV;6 Meses
+1717;Básica;10;8;7;23;7;7;24;EEUU;46;Femenino;Smartphone;1 Mes
+1718;Estándar;12;29;6;23;7;7;24;Australia;30;Masculino;Tablet;1 Mes
+1719;Premium;14;29;6;23;6;7;24;Francia;46;Masculino;Ordenador;1 Mes
+1720;Básica;10;28;6;23;8;7;24;Canadá;44;Femenino;Tablet;12 Meses
+1721;Básica;10;29;6;23;6;7;24;Italia;34;Masculino;Tablet;1 Mes
+1722;Básica;10;1;7;23;8;7;24;EEUU;31;Masculino;Tablet;3 Meses
+1723;Estándar;12;2;7;23;6;7;24;Australia;34;Masculino;Smart TV;1 Mes
+1724;Premium;14;4;7;23;8;7;24;Reino Unido;28;Masculino;Ordenador;1 Mes
+1725;Básica;10;8;7;23;7;7;24;EEUU;36;Femenino;Smartphone;12 Meses
+1726;Básica;10;20;7;23;9;7;24;Reino Unido;48;Femenino;Ordenador;1 Mes
+1727;Premium;14;23;7;23;6;7;24;Canadá;40;Masculino;Smartphone;1 Mes
+1728;Estándar;12;26;7;23;7;7;24;EEUU;35;Masculino;Smartphone;12 Meses
+1729;Estándar;12;30;7;23;7;7;24;;80;Masculino;Ordenador;1 Mes
+1730;Básica;10;8;8;23;8;7;24;Francia;28;Femenino;Smartphone;1 Mes
+1731;Premium;14;13;8;23;5;7;24;Canadá;37;Masculino;Tablet;1 Mes
+1732;Estándar;12;14;8;23;7;7;24;EEUU;33;Masculino;Smartphone;1 Mes
+1733;Básica;10;16;8;23;6;7;24;Canadá;27;Femenino;Tablet;1 Mes
+1734;Estándar;12;19;8;23;8;7;24;Australia;35;Masculino;Tablet;6 Meses
+1735;Premium;14;27;8;23;6;7;24;España;27;Masculino;Smartphone;1 Mes
+1736;Básica;10;4;9;23;7;7;24;Italia;29;Femenino;Smartphone;1 Mes
+1737;Premium;14;5;9;23;6;7;24;EEUU;28;Femenino;Ordenador;12 Meses
+1738;Estándar;12;13;9;23;8;7;24;Australia;33;Femenino;Smartphone;1 Mes
+1739;Básica;10;16;9;23;5;7;24;España;35;Femenino;Smartphone;1 Mes
+1740;Estándar;12;18;9;23;6;7;24;Canadá;37;Femenino;Ordenador;12 Meses
+1741;Premium;14;20;9;23;6;7;24;España;31;Masculino;Smartphone;6 Meses
+1742;Básica;10;29;9;23;7;7;24;España;27;Masculino;Ordenador;12 Meses
+1743;Estándar;12;30;9;23;8;7;24;EEUU;48;Masculino;Tablet;12 Meses
+1744;Premium;14;4;10;23;10;7;24;Reino Unido;30;Femenino;Smart TV;1 Mes
+1745;Básica;10;8;10;23;7;7;24;Australia;45;Masculino;Tablet;6 Meses
+1746;Premium;14;10;10;23;7;7;24;Reino Unido;28;Masculino;Smart TV;3 Meses
+1747;Básica;10;12;10;23;8;7;24;España;30;Femenino;Ordenador;3 Meses
+1748;Estándar;12;14;10;23;10;7;24;España;48;Masculino;Smartphone;6 Meses
+1749;Estándar;12;16;10;23;7;7;24;Australia;37;Femenino;Ordenador;1 Mes
+1750;Básica;10;21;10;23;7;7;24;Australia;28;Femenino;Smartphone;12 Meses
+1751;Premium;14;23;10;23;7;7;24;Canadá;43;Femenino;Tablet;12 Meses
+1752;Básica;10;25;10;23;9;7;24;Italia;36;Masculino;Ordenador;12 Meses
+1753;Estándar;12;26;10;23;6;7;24;Australia;47;Masculino;Ordenador;1 Mes
+1754;Premium;14;29;10;23;7;7;24;Francia;42;Masculino;Smart TV;1 Mes
+1755;Básica;10;31;10;23;7;7;24;Alemania;50;Masculino;Ordenador;1 Mes
+1756;Premium;14;2;11;23;8;7;24;;41;Masculino;Tablet;1 Mes
+1757;Básica;10;3;11;23;5;7;24;EEUU;43;Masculino;Ordenador;1 Mes
+1758;Estándar;12;5;11;23;7;7;24;EEUU;35;Masculino;Ordenador;12 Meses
+1759;Estándar;12;6;11;23;7;7;24;Brasil;51;Masculino;Smart TV;1 Mes
+1760;Básica;10;6;11;23;7;7;24;Canadá;35;Masculino;Tablet;6 Meses
+1761;Premium;14;7;11;23;5;7;24;Australia;37;Masculino;Smart TV;3 Meses
+1762;Básica;10;4;11;23;6;7;24;Brasil;28;Femenino;Smartphone;6 Meses
+1763;Estándar;12;2;11;23;7;7;24;Alemania;32;Femenino;Smartphone;1 Mes
+1764;Premium;14;27;10;23;7;7;24;Alemania;37;Femenino;Tablet;3 Meses
+1765;Básica;10;18;10;23;5;7;24;Alemania;37;Femenino;Tablet;6 Meses
+1766;Premium;14;7;10;23;8;7;24;Australia;34;Femenino;Smart TV;12 Meses
+1767;Básica;10;4;10;23;7;7;24;;30;Femenino;Tablet;1 Mes
+1768;Estándar;12;17;9;23;7;7;24;Reino Unido;35;Masculino;Tablet;12 Meses
+1769;Estándar;12;15;9;23;6;7;24;Australia;41;Femenino;Ordenador;12 Meses
+1770;Básica;10;10;9;23;8;7;24;Australia;50;Femenino;Tablet;1 Mes
+1771;Premium;14;9;9;23;8;7;24;Brasil;48;Femenino;Ordenador;12 Meses
+1772;Básica;10;9;9;23;8;7;24;EEUU;29;Masculino;Smart TV;1 Mes
+1773;Estándar;12;7;9;23;6;7;24;EEUU;37;Masculino;Tablet;6 Meses
+1774;Premium;14;8;9;23;8;7;24;Canadá;36;Femenino;Tablet;1 Mes
+1775;Básica;10;14;8;23;7;7;24;Reino Unido;45;Masculino;Tablet;1 Mes
+1776;Premium;14;6;8;23;8;7;24;Australia;27;Femenino;Smart TV;12 Meses
+1777;Básica;10;6;8;23;6;7;24;Australia;31;Femenino;Tablet;1 Mes
+1778;Estándar;12;29;7;23;9;7;24;Australia;42;Femenino;Tablet;3 Meses
+1779;Estándar;12;28;7;23;6;7;24;;43;Femenino;Smartphone;6 Meses
+1780;Básica;10;24;7;23;7;7;24;Australia;43;Masculino;Smart TV;12 Meses
+1781;Premium;14;22;7;23;6;7;24;Australia;35;Femenino;Ordenador;1 Mes
+1782;Básica;10;19;7;23;10;7;24;Francia;51;Masculino;Ordenador;12 Meses
+1783;Estándar;12;17;7;23;7;7;24;EEUU;42;Femenino;Smartphone;3 Meses
+1784;Premium;14;16;7;23;7;7;24;España;36;Masculino;Tablet;1 Mes
+1785;Básica;10;13;7;23;7;7;24;EEUU;50;Femenino;Tablet;12 Meses
+1786;Premium;14;14;7;23;9;7;24;Reino Unido;43;Femenino;Ordenador;12 Meses
+1787;Básica;10;7;7;23;7;7;24;Italia;28;Masculino;Ordenador;6 Meses
+1788;Estándar;12;6;7;23;9;7;24;Canadá;48;Femenino;Smart TV;1 Mes
+1789;Estándar;12;30;6;23;7;7;24;Alemania;47;Femenino;Tablet;6 Meses
+1790;Básica;10;30;6;23;9;7;24;Francia;31;Masculino;Smart TV;1 Mes
+1791;Premium;14;1;7;23;6;7;24;Australia;45;Masculino;Ordenador;1 Mes
+1792;Básica;10;2;7;23;9;7;24;Australia;45;Femenino;Tablet;12 Meses
+1793;Estándar;12;3;7;23;6;7;24;Reino Unido;42;Femenino;Smart TV;12 Meses
+1794;Premium;14;6;7;23;8;7;24;España;36;Femenino;Tablet;12 Meses
+1795;Básica;10;7;7;23;7;7;24;Australia;32;Masculino;Smart TV;6 Meses
+1796;Básica;10;15;7;23;9;7;24;;50;Masculino;Tablet;6 Meses
+1797;Básica;10;17;7;23;6;7;24;España;39;Masculino;Smart TV;6 Meses
+1798;Estándar;12;26;7;23;8;7;24;Canadá;51;Masculino;Smartphone;1 Mes
+1799;Premium;14;5;8;23;7;7;24;Canadá;49;Femenino;Tablet;12 Meses
+1800;Básica;10;12;8;23;9;7;24;Italia;42;Masculino;Tablet;1 Mes
+1801;Básica;10;14;8;23;6;7;24;Brasil;46;Masculino;Tablet;1 Mes
+1802;Premium;14;15;8;23;7;7;24;Canadá;30;Masculino;Smartphone;3 Meses
+1803;Estándar;12;18;8;23;7;7;24;Canadá;48;Masculino;Smart TV;1 Mes
+1804;Estándar;12;21;8;23;9;7;24;Francia;40;Femenino;Ordenador;3 Meses
+1805;Básica;10;4;9;23;6;7;24;Reino Unido;50;Femenino;Smart TV;1 Mes
+1806;Premium;14;5;9;23;7;7;24;Australia;49;Femenino;Ordenador;12 Meses
+1807;Estándar;12;8;9;23;7;7;24;Brasil;37;Masculino;Smartphone;1 Mes
+1808;Básica;10;15;9;23;8;7;24;Australia;43;Masculino;Ordenador;1 Mes
+1809;Estándar;12;17;9;23;6;7;24;Alemania;40;Femenino;Tablet;12 Meses
+1810;Premium;14;19;9;23;9;7;24;EEUU;27;Masculino;Ordenador;1 Mes
+1811;Básica;10;23;9;23;6;7;24;EEUU;47;Masculino;Smart TV;6 Meses
+1812;Premium;14;26;9;23;8;7;24;Méjico;50;Masculino;Smartphone;3 Meses
+1813;Estándar;12;30;9;23;8;7;24;Francia;31;Femenino;Smartphone;1 Mes
+1814;Básica;10;7;10;23;10;7;24;Reino Unido;33;Masculino;Smartphone;12 Meses
+1815;Estándar;12;9;10;23;7;7;24;Australia;42;Femenino;Tablet;1 Mes
+1816;Premium;14;12;10;23;7;7;24;;51;Femenino;Ordenador;6 Meses
+1817;Básica;10;13;10;23;8;7;24;Canadá;43;Femenino;Smartphone;3 Meses
+1818;Estándar;12;14;10;23;10;7;24;España;45;Femenino;Smart TV;12 Meses
+1819;Premium;14;19;10;23;7;7;24;Australia;48;Femenino;Tablet;12 Meses
+1820;Básica;10;20;10;23;7;7;24;Francia;48;Femenino;Smart TV;1 Mes
+1821;Premium;14;22;10;23;8;7;24;Francia;30;Masculino;Smartphone;6 Meses
+1822;Básica;10;24;10;23;9;7;24;Alemania;29;Femenino;Tablet;6 Meses
+1823;Estándar;12;28;10;23;6;7;24;Australia;28;Masculino;Tablet;3 Meses
+1824;Estándar;12;30;10;23;8;7;24;EEUU;46;Femenino;Ordenador;3 Meses
+1825;Básica;10;1;11;23;8;7;24;Reino Unido;45;Masculino;Smart TV;1 Mes
+1826;Premium;14;3;11;23;8;7;24;Canadá;30;Masculino;Tablet;1 Mes
+1827;Básica;10;4;11;23;6;7;24;Canadá;44;Femenino;Ordenador;12 Meses
+1828;Estándar;12;5;11;23;7;7;24;Australia;46;Masculino;Ordenador;3 Meses
+1829;Premium;14;6;11;23;8;7;24;Alemania;36;Femenino;Tablet;12 Meses
+1830;Básica;10;7;11;23;8;7;24;Canadá;27;Femenino;Smartphone;1 Mes
+1831;Premium;14;5;11;23;5;7;24;Francia;43;Masculino;Ordenador;1 Mes
+1832;Básica;10;5;11;23;9;7;24;Australia;48;Femenino;Smartphone;12 Meses
+1833;Estándar;12;6;11;23;8;7;24;Brasil;36;Femenino;Smartphone;1 Mes
+1834;Estándar;12;3;11;23;7;7;24;Reino Unido;44;Masculino;Smart TV;1 Mes
+1835;Básica;10;22;10;23;6;7;24;Francia;41;Femenino;Tablet;12 Meses
+1836;Premium;14;22;10;23;9;7;24;Australia;29;Femenino;Smart TV;6 Meses
+1837;Básica;10;15;10;23;9;7;24;Australia;28;Femenino;Smartphone;3 Meses
+1838;Estándar;12;24;9;23;7;7;24;Italia;36;Femenino;Smartphone;12 Meses
+1839;Premium;14;15;9;23;6;7;24;EEUU;36;Femenino;Smart TV;12 Meses
+1840;Básica;10;15;9;23;8;7;24;Italia;40;Masculino;Ordenador;1 Mes
+1841;Premium;14;12;9;23;8;7;24;EEUU;35;Femenino;Tablet;12 Meses
+1842;Básica;10;12;9;23;9;7;24;EEUU;34;Femenino;Smartphone;1 Mes
+1843;Estándar;12;11;9;23;7;7;24;Alemania;46;Masculino;Ordenador;1 Mes
+1844;Estándar;12;11;9;23;8;7;24;Alemania;47;Femenino;Smart TV;1 Mes
+1845;Básica;10;16;8;23;7;7;24;Canadá;32;Femenino;Smartphone;1 Mes
+1846;Premium;14;12;8;23;8;7;24;EEUU;45;Masculino;Smartphone;1 Mes
+1847;Básica;10;2;8;23;7;7;24;EEUU;31;Femenino;Smartphone;6 Meses
+1848;Estándar;12;1;8;23;10;7;24;Francia;49;Masculino;Ordenador;1 Mes
+1849;Premium;14;29;7;23;7;7;24;EEUU;33;Femenino;Smartphone;1 Mes
+1850;Básica;10;28;7;23;8;7;24;Reino Unido;30;Masculino;Smartphone;3 Meses
+1851;Premium;14;25;7;23;8;7;24;EEUU;48;Femenino;Ordenador;1 Mes
+1852;Básica;10;20;7;23;10;7;24;Reino Unido;49;Femenino;Tablet;6 Meses
+1853;Estándar;12;16;7;23;8;7;24;EEUU;43;Masculino;Ordenador;1 Mes
+1854;Estándar;12;16;7;23;8;7;24;Canadá;46;Femenino;Ordenador;12 Meses
+1855;Básica;10;15;7;23;7;7;24;Australia;33;Masculino;Smartphone;1 Mes
+1856;Premium;14;13;7;23;9;7;24;Australia;31;Femenino;Smartphone;6 Meses
+1857;Básica;10;6;7;23;7;7;24;Alemania;44;Femenino;Smart TV;1 Mes
+1858;Estándar;12;3;7;23;9;7;24;Reino Unido;34;Masculino;Smart TV;1 Mes
+1859;Premium;14;4;7;23;7;7;24;Francia;41;Masculino;Ordenador;3 Meses
+1860;Básica;10;3;7;23;9;7;24;Australia;42;Masculino;Ordenador;12 Meses
+1861;Premium;14;3;7;23;7;7;24;Alemania;38;Femenino;Ordenador;1 Mes
+1862;Básica;10;4;7;23;10;7;24;;31;Femenino;Tablet;1 Mes
+1863;Estándar;12;5;7;23;6;7;24;EEUU;35;Femenino;Smartphone;3 Meses
+1864;Estándar;12;7;7;23;8;7;24;Australia;32;Masculino;Smartphone;1 Mes
+1865;Básica;10;8;7;23;7;7;24;Francia;39;Masculino;Smartphone;3 Meses
+1866;Premium;14;13;7;23;10;7;24;Brasil;42;Masculino;Ordenador;3 Meses
+1867;Básica;10;15;7;23;6;7;24;EEUU;31;Masculino;Tablet;3 Meses
+1868;Estándar;12;1;8;23;8;7;24;Italia;38;Masculino;Tablet;1 Mes
+1869;Premium;14;11;8;23;8;7;24;EEUU;48;Masculino;Smart TV;1 Mes
+1870;Básica;10;13;8;23;9;7;24;Australia;29;Masculino;Tablet;3 Meses
+1871;Básica;10;15;8;23;6;7;24;Reino Unido;43;Femenino;Smart TV;3 Meses
+1872;Básica;10;16;8;23;8;7;24;Alemania;49;Femenino;Smartphone;3 Meses
+1873;Estándar;12;18;8;23;8;7;24;Canadá;50;Masculino;Smartphone;1 Mes
+1874;Premium;14;25;8;23;9;7;24;EEUU;50;Masculino;Smartphone;3 Meses
+1875;Básica;10;29;8;23;6;7;24;Reino Unido;51;Masculino;Smart TV;1 Mes
+1876;Básica;10;4;9;23;9;7;24;Alemania;29;Masculino;Tablet;3 Meses
+1877;Premium;14;13;9;23;7;7;24;Italia;50;Femenino;Smartphone;3 Meses
+1878;Estándar;12;14;9;23;8;7;24;España;39;Femenino;Tablet;6 Meses
+1879;Estándar;12;17;9;23;6;7;24;Canadá;27;Femenino;Smart TV;12 Meses
+1880;Básica;10;18;9;23;10;7;24;España;29;Masculino;Smart TV;3 Meses
+1881;Premium;14;23;9;23;7;7;24;Francia;28;Masculino;Tablet;1 Mes
+1882;Estándar;12;27;9;23;8;7;24;Reino Unido;46;Masculino;Smartphone;1 Mes
+1883;Básica;10;4;10;23;8;7;24;Francia;50;Femenino;Tablet;3 Meses
+1884;Estándar;12;9;10;23;11;7;24;EEUU;33;Femenino;Tablet;3 Meses
+1885;Premium;14;10;10;23;7;7;24;España;32;Femenino;Tablet;3 Meses
+1886;Básica;10;11;10;23;8;7;24;Canadá;38;Masculino;Smart TV;6 Meses
+1887;Premium;14;13;10;23;9;7;24;;49;Masculino;Smart TV;6 Meses
+1888;Estándar;12;15;10;23;10;7;24;Canadá;50;Masculino;Ordenador;3 Meses
+1889;Básica;10;20;10;23;7;7;24;Canadá;37;Femenino;Ordenador;1 Mes
+1890;Estándar;12;21;10;23;8;7;24;Reino Unido;33;Femenino;Ordenador;1 Mes
+1891;Premium;14;23;10;23;9;7;24;Italia;33;Femenino;Tablet;6 Meses
+1892;Básica;10;25;10;23;9;7;24;Canadá;46;Masculino;Smartphone;1 Mes
+1893;Estándar;12;27;10;23;7;7;24;EEUU;28;Masculino;Smartphone;6 Meses
+1894;Premium;14;30;10;23;8;7;24;EEUU;33;Masculino;Tablet;12 Meses
+1895;Básica;10;1;11;23;9;7;24;Italia;45;Masculino;Ordenador;3 Meses
+1896;Premium;14;2;11;23;9;7;24;Reino Unido;43;Masculino;Ordenador;1 Mes
+1897;Básica;10;4;11;23;6;7;24;Reino Unido;49;Femenino;Smartphone;12 Meses
+1898;Estándar;12;6;11;23;7;7;24;Canadá;41;Femenino;Tablet;1 Mes
+1899;Estándar;12;7;11;23;9;7;24;Italia;39;Femenino;Smartphone;12 Meses
+1900;Básica;10;6;11;23;8;7;24;España;45;Femenino;Smartphone;12 Meses
+1901;Premium;14;7;11;23;6;7;24;Francia;38;Masculino;Tablet;1 Mes
+1902;Básica;10;7;11;23;10;7;24;Australia;30;Masculino;Smart TV;1 Mes
+1903;Estándar;12;3;11;23;8;7;24;Brasil;27;Femenino;Smart TV;3 Meses
+1904;Premium;14;3;11;23;8;7;24;Canadá;36;Femenino;Smartphone;6 Meses
+1905;Básica;10;31;10;23;6;7;24;EEUU;36;Femenino;Tablet;1 Mes
+1906;Premium;14;28;10;23;9;7;24;España;28;Masculino;Tablet;1 Mes
+1907;Básica;10;28;9;23;9;7;24;Francia;45;Femenino;Smartphone;3 Meses
+1908;Estándar;12;19;9;23;9;7;24;;41;Masculino;Smartphone;6 Meses
+1909;Estándar;12;16;9;23;8;7;24;Alemania;29;Masculino;Smart TV;3 Meses
+1910;Básica;10;17;9;23;8;7;24;Australia;35;Masculino;Smartphone;1 Mes
+1911;Premium;14;17;9;23;8;7;24;Francia;36;Femenino;Smart TV;1 Mes
+1912;Básica;10;15;9;23;9;7;24;Canadá;41;Masculino;Ordenador;1 Mes
+1913;Estándar;12;14;9;23;8;7;24;Francia;46;Masculino;Tablet;1 Mes
+1914;Premium;14;14;9;23;8;7;24;Canadá;46;Femenino;Tablet;1 Mes
+1915;Básica;10;13;9;23;8;7;24;Italia;42;Masculino;Smartphone;6 Meses
+1916;Premium;14;13;8;23;8;7;24;España;40;Masculino;Tablet;6 Meses
+1917;Básica;10;12;8;23;8;7;24;EEUU;32;Femenino;Tablet;1 Mes
+1918;Estándar;12;7;8;23;10;7;24;Reino Unido;34;Femenino;Smartphone;3 Meses
+1919;Estándar;12;7;8;23;9;7;24;Reino Unido;27;Femenino;Smart TV;1 Mes
+1920;Básica;10;4;8;23;8;7;24;España;38;Masculino;Ordenador;1 Mes
+1921;Premium;14;24;7;23;8;7;24;Australia;34;Femenino;Ordenador;6 Meses
+1922;Básica;10;18;7;23;10;7;24;Reino Unido;28;Masculino;Tablet;12 Meses
+1923;Estándar;12;17;7;23;8;7;24;Australia;48;Masculino;Smartphone;1 Mes
+1924;Premium;14;17;7;23;9;7;24;EEUU;42;Femenino;Ordenador;12 Meses
+1925;Básica;10;14;7;23;8;7;24;Italia;37;Femenino;Smart TV;1 Mes
+1926;Premium;14;6;7;23;10;7;24;Alemania;28;Femenino;Tablet;1 Mes
+1927;Básica;10;7;7;23;8;7;24;Reino Unido;43;Femenino;Smart TV;6 Meses
+1928;Estándar;12;7;7;23;11;7;24;Reino Unido;44;Femenino;Smart TV;6 Meses
+1929;Estándar;12;8;7;23;7;7;24;Alemania;33;Femenino;Smartphone;1 Mes
+1930;Básica;10;7;7;23;9;7;24;Francia;36;Masculino;Smart TV;6 Meses
+1931;Premium;14;8;7;23;7;7;24;Italia;27;Masculino;Tablet;3 Meses
+1932;Básica;10;9;7;23;11;7;24;EEUU;41;Masculino;Tablet;1 Mes
+1933;Estándar;12;9;7;23;7;7;24;Alemania;32;Masculino;Smart TV;1 Mes
+1934;Premium;14;9;7;23;8;7;24;Francia;36;Femenino;Ordenador;3 Meses
+1935;Básica;10;12;7;23;7;7;24;Reino Unido;36;Femenino;Tablet;6 Meses
+1936;Premium;14;15;7;23;10;7;24;Italia;36;Masculino;Ordenador;3 Meses
+1937;Básica;10;16;7;23;7;7;24;Canadá;32;Masculino;Smart TV;1 Mes
+1938;Estándar;12;18;7;23;8;7;24;Francia;45;Femenino;Smartphone;1 Mes
+1939;Estándar;12;13;8;23;9;7;24;Canadá;43;Femenino;Tablet;12 Meses
+1940;Básica;10;14;8;23;10;7;24;España;35;Masculino;Tablet;1 Mes
+1941;Premium;14;16;8;23;7;7;24;Brasil;29;Femenino;Smart TV;1 Mes
+1942;Básica;10;17;8;23;8;7;24;Reino Unido;33;Femenino;Smart TV;6 Meses
+1943;Estándar;12;25;8;23;8;7;24;Italia;49;Masculino;Smart TV;12 Meses
+1944;Premium;14;28;8;23;9;7;24;España;27;Masculino;Tablet;6 Meses
+1945;Básica;10;29;8;23;7;7;24;España;39;Femenino;Smart TV;1 Mes
+1946;Básica;10;11;9;23;10;7;24;Alemania;34;Femenino;Smart TV;3 Meses
+1947;Básica;10;12;9;23;8;7;24;Canadá;39;Masculino;Smartphone;1 Mes
+1948;Estándar;12;16;9;23;9;7;24;Francia;39;Femenino;Ordenador;1 Mes
+1949;Premium;14;17;9;23;9;7;24;Australia;39;Femenino;Smart TV;1 Mes
+1950;Básica;10;21;9;23;10;7;24;Canadá;40;Femenino;Ordenador;6 Meses
+1951;Básica;10;23;9;23;8;7;24;Francia;40;Masculino;Tablet;1 Mes
+1952;Premium;14;27;9;23;8;7;24;Alemania;31;Masculino;Smartphone;6 Meses
+1953;Estándar;12;9;10;23;9;7;24;Italia;47;Masculino;Smartphone;3 Meses
+1954;Estándar;12;10;10;23;11;7;24;España;43;Masculino;Ordenador;6 Meses
+1955;Básica;10;11;10;23;8;7;24;Canadá;34;Masculino;Smartphone;1 Mes
+1956;Premium;14;12;10;23;8;7;24;Australia;30;Femenino;Tablet;1 Mes
+1957;Estándar;12;13;10;23;9;7;24;Reino Unido;33;Femenino;Smartphone;12 Meses
+1958;Básica;10;19;10;23;10;7;24;EEUU;29;Masculino;Tablet;6 Meses
+1959;Estándar;12;21;10;23;7;7;24;EEUU;35;Femenino;Smartphone;12 Meses
+1960;Premium;14;23;10;23;8;7;24;EEUU;41;Femenino;Ordenador;3 Meses
+1961;Básica;10;24;10;23;10;7;24;Reino Unido;34;Femenino;Smartphone;6 Meses
+1962;Premium;14;26;10;23;9;7;24;Alemania;28;Femenino;Tablet;3 Meses
+1963;Estándar;12;27;10;23;7;7;24;Reino Unido;31;Masculino;Smart TV;6 Meses
+1964;Básica;10;1;11;23;8;7;24;Australia;29;Masculino;Smart TV;3 Meses
+1965;Estándar;12;2;11;23;9;7;24;Reino Unido;44;Femenino;Tablet;6 Meses
+1966;Premium;14;4;11;23;9;7;24;Italia;44;Femenino;Tablet;1 Mes
+1967;Básica;10;5;11;23;6;7;24;EEUU;29;Masculino;Ordenador;3 Meses
+1968;Estándar;12;6;11;23;9;7;24;Francia;32;Femenino;Tablet;6 Meses
+1969;Premium;14;7;11;23;9;7;24;Australia;31;Masculino;Smartphone;1 Mes
+1970;Básica;10;8;11;23;8;7;24;EEUU;27;Masculino;Ordenador;1 Mes
+1971;Premium;14;8;11;23;6;7;24;Reino Unido;43;Femenino;Ordenador;6 Meses
+1972;Básica;10;9;11;23;10;7;24;Francia;48;Masculino;Tablet;1 Mes
+1973;Estándar;12;9;11;23;9;7;24;Australia;37;Femenino;Tablet;1 Mes
+1974;Estándar;12;5;11;23;8;7;24;Francia;42;Masculino;Smartphone;1 Mes
+1975;Básica;10;4;11;23;7;7;24;Australia;40;Masculino;Tablet;6 Meses
+1976;Premium;14;19;10;23;9;7;24;Alemania;37;Femenino;Tablet;6 Meses
+1977;Básica;10;12;10;23;9;7;24;Reino Unido;31;Masculino;Smartphone;1 Mes
+1978;Estándar;12;3;10;23;9;7;24;EEUU;30;Masculino;Smart TV;3 Meses
+1979;Premium;14;28;9;23;8;7;24;Australia;51;Femenino;Smartphone;12 Meses
+1980;Básica;10;17;9;23;9;7;24;Brasil;42;Femenino;Ordenador;6 Meses
+1981;Premium;14;16;9;23;8;7;24;EEUU;37;Femenino;Smartphone;3 Meses
+1982;Básica;10;15;9;23;9;7;24;Brasil;44;Femenino;Smartphone;12 Meses
+1983;Estándar;12;14;9;23;8;7;24;Alemania;37;Masculino;Tablet;3 Meses
+1984;Estándar;12;15;9;23;9;7;24;Canadá;44;Masculino;Smartphone;3 Meses
+1985;Básica;10;6;9;23;9;7;24;Australia;40;Masculino;Tablet;1 Mes
+1986;Premium;14;28;8;23;9;7;24;EEUU;27;Masculino;Smart TV;6 Meses
+1987;Básica;10;7;8;23;8;7;24;Francia;31;Masculino;Smart TV;1 Mes
+1988;Estándar;12;7;8;23;10;7;24;Australia;39;Femenino;Smartphone;6 Meses
+1989;Premium;14;6;8;23;9;7;24;EEUU;47;Femenino;Tablet;6 Meses
+1990;Básica;10;30;7;23;9;7;24;Australia;30;Masculino;Smart TV;1 Mes
+1991;Premium;14;30;7;23;8;7;24;Alemania;35;Masculino;Ordenador;1 Mes
+1992;Básica;10;30;7;23;10;7;24;Italia;39;Masculino;Smartphone;3 Meses
+1993;Estándar;12;19;7;23;8;7;24;Italia;29;Femenino;Tablet;3 Meses
+1994;Estándar;12;17;7;23;10;7;24;Australia;28;Masculino;Ordenador;1 Mes
+1995;Básica;10;12;7;23;8;7;24;EEUU;39;Masculino;Tablet;1 Mes
+1996;Premium;14;11;7;23;10;7;24;Australia;34;Masculino;Smart TV;1 Mes
+1997;Básica;10;10;7;23;8;7;24;Brasil;47;Masculino;Smart TV;1 Mes
+1998;Estándar;12;10;7;23;11;7;24;España;47;Femenino;Smart TV;6 Meses
+1999;Premium;14;8;7;23;8;7;24;Méjico;46;Masculino;Smart TV;1 Mes
+2000;Básica;10;9;7;23;9;7;24;Canadá;31;Masculino;Smart TV;1 Mes
+2001;Premium;14;9;7;23;8;7;24;Alemania;41;Femenino;Smart TV;3 Meses
+2002;Básica;10;9;7;23;11;7;24;Méjico;30;Femenino;Smartphone;12 Meses
+2003;Estándar;12;10;7;23;8;7;24;Australia;41;Masculino;Tablet;12 Meses
+2004;Estándar;12;12;7;23;8;7;24;Francia;48;Femenino;Ordenador;3 Meses
+2005;Básica;10;13;7;23;9;7;24;Francia;35;Femenino;Ordenador;12 Meses
+2006;Premium;14;16;7;23;10;7;24;EEUU;41;Femenino;Ordenador;12 Meses
+2007;Básica;10;17;7;23;7;7;24;Brasil;39;Femenino;Smart TV;1 Mes
+2008;Estándar;12;26;7;23;9;7;24;Francia;45;Masculino;Ordenador;6 Meses
+2009;Premium;14;31;7;23;9;7;24;Australia;41;Masculino;Ordenador;1 Mes
+2010;Básica;10;3;8;23;10;7;24;EEUU;28;Masculino;Ordenador;3 Meses
+2011;Premium;14;15;8;23;7;7;24;España;28;Femenino;Tablet;1 Mes
+2012;Básica;10;18;8;23;10;7;24;Australia;48;Masculino;Smart TV;1 Mes
+2013;Estándar;12;27;8;23;8;7;24;Reino Unido;40;Femenino;Smart TV;12 Meses
+2014;Estándar;12;29;8;23;10;7;24;Méjico;39;Masculino;Smart TV;3 Meses
+2015;Básica;10;5;9;23;7;7;24;Australia;27;Masculino;Smartphone;1 Mes
+2016;Premium;14;6;9;23;11;7;24;Canadá;32;Femenino;Smart TV;3 Meses
+2017;Básica;10;14;9;23;8;7;24;España;38;Masculino;Ordenador;1 Mes
+2018;Estándar;12;16;9;23;9;7;24;Canadá;41;Femenino;Ordenador;12 Meses
+2019;Premium;14;18;9;23;10;7;24;Francia;32;Femenino;Ordenador;1 Mes
+2020;Básica;10;23;9;23;11;7;24;Canadá;37;Masculino;Tablet;1 Mes
+2021;Básica;10;25;9;23;8;7;24;Italia;50;Femenino;Ordenador;1 Mes
+2022;Básica;10;6;10;23;9;7;24;EEUU;48;Femenino;Ordenador;3 Meses
+2023;Estándar;12;9;10;23;10;7;24;Italia;37;Masculino;Tablet;1 Mes
+2024;Premium;14;11;10;23;11;7;24;EEUU;46;Femenino;Ordenador;1 Mes
+2025;Básica;10;12;10;23;8;7;24;;46;Masculino;Ordenador;1 Mes
+2026;Básica;10;13;10;23;9;7;24;Alemania;39;Masculino;Smart TV;1 Mes
+2027;Premium;14;17;10;23;10;7;24;Francia;42;Femenino;Smart TV;3 Meses
+2028;Estándar;12;19;10;23;10;7;24;Alemania;41;Femenino;Smartphone;1 Mes
+2029;Estándar;12;21;10;23;7;7;24;Francia;28;Masculino;Smart TV;3 Meses
+2030;Básica;10;23;10;23;9;7;24;Reino Unido;43;Masculino;Tablet;1 Mes
+2031;Premium;14;25;10;23;10;7;24;EEUU;45;Femenino;Smart TV;1 Mes
+2032;Estándar;12;27;10;23;9;7;24;EEUU;45;Masculino;Smart TV;6 Meses
+2033;Básica;10;31;10;23;7;7;24;Reino Unido;48;Masculino;Smartphone;1 Mes
+2034;Estándar;12;2;11;23;9;7;24;Canadá;30;Masculino;Ordenador;3 Meses
+2035;Premium;14;4;11;23;10;7;24;EEUU;51;Femenino;Smart TV;12 Meses
+2036;Básica;10;5;11;23;9;7;24;Canadá;48;Femenino;Smartphone;6 Meses
+2037;Premium;14;6;11;23;7;7;24;Canadá;41;Femenino;Smart TV;1 Mes
+2038;Estándar;12;7;11;23;10;7;24;EEUU;37;Femenino;Smartphone;1 Mes
+2039;Básica;10;8;11;23;9;7;24;Italia;43;Masculino;Ordenador;1 Mes
+2040;Estándar;12;8;11;23;8;7;24;;51;Masculino;Ordenador;3 Meses
+2041;Premium;14;9;11;23;7;7;24;Italia;34;Femenino;Smartphone;6 Meses
+2042;Básica;10;9;11;23;10;7;24;Francia;35;Femenino;Smartphone;12 Meses
+2043;Estándar;12;5;11;23;9;7;24;EEUU;45;Femenino;Smart TV;1 Mes
+2044;Premium;14;5;11;23;10;7;24;EEUU;31;Masculino;Smart TV;1 Mes
+2045;Básica;10;2;11;23;8;7;24;Alemania;50;Femenino;Ordenador;1 Mes
+2046;Premium;14;30;10;23;9;7;24;;41;Masculino;Smartphone;6 Meses
+2047;Básica;10;30;10;23;9;7;24;Italia;42;Femenino;Ordenador;1 Mes
+2048;Estándar;12;24;10;23;9;7;24;EEUU;41;Masculino;Tablet;12 Meses
+2049;Estándar;12;8;10;23;8;7;24;EEUU;34;Masculino;Tablet;1 Mes
+2050;Básica;10;4;10;23;9;7;24;Canadá;35;Femenino;Smartphone;12 Meses
+2051;Premium;14;28;9;23;9;7;24;Alemania;48;Masculino;Smartphone;3 Meses
+2052;Básica;10;22;9;23;9;7;24;Australia;39;Femenino;Smart TV;1 Mes
+2053;Estándar;12;19;9;23;9;7;24;Australia;37;Femenino;Ordenador;6 Meses
+2054;Premium;14;13;9;23;9;7;24;Canadá;31;Masculino;Tablet;6 Meses
+2055;Básica;10;5;9;23;9;7;24;Italia;29;Femenino;Ordenador;1 Mes
+2056;Premium;14;20;8;23;9;7;24;Italia;36;Masculino;Tablet;6 Meses
+2057;Básica;10;10;8;23;8;7;24;EEUU;32;Masculino;Smartphone;12 Meses
+2058;Estándar;12;10;8;23;11;7;24;Australia;31;Femenino;Smartphone;3 Meses
+2059;Estándar;12;6;8;23;9;7;24;Australia;31;Masculino;Ordenador;1 Mes
+2060;Básica;10;3;8;23;10;7;24;Australia;29;Masculino;Smart TV;12 Meses
+2061;Premium;14;1;8;23;9;7;24;Francia;48;Masculino;Smart TV;3 Meses
+2062;Básica;10;28;7;23;10;7;24;EEUU;46;Masculino;Tablet;1 Mes
+2063;Estándar;12;22;7;23;9;7;24;Australia;35;Femenino;Smartphone;12 Meses
+2064;Premium;14;22;7;23;11;7;24;Reino Unido;37;Femenino;Tablet;6 Meses
+2065;Básica;10;20;7;23;9;7;24;Australia;45;Femenino;Tablet;3 Meses
+2066;Premium;14;12;7;23;10;7;24;España;48;Femenino;Ordenador;1 Mes
+2067;Básica;10;12;7;23;9;7;24;EEUU;44;Femenino;Ordenador;3 Meses
+2068;Estándar;12;10;7;23;11;7;24;Canadá;47;Femenino;Ordenador;6 Meses
+2069;Estándar;12;11;7;23;8;7;24;Italia;35;Masculino;Smart TV;6 Meses
+2070;Básica;10;11;7;23;9;7;24;Canadá;35;Femenino;Smartphone;6 Meses
+2071;Premium;14;9;7;23;8;7;24;EEUU;35;Masculino;Smartphone;1 Mes
+2072;Básica;10;10;7;23;11;7;24;EEUU;49;Femenino;Ordenador;1 Mes
+2073;Estándar;12;12;7;23;8;7;24;;50;Femenino;Tablet;1 Mes
+2074;Premium;14;13;7;23;9;7;24;Brasil;44;Masculino;Smartphone;1 Mes
+2075;Básica;10;15;7;23;9;7;24;Alemania;47;Femenino;Tablet;6 Meses
+2076;Premium;14;16;7;23;11;7;24;EEUU;46;Femenino;Ordenador;12 Meses
+2077;Básica;10;19;7;23;8;7;24;Alemania;39;Femenino;Ordenador;12 Meses
+2078;Estándar;12;23;7;23;10;7;24;Francia;34;Masculino;Ordenador;1 Mes
+2079;Estándar;12;28;7;23;9;7;24;Canadá;31;Femenino;Smart TV;3 Meses
+2080;Básica;10;14;8;23;11;7;24;Alemania;46;Femenino;Ordenador;1 Mes
+2081;Premium;14;18;8;23;8;7;24;Canadá;30;Masculino;Smart TV;3 Meses
+2082;Básica;10;23;8;23;12;7;24;Australia;29;Masculino;Tablet;6 Meses
+2083;Estándar;12;27;8;23;9;7;24;Reino Unido;42;Masculino;Tablet;6 Meses
+2084;Premium;14;1;9;23;10;7;24;;27;Femenino;Smartphone;1 Mes
+2085;Básica;10;2;9;23;9;7;24;Australia;33;Masculino;Ordenador;6 Meses
+2086;Premium;14;4;9;23;12;7;24;Italia;45;Femenino;Smart TV;3 Meses
+2087;Básica;10;11;9;23;9;7;24;Francia;50;Masculino;Tablet;6 Meses
+2088;Estándar;12;16;9;23;9;7;24;Francia;42;Femenino;Tablet;3 Meses
+2089;Estándar;12;19;9;23;11;7;24;EEUU;29;Masculino;Tablet;1 Mes
+2090;Básica;10;20;9;23;12;7;24;Reino Unido;31;Femenino;Tablet;12 Meses
+2091;Premium;14;5;10;23;9;7;24;;42;Femenino;Smartphone;6 Meses
+2092;Básica;10;7;10;23;9;7;24;Francia;44;Femenino;Ordenador;12 Meses
+2093;Estándar;12;10;10;23;11;7;24;Francia;34;Masculino;Smart TV;12 Meses
+2094;Premium;14;12;10;23;11;7;24;Alemania;40;Femenino;Smart TV;1 Mes
+2095;Básica;10;13;10;23;8;7;24;;38;Masculino;Smart TV;6 Meses
+2096;Básica;10;15;10;23;9;7;24;Australia;42;Femenino;Tablet;12 Meses
+2097;Básica;10;17;10;23;11;7;24;Francia;47;Masculino;Tablet;12 Meses
+2098;Estándar;12;18;10;23;10;7;24;Reino Unido;29;Femenino;Tablet;1 Mes
+2099;Premium;14;20;10;23;8;7;24;Canadá;29;Masculino;Ordenador;1 Mes
+2100;Básica;10;22;10;23;10;7;24;Australia;44;Femenino;Smart TV;12 Meses
+2101;Básica;10;25;10;23;11;7;24;España;31;Masculino;Tablet;1 Mes
+2102;Premium;14;27;10;23;9;7;24;Australia;48;Femenino;Smartphone;3 Meses
+2103;Estándar;12;1;11;23;7;7;24;Méjico;32;Femenino;Ordenador;3 Meses
+2104;Estándar;12;2;11;23;11;7;24;Australia;28;Femenino;Tablet;1 Mes
+2105;Básica;10;4;11;23;10;7;24;Australia;36;Femenino;Smartphone;1 Mes
+2106;Premium;14;6;11;23;9;7;24;Canadá;28;Femenino;Smartphone;6 Meses
+2107;Estándar;12;7;11;23;7;7;24;Francia;32;Femenino;Smart TV;12 Meses
+2108;Básica;10;8;11;23;10;7;24;;50;Femenino;Smartphone;12 Meses
+2109;Estándar;12;9;11;23;10;7;24;Alemania;44;Masculino;Tablet;1 Mes
+2110;Premium;14;10;11;23;10;7;24;Canadá;44;Femenino;Smartphone;12 Meses
+2111;Básica;10;9;11;23;9;7;24;España;47;Masculino;Ordenador;3 Meses
+2112;Premium;14;9;11;23;10;7;24;Canadá;39;Femenino;Smart TV;12 Meses
+2113;Estándar;12;7;11;23;10;7;24;Alemania;44;Femenino;Tablet;12 Meses
+2114;Básica;10;3;11;23;10;7;24;España;84;Femenino;Tablet;6 Meses
+2115;Estándar;12;4;11;23;8;7;24;Australia;31;Femenino;Ordenador;12 Meses
+2116;Premium;14;1;11;23;10;7;24;EEUU;33;Femenino;Tablet;1 Mes
+2117;Básica;10;27;10;23;9;7;24;EEUU;27;Masculino;Ordenador;6 Meses
+2118;Estándar;12;23;10;23;10;7;24;Alemania;34;Masculino;Smart TV;6 Meses
+2119;Premium;14;14;10;23;9;7;24;Australia;48;Masculino;Ordenador;6 Meses
+2120;Básica;10;28;9;23;10;7;24;España;39;Femenino;Smart TV;1 Mes
+2121;Premium;14;25;9;23;9;7;24;EEUU;39;Masculino;Ordenador;3 Meses
+2122;Básica;10;23;9;23;10;7;24;Brasil;48;Femenino;Smart TV;12 Meses
+2123;Estándar;12;23;9;23;9;7;24;Reino Unido;37;Femenino;Tablet;12 Meses
+2124;Estándar;12;14;9;23;11;7;24;Francia;40;Masculino;Ordenador;6 Meses
+2125;Básica;10;5;9;23;9;7;24;;41;Femenino;Smartphone;1 Mes
+2126;Premium;14;13;8;23;9;7;24;Australia;35;Femenino;Smartphone;1 Mes
+2127;Básica;10;12;8;23;9;7;24;Australia;46;Masculino;Smartphone;6 Meses
+2128;Estándar;12;10;8;23;11;7;24;Méjico;28;Femenino;Tablet;12 Meses
+2129;Premium;14;5;8;23;9;7;24;Reino Unido;29;Femenino;Ordenador;1 Mes
+2130;Básica;10;4;8;23;12;7;24;Alemania;46;Femenino;Tablet;3 Meses
+2131;Premium;14;28;7;23;9;7;24;Reino Unido;35;Masculino;Ordenador;3 Meses
+2132;Básica;10;24;7;23;11;7;24;Alemania;27;Masculino;Smart TV;1 Mes
+2133;Estándar;12;22;7;23;9;7;24;;38;Masculino;Ordenador;1 Mes
+2134;Estándar;12;22;7;23;12;7;24;España;43;Masculino;Smart TV;1 Mes
+2135;Básica;10;19;7;23;9;7;24;Brasil;31;Femenino;Smartphone;1 Mes
+2136;Premium;14;17;7;23;10;7;24;Canadá;29;Femenino;Tablet;12 Meses
+2137;Básica;10;16;7;23;9;7;24;Reino Unido;34;Femenino;Tablet;1 Mes
+2138;Estándar;12;12;7;23;12;7;24;Alemania;39;Masculino;Smartphone;1 Mes
+2139;Premium;14;12;7;23;8;7;24;Alemania;34;Femenino;Smartphone;6 Meses
+2140;Básica;10;13;7;23;10;7;24;Australia;51;Masculino;Tablet;3 Meses
+2141;Premium;14;13;7;23;9;7;24;EEUU;47;Femenino;Tablet;12 Meses
+2142;Básica;10;13;7;23;11;7;24;Australia;46;Masculino;Smartphone;6 Meses
+2143;Estándar;12;14;7;23;8;7;24;EEUU;46;Femenino;Smartphone;1 Mes
+2144;Estándar;12;15;7;23;10;7;24;Brasil;47;Femenino;Smartphone;3 Meses
+2145;Básica;10;16;7;23;9;7;24;EEUU;40;Femenino;Smart TV;3 Meses
+2146;Premium;14;18;7;23;11;7;24;Italia;41;Femenino;Tablet;1 Mes
+2147;Básica;10;23;7;23;9;7;24;Francia;30;Femenino;Smartphone;3 Meses
+2148;Estándar;12;25;7;23;11;7;24;Canadá;31;Femenino;Tablet;12 Meses
+2149;Premium;14;30;7;23;9;7;24;Italia;42;Masculino;Smart TV;6 Meses
+2150;Básica;10;6;8;23;11;7;24;Australia;46;Femenino;Tablet;1 Mes
+2151;Premium;14;14;8;23;8;7;24;España;34;Femenino;Smart TV;12 Meses
+2152;Básica;10;23;8;23;12;7;24;Reino Unido;42;Masculino;Ordenador;1 Mes
+2153;Estándar;12;27;8;23;9;7;24;Italia;45;Masculino;Tablet;3 Meses
+2154;Estándar;12;29;8;23;10;7;24;;30;Masculino;Smart TV;1 Mes
+2155;Básica;10;1;9;23;9;7;24;Francia;44;Masculino;Smartphone;3 Meses
+2156;Premium;14;7;9;23;13;7;24;Italia;37;Masculino;Smart TV;6 Meses
+2157;Básica;10;13;9;23;10;7;24;Francia;43;Masculino;Smart TV;3 Meses
+2158;Estándar;12;14;9;23;10;7;24;Italia;46;Masculino;Smartphone;1 Mes
+2159;Premium;14;17;9;23;12;7;24;Canadá;40;Femenino;Tablet;6 Meses
+2160;Básica;10;23;9;23;12;7;24;Australia;45;Femenino;Smartphone;12 Meses
+2161;Premium;14;27;9;23;9;7;24;Brasil;48;Femenino;Smartphone;6 Meses
+2162;Básica;10;3;10;23;10;7;24;Australia;43;Femenino;Tablet;1 Mes
+2163;Estándar;12;10;10;23;11;7;24;Reino Unido;48;Masculino;Smart TV;1 Mes
+2164;Estándar;12;12;10;23;11;7;24;Italia;32;Femenino;Smartphone;12 Meses
+2165;Básica;10;14;10;23;8;7;24;España;38;Masculino;Ordenador;1 Mes
+2166;Premium;14;16;10;23;10;7;24;Australia;50;Masculino;Smartphone;12 Meses
+2167;Básica;10;18;10;23;11;7;24;Australia;33;Femenino;Ordenador;12 Meses
+2168;Estándar;12;20;10;23;10;7;24;;27;Masculino;Smart TV;1 Mes
+2169;Premium;14;22;10;23;8;7;24;Alemania;47;Masculino;Tablet;1 Mes
+2170;Básica;10;25;10;23;10;7;24;Reino Unido;35;Femenino;Smart TV;1 Mes
+2171;Básica;10;26;10;23;11;7;24;Francia;41;Masculino;Tablet;1 Mes
+2172;Básica;10;29;10;23;10;7;24;Francia;39;Femenino;Smart TV;12 Meses
+2173;Estándar;12;31;10;23;7;7;24;Reino Unido;46;Femenino;Smartphone;1 Mes
+2174;Premium;14;4;11;23;11;7;24;Canadá;33;Femenino;Smartphone;12 Meses
+2175;Básica;10;6;11;23;10;7;24;EEUU;30;Masculino;Ordenador;3 Meses
+2176;Básica;10;7;11;23;10;7;24;Alemania;46;Masculino;Tablet;1 Mes
+2177;Premium;14;8;11;23;9;7;24;Alemania;42;Femenino;Tablet;3 Meses
+2178;Estándar;12;9;11;23;11;7;24;España;28;Femenino;Tablet;1 Mes
+2179;Estándar;12;10;11;23;10;7;24;EEUU;40;Masculino;Smart TV;1 Mes
+2180;Básica;10;10;11;23;10;7;24;Canadá;31;Femenino;Smart TV;12 Meses
+2181;Premium;14;10;11;23;9;7;24;Alemania;27;Masculino;Ordenador;1 Mes
+2182;Estándar;12;9;11;23;10;7;24;Francia;45;Femenino;Tablet;6 Meses
+2183;Básica;10;9;11;23;10;7;24;Italia;49;Femenino;Smart TV;3 Meses
+2184;Estándar;12;6;11;23;11;7;24;;28;Masculino;Tablet;1 Mes
+2185;Premium;14;3;11;23;8;7;24;Italia;33;Masculino;Smart TV;12 Meses
+2186;Básica;10;27;10;23;11;7;24;Canadá;38;Masculino;Smart TV;12 Meses
+2187;Premium;14;28;10;23;10;7;24;España;44;Masculino;Tablet;6 Meses
+2188;Estándar;12;18;10;23;10;7;24;EEUU;34;Femenino;Ordenador;1 Mes
+2189;Básica;10;4;10;23;9;7;24;Australia;35;Masculino;Ordenador;1 Mes
+2190;Estándar;12;29;9;23;10;7;24;Australia;47;Masculino;Tablet;1 Mes
+2191;Premium;14;29;9;23;10;7;24;;30;Masculino;Smartphone;12 Meses
+2192;Básica;10;23;9;23;10;7;24;EEUU;50;Femenino;Smart TV;3 Meses
+2193;Estándar;12;17;9;23;9;7;24;Reino Unido;32;Masculino;Ordenador;1 Mes
+2194;Premium;14;12;9;23;12;7;24;Italia;36;Femenino;Smart TV;12 Meses
+2195;Básica;10;16;8;23;10;7;24;España;40;Femenino;Smart TV;12 Meses
+2196;Premium;14;16;8;23;9;7;24;España;39;Masculino;Smartphone;1 Mes
+2197;Básica;10;13;8;23;10;7;24;;28;Masculino;Smartphone;1 Mes
+2198;Estándar;12;12;8;23;11;7;24;EEUU;29;Femenino;Smart TV;6 Meses
+2199;Estándar;12;13;8;23;9;7;24;España;49;Masculino;Tablet;12 Meses
+2200;Básica;10;30;7;23;12;7;24;Alemania;40;Masculino;Ordenador;12 Meses
+2201;Premium;14;25;7;23;10;7;24;Francia;29;Masculino;Ordenador;1 Mes
+2202;Básica;10;25;7;23;11;7;24;Reino Unido;35;Femenino;Tablet;1 Mes
+2203;Estándar;12;26;7;23;10;7;24;Alemania;44;Masculino;Smartphone;1 Mes
+2204;Premium;14;25;7;23;13;7;24;;39;Masculino;Smart TV;1 Mes
+2205;Básica;10;23;7;23;9;7;24;España;27;Masculino;Smart TV;12 Meses
+2206;Premium;14;18;7;23;11;7;24;Australia;31;Masculino;Smart TV;1 Mes
+2207;Básica;10;13;7;23;10;7;24;EEUU;39;Femenino;Ordenador;1 Mes
+2208;Estándar;12;13;7;23;12;7;24;Australia;44;Masculino;Ordenador;1 Mes
+2209;Estándar;12;13;7;23;9;7;24;Australia;48;Femenino;Tablet;6 Meses
+2210;Básica;10;13;7;23;11;7;24;Reino Unido;27;Masculino;Smartphone;1 Mes
+2211;Premium;14;13;7;23;9;7;24;Canadá;27;Masculino;Ordenador;6 Meses
+2212;Básica;10;14;7;23;11;7;24;Australia;41;Masculino;Smart TV;6 Meses
+2213;Estándar;12;15;7;23;9;7;24;Francia;44;Femenino;Tablet;1 Mes
+2214;Premium;14;16;7;23;12;7;24;Alemania;29;Femenino;Tablet;3 Meses
+2215;Básica;10;18;7;23;9;7;24;España;42;Femenino;Smartphone;1 Mes
+2216;Premium;14;21;7;23;11;7;24;Canadá;45;Femenino;Smart TV;1 Mes
+2217;Básica;10;24;7;23;9;7;24;Canadá;39;Femenino;Tablet;12 Meses
+2218;Estándar;12;29;7;23;12;7;24;Brasil;41;Femenino;Tablet;6 Meses
+2219;Estándar;12;6;8;23;10;7;24;Reino Unido;41;Femenino;Ordenador;1 Mes
+2220;Básica;10;11;8;23;11;7;24;Alemania;41;Masculino;Smartphone;1 Mes
+2221;Premium;14;16;8;23;9;7;24;Brasil;47;Femenino;Smart TV;1 Mes
+2222;Básica;10;21;8;23;13;7;24;Alemania;49;Femenino;Smartphone;12 Meses
+2223;Estándar;12;22;8;23;10;7;24;;29;Masculino;Ordenador;3 Meses
+2224;Premium;14;24;8;23;10;7;24;Brasil;33;Masculino;Tablet;6 Meses
+2225;Básica;10;2;9;23;12;7;24;España;45;Femenino;Smart TV;6 Meses
+2226;Premium;14;6;9;23;13;7;24;Italia;41;Femenino;Ordenador;3 Meses
+2227;Básica;10;11;9;23;10;7;24;EEUU;31;Masculino;Ordenador;1 Mes
+2228;Estándar;12;16;9;23;10;7;24;Canadá;51;Masculino;Tablet;1 Mes
+2229;Estándar;12;22;9;23;12;7;24;Canadá;43;Femenino;Smartphone;12 Meses
+2230;Básica;10;26;9;23;12;7;24;;33;Femenino;Ordenador;6 Meses
+2231;Premium;14;2;10;23;9;7;24;EEUU;47;Femenino;Smartphone;1 Mes
+2232;Básica;10;4;10;23;10;7;24;Brasil;40;Femenino;Ordenador;6 Meses
+2233;Estándar;12;9;10;23;12;7;24;Australia;34;Femenino;Smartphone;1 Mes
+2234;Premium;14;11;10;23;11;7;24;Reino Unido;40;Masculino;Tablet;12 Meses
+2235;Básica;10;15;10;23;9;7;24;Australia;38;Masculino;Ordenador;6 Meses
+2236;Premium;14;16;10;23;10;7;24;Canadá;47;Masculino;Smart TV;6 Meses
+2237;Básica;10;18;10;23;11;7;24;España;29;Masculino;Smart TV;3 Meses
+2238;Estándar;12;21;10;23;10;7;24;España;49;Femenino;Smartphone;3 Meses
+2239;Estándar;12;22;10;23;8;7;24;Alemania;40;Masculino;Smart TV;1 Mes
+2240;Básica;10;25;10;23;11;7;24;Australia;51;Femenino;Ordenador;12 Meses
+2241;Premium;14;29;10;23;11;7;24;Reino Unido;51;Femenino;Tablet;3 Meses
+2242;Básica;10;30;10;23;10;7;24;Francia;50;Femenino;Smart TV;1 Mes
+2243;Estándar;12;4;11;23;9;7;24;Reino Unido;47;Femenino;Ordenador;1 Mes
+2244;Premium;14;5;11;23;12;7;24;Méjico;40;Masculino;Smart TV;3 Meses
+2245;Básica;10;7;11;23;10;7;24;Canadá;35;Femenino;Smart TV;1 Mes
+2246;Básica;10;8;11;23;10;7;24;Reino Unido;37;Femenino;Smart TV;1 Mes
+2247;Básica;10;9;11;23;10;7;24;España;30;Masculino;Tablet;3 Meses
+2248;Estándar;12;10;11;23;11;7;24;Italia;47;Femenino;Tablet;12 Meses
+2249;Premium;14;11;11;23;10;7;24;Australia;35;Masculino;Smartphone;6 Meses
+2250;Básica;10;10;11;23;11;7;24;Canadá;33;Masculino;Tablet;6 Meses
+2251;Básica;10;10;11;23;9;7;24;EEUU;51;Femenino;Ordenador;1 Mes
+2252;Premium;14;11;11;23;11;7;24;EEUU;31;Femenino;Tablet;12 Meses
+2253;Estándar;12;7;11;23;11;7;24;EEUU;48;Femenino;Ordenador;1 Mes
+2254;Estándar;12;4;11;23;11;7;24;Australia;40;Masculino;Ordenador;1 Mes
+2255;Básica;10;31;10;23;9;7;24;Reino Unido;41;Femenino;Ordenador;6 Meses
+2256;Premium;14;29;10;23;11;7;24;Canadá;41;Masculino;Ordenador;6 Meses
+2257;Estándar;12;20;10;23;10;7;24;Australia;28;Femenino;Ordenador;12 Meses
+2258;Básica;10;14;10;23;11;7;24;Francia;45;Femenino;Ordenador;1 Mes
+2259;Estándar;12;12;10;23;10;7;24;Australia;32;Femenino;Ordenador;12 Meses
+2260;Premium;14;1;10;23;11;7;24;EEUU;31;Masculino;Tablet;6 Meses
+2261;Básica;10;25;9;23;10;7;24;Francia;40;Femenino;Tablet;12 Meses
+2262;Premium;14;23;9;23;10;7;24;Australia;40;Femenino;Smartphone;12 Meses
+2263;Estándar;12;19;9;23;9;7;24;EEUU;50;Masculino;Tablet;6 Meses
+2264;Básica;10;2;9;23;12;7;24;Italia;41;Masculino;Smartphone;6 Meses
+2265;Estándar;12;30;8;23;10;7;24;Italia;43;Masculino;Tablet;6 Meses
+2266;Premium;14;16;8;23;9;7;24;Reino Unido;43;Masculino;Tablet;1 Mes
+2267;Básica;10;15;8;23;10;7;24;Francia;36;Femenino;Smartphone;6 Meses
+2268;Estándar;12;16;8;23;11;7;24;EEUU;48;Masculino;Smart TV;6 Meses
+2269;Premium;14;1;8;23;10;7;24;EEUU;33;Femenino;Smartphone;1 Mes
+2270;Básica;10;27;7;23;14;7;24;Francia;30;Femenino;Smart TV;3 Meses
+2271;Premium;14;26;7;23;10;7;24;Brasil;37;Femenino;Ordenador;1 Mes
+2272;Básica;10;26;7;23;11;7;24;Australia;49;Masculino;Smart TV;12 Meses
+2273;Estándar;12;27;7;23;11;7;24;EEUU;47;Femenino;Smartphone;6 Meses
+2274;Estándar;12;26;7;23;13;7;24;Reino Unido;45;Femenino;Tablet;1 Mes
+2275;Básica;10;23;7;23;9;7;24;EEUU;50;Masculino;Smart TV;1 Mes
+2276;Premium;14;20;7;23;11;7;24;Australia;36;Masculino;Smartphone;1 Mes
+2277;Básica;10;14;7;23;10;7;24;Alemania;37;Masculino;Smart TV;1 Mes
+2278;Estándar;12;14;7;23;12;7;24;EEUU;38;Femenino;Tablet;12 Meses
+2279;Premium;14;14;7;23;10;7;24;Australia;40;Masculino;Smart TV;1 Mes
+2280;Básica;10;13;7;23;12;7;24;EEUU;38;Femenino;Smart TV;1 Mes
+2281;Premium;14;14;7;23;10;7;24;España;46;Femenino;Tablet;1 Mes
+2282;Básica;10;15;7;23;11;7;24;Australia;40;Femenino;Smartphone;12 Meses
+2283;Estándar;12;16;7;23;10;7;24;Reino Unido;34;Masculino;Smart TV;1 Mes
+2284;Estándar;12;18;7;23;12;7;24;Reino Unido;39;Femenino;Smartphone;12 Meses
+2285;Básica;10;19;7;23;10;7;24;Reino Unido;47;Masculino;Smartphone;1 Mes
+2286;Premium;14;22;7;23;12;7;24;Italia;41;Masculino;Ordenador;1 Mes
+2287;Básica;10;27;7;23;9;7;24;Reino Unido;47;Femenino;Tablet;6 Meses
+2288;Estándar;12;2;8;23;13;7;24;Alemania;50;Masculino;Smartphone;1 Mes
+2289;Premium;14;10;8;23;10;7;24;Francia;31;Masculino;Tablet;12 Meses
+2290;Básica;10;15;8;23;11;7;24;Italia;41;Masculino;Smartphone;6 Meses
+2291;Premium;14;18;8;23;11;7;24;Italia;31;Femenino;Ordenador;1 Mes
+2292;Básica;10;20;8;23;14;7;24;España;41;Femenino;Smart TV;12 Meses
+2293;Estándar;12;23;8;23;11;7;24;Australia;28;Masculino;Tablet;3 Meses
+2294;Estándar;12;24;8;23;10;7;24;Francia;40;Femenino;Smartphone;6 Meses
+2295;Básica;10;30;8;23;13;7;24;Brasil;34;Femenino;Smart TV;6 Meses
+2296;Premium;14;6;9;23;13;7;24;Reino Unido;37;Masculino;Smartphone;1 Mes
+2297;Básica;10;13;9;23;10;7;24;Australia;30;Femenino;Ordenador;6 Meses
+2298;Estándar;12;18;9;23;10;7;24;Francia;32;Masculino;Tablet;12 Meses
+2299;Premium;14;22;9;23;12;7;24;Australia;41;Masculino;Smartphone;3 Meses
+2300;Básica;10;28;9;23;12;7;24;Brasil;42;Femenino;Tablet;6 Meses
+2301;Premium;14;3;10;23;9;7;24;;40;Masculino;Ordenador;1 Mes
+2302;Básica;10;5;10;23;10;7;24;Reino Unido;30;Femenino;Smartphone;3 Meses
+2303;Estándar;12;9;10;23;12;7;24;EEUU;43;Masculino;Ordenador;3 Meses
+2304;Estándar;12;15;10;23;11;7;24;EEUU;31;Femenino;Tablet;1 Mes
+2305;Básica;10;16;10;23;9;7;24;Alemania;45;Masculino;Smartphone;1 Mes
+2306;Premium;14;18;10;23;11;7;24;Canadá;33;Masculino;Smart TV;6 Meses
+2307;Básica;10;19;10;23;12;7;24;Australia;41;Masculino;Smartphone;1 Mes
+2308;Estándar;12;22;10;23;11;7;24;Brasil;37;Masculino;Smart TV;1 Mes
+2309;Premium;14;23;10;23;9;7;24;Brasil;40;Femenino;Smartphone;1 Mes
+2310;Básica;10;29;10;23;12;7;24;EEUU;36;Masculino;Tablet;1 Mes
+2311;Premium;14;30;10;23;11;7;24;Alemania;28;Masculino;Smart TV;6 Meses
+2312;Básica;10;3;11;23;11;7;24;Italia;38;Masculino;Smartphone;1 Mes
+2313;Estándar;12;4;11;23;9;7;24;Australia;36;Femenino;Tablet;3 Meses
+2314;Estándar;12;5;11;23;12;7;24;;47;Femenino;Smart TV;6 Meses
+2315;Básica;10;7;11;23;10;7;24;Italia;35;Femenino;Ordenador;1 Mes
+2316;Premium;14;9;11;23;11;7;24;Francia;29;Femenino;Tablet;6 Meses
+2317;Básica;10;10;11;23;10;7;24;Reino Unido;49;Femenino;Smart TV;12 Meses
+2318;Estándar;12;11;11;23;12;7;24;Canadá;34;Masculino;Smart TV;6 Meses
+2319;Premium;14;11;11;23;11;7;24;España;37;Masculino;Smart TV;6 Meses
+2320;Básica;10;10;11;23;11;7;24;Alemania;50;Masculino;Smart TV;3 Meses
+2321;Básica;10;11;11;23;9;7;24;Reino Unido;38;Masculino;Smart TV;12 Meses
+2322;Básica;10;12;11;23;11;7;24;Australia;37;Femenino;Smart TV;1 Mes
+2323;Estándar;12;7;11;23;11;7;24;Australia;34;Masculino;Ordenador;3 Meses
+2324;Premium;14;4;11;23;11;7;24;EEUU;30;Masculino;Smart TV;1 Mes
+2325;Básica;10;3;11;23;11;7;24;Francia;35;Masculino;Ordenador;3 Meses
+2326;Básica;10;1;11;23;11;7;24;EEUU;39;Masculino;Tablet;3 Meses
+2327;Premium;14;29;10;23;11;7;24;Italia;47;Femenino;Tablet;1 Mes
+2328;Estándar;12;26;10;23;11;7;24;Reino Unido;40;Femenino;Ordenador;1 Mes
+2329;Estándar;12;25;10;23;10;7;24;EEUU;33;Masculino;Smart TV;12 Meses
+2330;Básica;10;22;10;23;13;7;24;Italia;32;Femenino;Smartphone;12 Meses
+2331;Premium;14;16;10;23;10;7;24;Canadá;32;Masculino;Smart TV;1 Mes
+2332;Estándar;12;15;10;23;10;7;24;EEUU;30;Femenino;Smart TV;6 Meses
+2333;Básica;10;19;9;23;11;7;24;EEUU;49;Masculino;Tablet;1 Mes
+2334;Estándar;12;16;9;23;12;7;24;Reino Unido;39;Femenino;Smartphone;1 Mes
+2335;Premium;14;8;9;23;10;7;24;;45;Masculino;Ordenador;12 Meses
+2336;Básica;10;21;8;23;12;7;24;Alemania;43;Masculino;Smartphone;3 Meses
+2337;Premium;14;20;8;23;10;7;24;Reino Unido;41;Masculino;Smartphone;6 Meses
+2338;Estándar;12;10;8;23;11;7;24;Reino Unido;38;Femenino;Tablet;12 Meses
+2339;Básica;10;31;7;23;11;7;24;Francia;34;Femenino;Smartphone;1 Mes
+2340;Estándar;12;30;7;23;14;7;24;Brasil;38;Masculino;Ordenador;1 Mes
+2341;Premium;14;31;7;23;10;7;24;Canadá;48;Masculino;Tablet;3 Meses
+2342;Básica;10;30;7;23;12;7;24;Reino Unido;38;Femenino;Smart TV;1 Mes
+2343;Estándar;12;30;7;23;11;7;24;Australia;34;Femenino;Ordenador;12 Meses
+2344;Premium;14;27;7;23;13;7;24;Italia;44;Femenino;Tablet;3 Meses
+2345;Básica;10;21;7;23;10;7;24;EEUU;39;Masculino;Smartphone;6 Meses
+2346;Premium;14;20;7;23;12;7;24;Canadá;43;Femenino;Smartphone;3 Meses
+2347;Básica;10;16;7;23;10;7;24;Alemania;49;Femenino;Smart TV;3 Meses
+2348;Estándar;12;16;7;23;12;7;24;Reino Unido;48;Femenino;Smart TV;1 Mes
+2349;Estándar;12;14;7;23;11;7;24;Reino Unido;47;Femenino;Tablet;12 Meses
+2350;Básica;10;14;7;23;13;7;24;Alemania;27;Femenino;Ordenador;6 Meses
+2351;Premium;14;15;7;23;10;7;24;Italia;40;Femenino;Smartphone;1 Mes
+2352;Básica;10;16;7;23;12;7;24;Francia;43;Femenino;Smart TV;1 Mes
+2353;Estándar;12;18;7;23;10;7;24;Reino Unido;30;Femenino;Ordenador;1 Mes
+2354;Premium;14;19;7;23;13;7;24;Francia;43;Femenino;Smart TV;12 Meses
+2355;Básica;10;22;7;23;10;7;24;Canadá;49;Masculino;Ordenador;6 Meses
+2356;Premium;14;25;7;23;12;7;24;Alemania;47;Masculino;Smartphone;6 Meses
+2357;Básica;10;26;7;23;11;7;24;EEUU;33;Masculino;Smartphone;1 Mes
+2358;Estándar;12;4;8;23;14;7;24;EEUU;48;Femenino;Smartphone;1 Mes
+2359;Estándar;12;12;8;23;11;7;24;España;31;Masculino;Ordenador;1 Mes
+2360;Básica;10;14;8;23;11;7;24;Australia;30;Masculino;Tablet;3 Meses
+2361;Premium;14;16;8;23;13;7;24;Australia;34;Femenino;Smartphone;12 Meses
+2362;Básica;10;17;8;23;14;7;24;Italia;37;Masculino;Smartphone;6 Meses
+2363;Estándar;12;22;8;23;11;7;24;Alemania;44;Femenino;Smart TV;12 Meses
+2364;Premium;14;26;8;23;11;7;24;Reino Unido;28;Femenino;Smart TV;12 Meses
+2365;Básica;10;6;9;23;13;7;24;España;47;Masculino;Smartphone;1 Mes
+2366;Premium;14;9;9;23;13;7;24;;43;Masculino;Smart TV;1 Mes
+2367;Básica;10;17;9;23;10;7;24;Australia;51;Masculino;Tablet;1 Mes
+2368;Estándar;12;19;9;23;11;7;24;Alemania;50;Masculino;Ordenador;1 Mes
+2369;Estándar;12;24;9;23;13;7;24;Alemania;40;Femenino;Smartphone;1 Mes
+2370;Básica;10;29;9;23;12;7;24;Australia;31;Femenino;Ordenador;1 Mes
+2371;Premium;14;3;10;23;10;7;24;Canadá;29;Femenino;Smartphone;12 Meses
+2372;Básica;10;7;10;23;10;7;24;Italia;38;Femenino;Tablet;6 Meses
+2373;Estándar;12;14;10;23;13;7;24;Australia;47;Masculino;Tablet;1 Mes
+2374;Premium;14;16;10;23;12;7;24;Reino Unido;30;Masculino;Tablet;1 Mes
+2375;Básica;10;18;10;23;10;7;24;España;42;Masculino;Ordenador;1 Mes
+2376;Premium;14;19;10;23;12;7;24;España;49;Masculino;Smart TV;6 Meses
+2377;Básica;10;20;10;23;12;7;24;Australia;50;Femenino;Tablet;12 Meses
+2378;Estándar;12;22;10;23;11;7;24;;51;Masculino;Smart TV;12 Meses
+2379;Estándar;12;25;10;23;9;7;24;Reino Unido;47;Masculino;Smartphone;1 Mes
+2380;Básica;10;27;10;23;12;7;24;Canadá;36;Femenino;Smartphone;3 Meses
+2381;Premium;14;30;10;23;11;7;24;Brasil;30;Femenino;Ordenador;1 Mes
+2382;Básica;10;1;11;23;11;7;24;;34;Femenino;Tablet;1 Mes
+2383;Estándar;12;5;11;23;10;7;24;Australia;35;Femenino;Tablet;1 Mes
+2384;Premium;14;7;11;23;12;7;24;Canadá;30;Masculino;Smart TV;6 Meses
+2385;Básica;10;8;11;23;11;7;24;EEUU;30;Masculino;Tablet;6 Meses
+2386;Premium;14;10;11;23;12;7;24;Canadá;41;Femenino;Smartphone;12 Meses
+2387;Básica;10;11;11;23;10;7;24;EEUU;39;Femenino;Smartphone;1 Mes
+2388;Estándar;12;12;11;23;12;7;24;Brasil;30;Masculino;Tablet;12 Meses
+2389;Estándar;12;11;11;23;12;7;24;España;36;Femenino;Smart TV;6 Meses
+2390;Básica;10;11;11;23;12;7;24;España;33;Femenino;Smartphone;6 Meses
+2391;Premium;14;12;11;23;10;7;24;Francia;35;Femenino;Tablet;6 Meses
+2392;Básica;10;11;11;23;12;7;24;EEUU;46;Masculino;Tablet;6 Meses
+2393;Estándar;12;7;11;23;11;7;24;Alemania;51;Femenino;Tablet;12 Meses
+2394;Premium;14;5;11;23;12;7;24;España;42;Femenino;Smartphone;1 Mes
+2395;Básica;10;2;11;23;11;7;24;EEUU;30;Femenino;Smart TV;12 Meses
+2396;Básica;10;31;10;23;13;7;24;Brasil;45;Masculino;Smartphone;12 Meses
+2397;Básica;10;29;10;23;11;7;24;Reino Unido;27;Masculino;Smartphone;1 Mes
+2398;Estándar;12;25;10;23;11;7;24;;41;Masculino;Smart TV;6 Meses
+2399;Premium;14;23;10;23;10;7;24;EEUU;35;Masculino;Tablet;1 Mes
+2400;Básica;10;17;10;23;13;7;24;Francia;30;Masculino;Ordenador;3 Meses
+2401;Básica;10;16;10;23;11;7;24;Reino Unido;35;Femenino;Ordenador;3 Meses
+2402;Premium;14;5;10;23;11;7;24;EEUU;47;Femenino;Smartphone;3 Meses
+2403;Estándar;12;17;9;23;11;7;24;Italia;41;Masculino;Ordenador;12 Meses
+2404;Estándar;12;17;9;23;12;7;24;EEUU;48;Femenino;Tablet;12 Meses
+2405;Básica;10;6;9;23;11;7;24;Canadá;32;Femenino;Smart TV;6 Meses
+2406;Premium;14;30;8;23;15;7;24;EEUU;35;Femenino;Smart TV;3 Meses
+2407;Estándar;12;29;8;23;11;7;24;Australia;31;Femenino;Smartphone;12 Meses
+2408;Básica;10;25;8;23;13;7;24;EEUU;45;Femenino;Smartphone;6 Meses
+2409;Estándar;12;3;8;23;11;7;24;Australia;38;Femenino;Ordenador;12 Meses
+2410;Premium;14;2;8;23;14;7;24;Italia;34;Masculino;Smartphone;1 Mes
+2411;Básica;10;2;8;23;11;7;24;Alemania;37;Femenino;Smartphone;1 Mes
+2412;Premium;14;1;8;23;13;7;24;EEUU;27;Femenino;Smart TV;1 Mes
+2413;Estándar;12;31;7;23;11;7;24;Alemania;44;Femenino;Tablet;3 Meses
+2414;Básica;10;22;7;23;13;7;24;EEUU;46;Masculino;Smart TV;3 Meses
+2415;Estándar;12;22;7;23;11;7;24;Australia;37;Masculino;Smart TV;1 Mes
+2416;Premium;14;19;7;23;13;7;24;Italia;44;Masculino;Tablet;1 Mes
+2417;Básica;10;17;7;23;11;7;24;Italia;29;Masculino;Smart TV;6 Meses
+2418;Estándar;12;16;7;23;13;7;24;Canadá;28;Femenino;Ordenador;1 Mes
+2419;Premium;14;16;7;23;11;7;24;España;50;Masculino;Smart TV;6 Meses
+2420;Básica;10;16;7;23;13;7;24;Méjico;39;Masculino;Ordenador;1 Mes
+2421;Premium;14;16;7;23;11;7;24;España;34;Femenino;Smart TV;1 Mes
+2422;Básica;10;17;7;23;12;7;24;Australia;40;Masculino;Smart TV;12 Meses
+2423;Estándar;12;19;7;23;11;7;24;Francia;30;Masculino;Ordenador;1 Mes
+2424;Estándar;12;20;7;23;14;7;24;EEUU;41;Femenino;Ordenador;12 Meses
+2425;Básica;10;21;7;23;10;7;24;EEUU;39;Masculino;Tablet;1 Mes
+2426;Premium;14;23;7;23;12;7;24;Canadá;51;Masculino;Smartphone;6 Meses
+2427;Básica;10;3;8;23;14;7;24;Alemania;28;Femenino;Smartphone;1 Mes
+2428;Estándar;12;6;8;23;15;7;24;Méjico;30;Femenino;Tablet;3 Meses
+2429;Premium;14;10;8;23;12;7;24;Australia;30;Femenino;Smartphone;1 Mes
+2430;Básica;10;13;8;23;11;7;24;EEUU;44;Femenino;Tablet;3 Meses
+2431;Premium;14;15;8;23;14;7;24;Reino Unido;29;Femenino;Smart TV;3 Meses
+2432;Básica;10;19;8;23;14;7;24;EEUU;28;Femenino;Tablet;1 Mes
+2433;Estándar;12;22;8;23;11;7;24;Alemania;48;Masculino;Tablet;1 Mes
+2434;Estándar;12;28;8;23;11;7;24;Brasil;42;Femenino;Smart TV;1 Mes
+2435;Básica;10;6;9;23;13;7;24;EEUU;39;Masculino;Smartphone;12 Meses
+2436;Premium;14;16;9;23;13;7;24;Reino Unido;44;Femenino;Smart TV;12 Meses
+2437;Básica;10;18;9;23;11;7;24;Méjico;49;Masculino;Smart TV;12 Meses
+2438;Estándar;12;23;9;23;11;7;24;EEUU;49;Femenino;Smart TV;6 Meses
+2439;Premium;14;28;9;23;13;7;24;EEUU;36;Femenino;Ordenador;1 Mes
+2440;Básica;10;29;9;23;12;7;24;Canadá;50;Femenino;Ordenador;3 Meses
+2441;Premium;14;7;10;23;10;7;24;Canadá;49;Femenino;Smartphone;3 Meses
+2442;Básica;10;8;10;23;12;7;24;Canadá;36;Masculino;Smartphone;3 Meses
+2443;Estándar;12;10;10;23;13;7;24;Francia;28;Femenino;Ordenador;3 Meses
+2444;Estándar;12;14;10;23;12;7;24;Reino Unido;45;Femenino;Smartphone;3 Meses
+2445;Básica;10;16;10;23;10;7;24;Reino Unido;31;Femenino;Smartphone;1 Mes
+2446;Premium;14;18;10;23;12;7;24;Canadá;46;Masculino;Tablet;6 Meses
+2447;Básica;10;21;10;23;12;7;24;Canadá;27;Masculino;Tablet;1 Mes
+2448;Estándar;12;24;10;23;12;7;24;Canadá;43;Masculino;Tablet;3 Meses
+2449;Premium;14;27;10;23;9;7;24;Canadá;51;Femenino;Smart TV;12 Meses
+2450;Básica;10;29;10;23;13;7;24;Reino Unido;47;Femenino;Smartphone;6 Meses
+2451;Premium;14;31;10;23;12;7;24;Alemania;48;Femenino;Tablet;3 Meses
+2452;Básica;10;4;11;23;13;7;24;Australia;31;Femenino;Tablet;12 Meses
+2453;Estándar;12;6;11;23;11;7;24;Australia;48;Femenino;Smartphone;1 Mes
+2454;Estándar;12;8;11;23;13;7;24;Francia;36;Masculino;Smartphone;1 Mes
+2455;Básica;10;9;11;23;11;7;24;Brasil;38;Femenino;Tablet;3 Meses
+2456;Premium;14;11;11;23;13;7;24;Francia;39;Masculino;Smartphone;1 Mes
+2457;Básica;10;12;11;23;10;7;24;Alemania;48;Masculino;Tablet;1 Mes
+2458;Estándar;12;12;11;23;12;7;24;España;30;Femenino;Smart TV;12 Meses
+2459;Premium;14;12;11;23;12;7;24;España;30;Masculino;Smart TV;1 Mes
+2460;Básica;10;12;11;23;13;7;24;Italia;35;Femenino;Smart TV;3 Meses
+2461;Premium;14;13;11;23;12;7;24;Canadá;41;Masculino;Ordenador;6 Meses
+2462;Básica;10;13;11;23;13;7;24;Canadá;40;Femenino;Smart TV;1 Mes
+2463;Estándar;12;12;11;23;11;7;24;Francia;50;Masculino;Smart TV;12 Meses
+2464;Estándar;12;5;11;23;12;7;24;EEUU;42;Femenino;Smartphone;6 Meses
+2465;Básica;10;3;11;23;11;7;24;Reino Unido;30;Masculino;Tablet;12 Meses
+2466;Premium;14;30;10;23;14;7;24;Francia;34;Masculino;Ordenador;1 Mes
+2467;Básica;10;26;10;23;11;7;24;Reino Unido;40;Femenino;Smartphone;6 Meses
+2468;Estándar;12;24;10;23;12;7;24;España;47;Femenino;Smartphone;1 Mes
+2469;Premium;14;24;10;23;11;7;24;Reino Unido;36;Masculino;Ordenador;3 Meses
+2470;Básica;10;20;10;23;13;7;24;Brasil;50;Femenino;Tablet;1 Mes
+2471;Básica;10;17;10;23;11;7;24;Reino Unido;46;Masculino;Smartphone;1 Mes
+2472;Básica;10;29;9;23;14;7;24;EEUU;27;Femenino;Tablet;12 Meses
+2473;Estándar;12;28;9;23;11;7;24;Reino Unido;39;Femenino;Ordenador;12 Meses
+2474;Premium;14;6;9;23;12;7;24;Francia;49;Masculino;Smart TV;6 Meses
+2475;Básica;10;5;9;23;11;7;24;Canadá;37;Femenino;Tablet;6 Meses
+2476;Básica;10;31;8;23;15;7;24;Francia;28;Masculino;Tablet;3 Meses
+2477;Premium;14;30;8;23;12;7;24;Reino Unido;40;Masculino;Ordenador;6 Meses
+2478;Estándar;12;16;8;23;13;7;24;;47;Masculino;Tablet;1 Mes
+2479;Estándar;12;16;8;23;11;7;24;Francia;51;Femenino;Ordenador;12 Meses
+2480;Básica;10;7;8;23;14;7;24;Canadá;47;Masculino;Ordenador;1 Mes
+2481;Premium;14;5;8;23;12;7;24;EEUU;33;Femenino;Ordenador;1 Mes
+2482;Estándar;12;6;8;23;14;7;24;Brasil;37;Femenino;Ordenador;3 Meses
+2483;Básica;10;28;7;23;11;7;24;Canadá;42;Masculino;Ordenador;1 Mes
+2484;Estándar;12;29;7;23;13;7;24;Australia;50;Femenino;Smart TV;3 Meses
+2485;Premium;14;25;7;23;12;7;24;Canadá;47;Femenino;Tablet;1 Mes
+2486;Básica;10;25;7;23;14;7;24;Italia;40;Femenino;Smartphone;3 Meses
+2487;Premium;14;25;7;23;12;7;24;Canadá;35;Masculino;Smart TV;1 Mes
+2488;Estándar;12;18;7;23;13;7;24;EEUU;29;Femenino;Smartphone;3 Meses
+2489;Básica;10;17;7;23;12;7;24;EEUU;48;Femenino;Smartphone;6 Meses
+2490;Estándar;12;17;7;23;15;7;24;Reino Unido;35;Masculino;Smart TV;6 Meses
+2491;Premium;14;18;7;23;11;7;24;Alemania;41;Femenino;Smartphone;3 Meses
+2492;Básica;10;19;7;23;12;7;24;Australia;29;Femenino;Ordenador;1 Mes
+2493;Estándar;12;20;7;23;11;7;24;España;33;Masculino;Smart TV;1 Mes
+2494;Premium;14;21;7;23;15;7;24;Reino Unido;36;Masculino;Smart TV;3 Meses
+2495;Básica;10;23;7;23;12;7;24;Australia;43;Femenino;Ordenador;12 Meses
+2496;Premium;14;25;7;23;12;7;24;EEUU;28;Femenino;Smart TV;12 Meses
+2497;Básica;10;4;8;23;14;7;24;Italia;33;Femenino;Smart TV;3 Meses
+2498;Estándar;12;9;8;23;15;7;24;;38;Masculino;Ordenador;1 Mes
+2499;Estándar;12;12;8;23;12;7;24;Alemania;48;Femenino;Tablet;6 Meses
+2500;Básica;10;13;8;23;12;7;24;Francia;35;Femenino;Smart TV;1 Mes
